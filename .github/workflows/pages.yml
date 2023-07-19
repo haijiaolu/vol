@@ -28,7 +28,7 @@ jobs:
         with:
           version: 6
       - name: Install dependencies
-        run: pnpm --frozen-lockfile
+        run: pnpm install --frozen-lockfile
       - name: Build
         run: pnpm run docs:build
       - uses: actions/configure-pages@v2
