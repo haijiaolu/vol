@@ -35,7 +35,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Detect package manager
-        run: echo "PM=$(jq -r '.packageManager // "npm"' package.json | cut -d '@' -f 1)" >> $GITHUB_ENV
+        # run: echo "PM=$(jq -r '.packageManager // "npm"' package.json | cut -d '@' -f 1)" >> $GITHUB_ENV
+        run: echo "PM=pnpm" >> $GITHUB_ENV
       - name: Install pnpm
         if: env.PM == 'pnpm'
         uses: pnpm/action-setup@v2
