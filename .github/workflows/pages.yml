@@ -40,6 +40,8 @@ jobs:
       - name: Install pnpm
         if: env.PM == 'pnpm'
         uses: pnpm/action-setup@v2
+        with:
+          version: 6
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
