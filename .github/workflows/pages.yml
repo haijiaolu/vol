@@ -2,61 +2,37 @@
 
 name: Deploy VitePress site to Pages
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
+  workflow_dispatch: {}
   push:
-    branches: [ "main" ]
-#   pull_request:
-#     branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-env:
-  # Directory where your VitePress site is
-  VP_ROOT: docs
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# concurrency:
-#   group: pages
-#   cancel-in-progress: true
-  
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    branches:
+      - main
 jobs:
-  # Build job
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Detect package manager
-        # run: echo "PM=$(jq -r '.packageManager // "npm"' package.json | cut -d '@' -f 1)" >> $GITHUB_ENV
-        run: echo "PM=pnpm" >> $GITHUB_ENV
-      - name: Install pnpm
-        if: env.PM == 'pnpm'
-        uses: pnpm/action-setup@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm ci
+      - run: npm test
+      - uses: pnpm/action-setup@v2
         with:
           version: 6
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - name: Build
+        run: pnpm run docs:build
+      - uses: actions/configure-pages@v2
+      - uses: actions/upload-pages-artifact@v1
         with:
-          node-version: lts/*
-          cache: ${{ env.PM }}
-      - name: Setup Pages
-        uses: actions/configure-pages@v1
-      - name: Install dependencies
-        run: ${{ env.PM }} ${{ env.PM == 'npm' && 'ci' || 'install --frozen-lockfile' }}
-      - name: Build site using VitePress
-        run: ${{ env.PM == 'npm' && 'npx --no-install' || env.PM }} vitepress build ${{ env.VP_ROOT }} --base /${{ github.event.repository.name }}/
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ${{ env.VP_ROOT }}/.vitepress/dist
+          path: docs/.vitepress/dist
 
   # Deployment job
   deploy:
