@@ -39,7 +39,7 @@
 
 > [!quote]
 >
-> I want power. Not power over people, but power over nature and the destiny of technology. I just want to know how it all works. —— George Hotz
+> I want power. Not power over people, but power over nature and the destiny of technology. I just want to know how it all works. -- George Hotz
 >
 > 我并不关心金钱,我想拥有权利,不是凌驾于别人之上的权利,而是凌驾于自然和科技命运之上的权利。我只想知道事物的运作规律。
 
@@ -60,7 +60,7 @@
 
 > [!quote]
 >
-> 时间是伟大的工匠。 ——  布丰
+> 时间是伟大的工匠。——布丰
 
 :::
 
@@ -79,7 +79,7 @@ https://book.douban.com/subject/27001165/
 
 > [!quote]
 >
-> 没有测量，就没有科学。 ——门捷列夫 【未知出处】
+> 没有测量，就没有科学。——门捷列夫 【未知出处】
 
 :::
 
@@ -89,7 +89,7 @@ https://book.douban.com/subject/27001165/
 
 > [!quote]
 >
-> 人不能孤独地生活，他需要社会。—— 歌德【未知出处】
+> 人不能孤独地生活，他需要社会。——歌德【未知出处】
 
 :::
 
@@ -114,7 +114,7 @@ https://book.douban.com/subject/27001165/
 
 > [!quote]
 >
-> 世界上好看的脸蛋太多，而有趣的灵魂则太少。 ——奥斯卡·王尔德
+> 世界上好看的脸蛋太多，而有趣的灵魂则太少。——奥斯卡·王尔德
 > 英文版本都搜不到（There are too many good faces in the world, too few interesting souls.）
 
 :::
@@ -127,9 +127,9 @@ https://book.douban.com/subject/27001165/
 >
 > 朝㒵の花一時も千とせふる松の緑もおなじ寿
 >
-> > 1：花开仅刹那，美胜千年松
-> > 2：辰光只开一刻钟，但比千年松，并无甚不同 —— 松永贞德《颂牵牛花》【猫腻《庆余年》中引用】
-> > 3：花开清晨片刻，苍松翠绿千年，寿命却相同
+> > 1：花开仅刹那，美胜千年松。
+> > 2：辰光只开一刻钟，但比千年松，并无甚不同。——松永贞德《颂牵牛花》【猫腻《庆余年》中引用】
+> > 3：花开清晨片刻，苍松翠绿千年，寿命却相同。
 > > :::
 
 ```
@@ -178,7 +178,7 @@ https://www.ne.jp/asahi/kato/yoshio/jisei/jisei-sonota.html
 > [!quote]
 > 法语：Tout ce qu’un homme est capable d’imaginer, d’autres hommes seront capables de le réaliser.
 > 英语：Anything one man can imagine, other men can make real.
-> 汉语：凡人能想像到的事物，必定有人能将它实现。 ——儒勒·凡尔纳。
+> 汉语：凡人能想像到的事物，必定有人能将它实现。——儒勒·凡尔纳。
 
 :::
 
@@ -196,7 +196,7 @@ http://verne.garmtdevries.nl/en/myths/
 
 > [!quote]
 >
-> 我们所听到的不过只是一个观点，而非事实。我们所看到的不过只是一个视角，而非真相。 ——马可·奥勒留《沉思录》
+> 我们所听到的不过只是一个观点，而非事实。我们所看到的不过只是一个视角，而非真相。——马可·奥勒留《沉思录》
 > Everything we hear is a opinion, not a fact. Everything we see is a perspective, not the truth.
 
 :::
@@ -228,7 +228,7 @@ http://ianchadwick.com/blog/nope-thats-not-by-marcus-aurelius/
 > [!quote]
 >
 > History Does Not Repeat Itself, But It Rhymes. -- Mark Twain
-> 历史不会重演，但会押韵。 —— 马克·吐温
+> 历史不会重演，但会押韵。——马克·吐温
 
 :::
 

@@ -48,7 +48,7 @@ I should have known, as I’ve often quoted Phil Karlton’s wise saying “Ther
 > I think it was at lunch with some Netscapers, someone said "Like Phil always says..." (general laughter). He was there.
 ```
 
-#### David Karlton(Phil Karlton 之子)
+#### David Karlton（Phil Karlton 之子）
 
 - 2017, https://skeptics.stackexchange.com/questions/19836/has-phil-karlton-ever-said-there-are-only-two-hard-things-in-computer-science
 ```

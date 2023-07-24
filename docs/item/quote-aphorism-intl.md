@@ -3,7 +3,7 @@
 ## 座右铭
 
 - Pauca sed matura. 宁可少些，但要好些。——[高斯](../wiki/高斯.md)座右铭。
-- Festina lente. 慢慢地，快进。—— [屋大维](../wiki/屋大维.md)（奥古斯都）座右铭
+- Festina lente. 慢慢地，快进。——[屋大维](../wiki/屋大维.md)（奥古斯都）座右铭
 
 ## 哲学
 

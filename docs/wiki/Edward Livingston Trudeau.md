@@ -8,7 +8,7 @@ Edward Livingston Trudeau(1848-1915)，美国医生。
 
 > [!quote]
 >
-> To cure sometimes, to relieve often, to comfort always. —— Edward Livingston Trudeau
+> To cure sometimes, to relieve often, to comfort always. -- Edward Livingston Trudeau
 >
 > > 有时是治愈，常常是帮助，经常是安慰。
 
