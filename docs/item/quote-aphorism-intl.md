@@ -5,6 +5,8 @@
 - Pauca sed matura. 宁可少些，但要好些。——[高斯](../wiki/高斯.md)座右铭。
 - Festina lente. 慢慢地，快进。——[屋大维](../wiki/屋大维.md)（奥古斯都）座右铭
 
+---
+
 ## 哲学
 
 - Cogito,ergo sum. 我思故我在。——[笛卡尔](../wiki/笛卡尔.md)
@@ -28,6 +30,8 @@
 - 太阳底下没有新鲜事。《[旧约圣经](../wiki/旧约圣经.md)》
 - 试观此人。——本丢·彼拉多（出自《[新约圣经](../wiki/新约圣经.md)》）
 
+---
+
 ## 科学
 
 - 在终极的分析中，一切知识都是历史。在抽象的意义下，一切科学都是数学。在理性的基础上，所有的判断都是统计学。——[C.R. Rao](../wiki/C.R.%20Rao.md)
@@ -36,7 +40,9 @@
 - 所有模型都是错的，但其中有些是有用的。——[乔治·博克斯](../wiki/乔治·博克斯.md)（George E. P. Box）
 - 如果说我看得比别人更远些，那是因为我站在巨人的肩膀上。——[艾萨克·牛顿](../wiki/牛顿.md)
 
-### 文学
+---
+
+## 文学
 
 - 一个人要像一支队伍。/ 你要在孤寂中自成一世界。——[提布鲁斯](../wiki/Tibullus.md)
 - 万物皆有裂痕，那是光进来的地方。——[莱昂纳德·科恩](../wiki/莱昂纳德·科恩.md)《Anthem》
@@ -61,10 +67,14 @@
 - 那如幻的灵光逃到哪儿去了？那光荣与梦想，如今到哪儿去了？——[威廉·华兹华斯](../wiki/威廉·华兹华斯.md)《颂诗：忆童年而悟不朽》
 - 除非说出来比不说好，否则千万别开口。——[理查德·耶茨](../wiki/理查德·耶茨.md)《好学校》
 
-### 演讲
+---
+
+## 演讲
 
 - 现在并不是结束，结束甚至还没有开始。但现在可能是序幕的结束。——[丘吉尔](../wiki/丘吉尔.md)，1942
 - 老兵不死，只会慢慢凋零。——[麦克阿瑟](../wiki/麦克阿瑟.md)《国会大厦告别演讲》，1951
+
+---
 
 ## 其他
 
@@ -79,11 +89,13 @@
 - Journalism is ‘the first rough draft of history’. -- [Philip L. Graham](../wiki/Philip%20Graham.md)
   - > “新闻是历史的第一张草稿”
 
-## 其他2
+---
 
-- We can do it！（美国二战期间1943年宣传海报上的标语，用于提升西屋公司（Westinghouse Electric）工人的士气）
-- Keep calm and carry on. (保持冷静，继续前行。) —— 1939年二战期间英国的宣传语之一。
-- "Freedom Is Not Free"/"Freedom isn't free" 美国俗语，相关标语刻在 Korean War Veterans Memorial（1995年建造）
+## 其他 2
+
+- We can do it！（美国二战期间 1943 年宣传海报上的标语，用于提升西屋公司（Westinghouse Electric）工人的士气）
+- Keep calm and carry on. (保持冷静，继续前行。) —— 1939 年二战期间英国的宣传语之一。
+- "Freedom Is Not Free"/"Freedom isn't free" 美国俗语，相关标语刻在 Korean War Veterans Memorial（1995 年建造）
 - Per Aspera Ad Astra. ( "to the stars through difficulty". )
   - 拉丁谚语：循此苦旅，以达天际。/ 颠簸路途通繁星。
   - Harper Lee's "To Kill a Mockingbird"（《杀死一只知更鸟》）等引用

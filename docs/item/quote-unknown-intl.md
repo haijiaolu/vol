@@ -21,6 +21,8 @@
 <https://quoteinvestigator.com/2022/04/26/snowflake/>
 ```
 
+---
+
 ::: warning
 
 > [!warning]
