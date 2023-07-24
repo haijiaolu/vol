@@ -1,0 +1,115 @@
+# Calyampudi Radhakrishna Rao (卡利安普迪·拉达克里希纳·劳, C.R.Rao)
+
+C.R Rao (1920-)，印度统计学家。
+
+### 名言
+
+::: info
+
+> [!quote]
+> All knowledge is, in final analysis, history.
+> All sciences are, in the abstract, mathematics.
+> All judgements are, in their rationale, statistics.
+> ——C.R. Rao
+>
+> > 在终极的分析中，一切知识都是历史。
+> > 在抽象的意义下，一切科学都是数学。
+> > 在理性的基础上，所有的判断都是统计学。
+
+:::
+
+```
+出自：
+C.R. Rao, Statistics and Truth: Putting Chance to Work《统计与真理——怎样运用偶然性》扉页
+
+【英语】
+Knowledge is what we know
+Also, what we know we do not know.
+We discover what we do not know
+Essentially by what we know
+Thus knowledge expands.
+
+With more knowledge we come to know
+More of what we do not know.
+Thus knowledge expands endlessly.
+
+* * *
+
+All knowledge is, in final analysis, history.
+All sciences are, in the abstract, mathematics.
+All judgements are, in their rationale, statistics.
+
+* * *
+
+Uncertain knowledge
+  +
+Knowledge of the amount of uncertainty in it
+  =
+Usable knowledge
+
+---
+
+【汉语】
+
+知识是我们已知的
+也是我们未知的
+基于已有知识之上
+我们去发现未知的
+由此，知识得到扩充
+
+我们获得的知识越多
+未知的知识就会更多
+因而，知识的扩充永无止境
+
+* * *
+
+在终极的分析中，一切知识都是历史
+在抽象的意义下，一切科学都是数学
+在理性的基础上，所有的判断都是统计学
+
+* * *
+
+不确定性知识 + 所含不确定性量度的知识 = 可用的知识
+```
+
+### 附录
+
+- 《统计与真理》序言全文
+
+```
+STATISTICS AND TRUTH: Putting Chance to Work
+
+Preface
+
+I consider it a great honour to be called upon to deliver the Ramanujan Memorial Lectures under the auspices of the CSIR (Council of Scientific & Industrial Research). I would like to thank Dr. A.P. Mitra, Director General of the CSIR, for giving me this honour and opportunity to participate in the Ramanujan centenary celebrations.
+
+I gave three lectures, the first one in Delhi, the second in Calcutta and the third in Madras as scheduled, which I have written up in four chapters for publication. In the beginning of each lecture I have said a few words about the life and work of Ramanujan, the rare mathematical genius who was a legendary figure in my younger days. This is to draw the attention of the younger generation to the achievements of Ramanujan, and to emphasize the need to reform our educational system and reorganize our research institutes to encourage creativity and original thinking among the students.
+
+When I was a student, statistics was in its infancy and I have closely watched its evolution over the last 50 years as an independent discipline of great importance and a powerful tool in acquiring knowledge in any field of enquiry. The reason for such phenomenal developments is not difficult to seek.
+
+Statistics as a method of learning from experience and decision making under uncertainty must have been practiced from the beginning of mankind. But the inductive reasoning involved in these processes has never been codified due to the uncertain nature of the conclusions drawn from given data or information. The breakthrough occurred only in the beginning of the present century with the realization that inductive reasoning can be made precise by specifying the amount of uncertainty involved in the conclusions drawn. This paved the way for working out an optimum course of action involving minimum risk, in any given uncertain situation, by a purely deductive process. Once this mechanism was made available, the flood gates opened and there was no end to the number of applications impatiently awaiting methods which could really deliver the goods.
+
+From the time of Aristotle to the middle of the 19th century, chance was considered by scientists as well as philosophers to be an indication of our ignorance which makes prediction impossible. It is now recognized that chance is inherent in all natural phenomena, and the only way of understanding nature and making optimum predictions (with minimum loss) is to study the laws (or the inner structure) of chance and formulate appropriate rules of action. Chance may appear as an obstructor and an irritant in our daily life, but chance can also help and create. We have now learnt to put chance to work for the benefit of mankind.
+
+I have chosen to speak on the foundations, modern developments and future of statistics, because of my involvement with statistics over the last 45 years as a teacher, research worker and consultant in statistics, and as an administrator managing the academic affairs of a large organization devoted to statistics. I grew up in a period of intensive developments in the history of modern statistics.
+
+As a student I specialized in mathematics - the logic of deducing consequences from given premises. Later I studied statistics - a rational approach to learning from experience and the logic of identifying the premises given the consequences. I have come to realize the importance of both in all human endeavours whether it is in the advancement of natural knowledge or in the efficient management of our daily chores. I believe:
+
+All knowledge is, in final analysis, history.
+All sciences are, in the abstract, mathematics.
+All judgements are, in their rationale, statistics.
+
+The title of my Lectures, Statistics and Truth, and their general theme are somewhat similar to those of Probability, Statistics and Truth, the collected lectures of R. von Mises published several years ago. Since the latter book appeared, there have been new developments in our thinking and attitude towards chance. We have reconciled with the "Dice-Playing God" and learnt to plan our lives to keep in resonance with uncertainties around us. We have begun to understand and accept the beneficial role of chance in situations beyond our control or extremely complex to deal with. To emphasize this I have chosen the subtitle, Putting Chance to Work.
+
+Dr. Joshi, the Director of the National Physical Laboratory, reminded me what Thomas Huxley is reported to have said, that a man of science past sixty does more harm than good. Statistically it may be so. As we grow old we tend to stick to our past ideas and try to propagate them. This may not be good for science. Science advances by change, by the introduction of new ideas. These can arise only from uninhibited young minds capable of conceiving what may appear to be impossible but which may contain a nucleus for revolutionary change. But I am trying to follow Lord Rayleigh who was an active scientist throughout his long life. At the age of sixty-seven  (which is exactly my present age), when asked by his son, who is also a famous physicist, to comment on Huxley's remark, Rayleigh responded:
+
+That may be if he undertakes to criticize the work of younger men, but I do not see why it need be so if he sticks to things he is conversant with.
+
+However J.B.S. Haldane used to say that Indian scientists are polite and they do not criticize the work of each other, which is not good for the progress of science.
+
+It gives me great pleasure to thank Dr. Y.R.K. Sarma of the Indian Statistical Institute for the generous help he has given in editing the Ramanujan Memorial Lectures I gave at various places in the form of a book and looking after its publication.
+
+Calcutta
+December 12, 1987
+C.R. Rao
+```
