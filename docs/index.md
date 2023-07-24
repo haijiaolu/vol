@@ -16,22 +16,26 @@ layout: doc
 
 ---
 
+## 序
+
+---
+
 ## 摘录
 
-### 🛠️ 一字一词
+### 🛠️ `一字一词`
 
 - [字集](item/word-char-zh.md)
 - [词库](item/word-idiom-zh.md)
 - [谚语俗语](item/word-idiom-zh2.md)
 - [网络流行词/MEME](item/word-meme.md)
 
-### 🚀 诗歌文赋
+### 🚀 `诗歌文赋`
 
 - [古诗名句](item/poem-zh-gushi.md)
 - [新诗摘录](item/poem-zh-xinshi.md)
 - [对联集句](item/poem-couplets.md)
 
-### 💬 格言警句
+### 💬 `格言警句`
 
 - [格言警句（中文）](item/quote-aphorism-zh.md)
 - [篇章摘录（中文）](item/quote-aphorism-zh2.md)
@@ -40,7 +44,7 @@ layout: doc
 - [未知的格言摘录（外文）](item/quote-unknown-intl.md)
 - [网络流行语/MEME](item/quote-meme.md)
 
-### 🧪 社会新知
+### 🧪 `社会新知`
 
 ## 测试
 
