@@ -2,9 +2,9 @@
 
 ## 出处不明 1
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 勤学如春起之苗，不见其增，日有所长。辍学如磨刀之石，不见其损，日有所亏。——陶渊明。
 
@@ -15,9 +15,9 @@
 
 ## 出处不明 2
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 为众人抱薪者，不可使其冻毙于风雪。
 > 为自由开路者，不可使其困顿于荆棘。
@@ -34,9 +34,9 @@ https://www.zhihu.com/question/295275656
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 愿你出走半生，归来仍是少年
 
@@ -46,9 +46,9 @@ https://www.zhihu.com/question/295275656
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 其实真正的送别没有长亭古道，没有劝君更尽一杯酒，
 > 就是在一个和平时一样的清晨，有的人留在昨天了。
@@ -61,9 +61,9 @@ https://www.zhihu.com/question/295275656
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 十年饮冰，难凉热血。
 
@@ -73,9 +73,9 @@ https://www.zhihu.com/question/295275656
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 成功自是人权贵，创业终由道力强。——梁启超（没有出处）
 

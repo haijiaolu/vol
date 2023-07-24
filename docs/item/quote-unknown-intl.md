@@ -2,9 +2,9 @@
 
 ## 出处不明 1
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > No snowflake in an avalanche ever feels responsible.
 >
@@ -21,9 +21,9 @@
 <https://quoteinvestigator.com/2022/04/26/snowflake/>
 ```
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > History is written by the victors. -- Winston Churchill
 >
@@ -35,9 +35,9 @@
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > I want power. Not power over people, but power over nature and the destiny of technology. I just want to know how it all works. -- George Hotz
 >
@@ -56,9 +56,9 @@
 
 ## 出处不明 2
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 时间是伟大的工匠。——布丰
 
@@ -75,9 +75,9 @@ https://book.douban.com/subject/27001165/
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 没有测量，就没有科学。——门捷列夫 【未知出处】
 
@@ -85,9 +85,9 @@ https://book.douban.com/subject/27001165/
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 人不能孤独地生活，他需要社会。——歌德【未知出处】
 
@@ -95,9 +95,9 @@ https://book.douban.com/subject/27001165/
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > "Il n'y a pas de verités moyennes.​"
 >
@@ -110,9 +110,9 @@ https://book.douban.com/subject/27001165/
 
 ## 可能伪托
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 世界上好看的脸蛋太多，而有趣的灵魂则太少。——奥斯卡·王尔德
 > 英文版本都搜不到（There are too many good faces in the world, too few interesting souls.）
@@ -121,9 +121,9 @@ https://book.douban.com/subject/27001165/
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 朝㒵の花一時も千とせふる松の緑もおなじ寿
 >
@@ -158,9 +158,9 @@ https://www.ne.jp/asahi/kato/yoshio/jisei/jisei-sonota.html
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 法律职业的社会地位是一个民族文明的标志。——费尔德
 
@@ -173,9 +173,9 @@ https://www.ne.jp/asahi/kato/yoshio/jisei/jisei-sonota.html
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 > 法语：Tout ce qu’un homme est capable d’imaginer, d’autres hommes seront capables de le réaliser.
 > 英语：Anything one man can imagine, other men can make real.
 > 汉语：凡人能想像到的事物，必定有人能将它实现。——儒勒·凡尔纳。
@@ -192,9 +192,9 @@ http://verne.garmtdevries.nl/en/myths/
 
 ## 出处证伪
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > 我们所听到的不过只是一个观点，而非事实。我们所看到的不过只是一个视角，而非真相。——马可·奥勒留《沉思录》
 > Everything we hear is a opinion, not a fact. Everything we see is a perspective, not the truth.
@@ -210,9 +210,9 @@ http://ianchadwick.com/blog/nope-thats-not-by-marcus-aurelius/
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1.
 >
@@ -223,9 +223,9 @@ http://ianchadwick.com/blog/nope-thats-not-by-marcus-aurelius/
 
 ---
 
-::: info
+::: warning
 
-> [!quote]
+> [!warning]
 >
 > History Does Not Repeat Itself, But It Rhymes. -- Mark Twain
 > 历史不会重演，但会押韵。——马克·吐温
