@@ -7,3 +7,6 @@
 - 吸猫
 - 水逆，水星逆行
 - 可小刀；可刀，可大刀，关公刀，指甲刀
+
+- Leet：由elite转为eleet后再转变为leet
+	- （L337, 3L337, 31337, leetspeak, eleet, Leetors, L3370rz, 1337）
