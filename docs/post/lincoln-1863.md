@@ -17,6 +17,8 @@ read: 1
 
 ## The Gettysburg Address / 葛底斯堡演讲
 
+gettysburg-address.jpg![](../assets/gettysburg-address.jpg)
+
 <!-- tabs:start -->
 
 #### **English**

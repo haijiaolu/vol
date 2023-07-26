@@ -4,7 +4,7 @@ title: "火车外一闪而过的风景"
 title_zh: ""
 author: "三书（王亚鸽）"
 author_zh: ""
-date: ""
+date: "大约2022年"
 source: "https://mp.weixin.qq.com/s/ZYv03PsZkx-5okHEhl1Nqw"
 translate: ""
 draft: 1
