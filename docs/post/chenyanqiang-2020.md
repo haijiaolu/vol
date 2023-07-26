@@ -15,6 +15,9 @@ read: 1
 
 # 陈衍强
 
+诗作：
+- [一份讲稿](chenyanqiang-2000.md)
+
 ## 《仰望天空》
 
 <!-- tabs:start -->
