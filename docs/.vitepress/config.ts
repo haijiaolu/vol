@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import generateSideBar2 from "./scripts/generateSideBar";
+import footnote from "markdown-it-footnote";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -9,7 +10,9 @@ export default defineConfig({
   titleTemplate: ":title - 观澜无言",
   description: "wiki, notes",
   lastUpdated: true,
-  head: [["link", { rel: "icon", type: "image/x-icon", href: "/yan/favicon.ico" }]],
+  head: [
+    ["link", { rel: "icon", type: "image/x-icon", href: "/yan/favicon.ico" }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
@@ -73,6 +76,10 @@ export default defineConfig({
     lineNumbers: true,
     theme: { light: "github-light", dark: "github-dark" },
     toc: { level: [1, 2, 3, 4, 5] },
+    config: (md) => {
+      // md.use(mathjax3);
+      md.use(footnote);
+    },
   },
 
   vite: {
@@ -85,5 +92,8 @@ export default defineConfig({
       //   heading: "共: {{searchResult}} 条结果",
       // }),
     ],
+    build: {
+      chunkSizeWarningLimit: 5000
+    }
   },
 });
