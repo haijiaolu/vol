@@ -34,6 +34,7 @@ layout: doc
 - [古诗名句](item/poem-zh-gushi.md)
 - [新诗摘录](item/poem-zh-xinshi.md)
 - [对联集句](item/poem-zh-couplets.md)
+- [外国诗歌](item/poem-intl.md)
 
 ### 💬 `格言警句`
 

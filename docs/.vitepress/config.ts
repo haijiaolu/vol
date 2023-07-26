@@ -1,9 +1,5 @@
 import { defineConfig } from "vitepress";
-// import {
-//   chineseSearchOptimize,
-//   pagefindPlugin
-// } from "vitepress-plugin-pagefind";
-import generateSideBar from "./scripts/generateSideBar";
+import generateSideBar2 from "./scripts/generateSideBar";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -38,6 +34,7 @@ export default defineConfig({
           { text: "古诗名句", link: "/item/poem-zh-gushi" },
           { text: "新诗摘录", link: "/item/poem-zh-xinshi" },
           { text: "对联集句", link: "/item/poem-zh-couplets" },
+          { text: "外国诗歌", link: "/item/poem-intl" },
         ],
       },
       {
@@ -53,9 +50,14 @@ export default defineConfig({
       },
       { text: "🧪社会新知", items: [] },
       {
-        text: "📝归档",
+        text: "📝札记",
         collapsed: true,
-        items: [...generateSideBar()],
+        items: [...generateSideBar2("wiki", 0)],
+      },
+      {
+        text: "📝文集",
+        collapsed: true,
+        items: [...generateSideBar2("post", 1)],
       },
     ],
 
@@ -70,7 +72,7 @@ export default defineConfig({
   markdown: {
     lineNumbers: true,
     theme: { light: "github-light", dark: "github-dark" },
-    toc: { level: [1, 2, 3] },
+    toc: { level: [1, 2, 3, 4, 5] },
   },
 
   vite: {
