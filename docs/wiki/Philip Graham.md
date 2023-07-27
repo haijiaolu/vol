@@ -9,7 +9,7 @@ Philip L. Graham (1915–1963)，美国新闻记者。
 > [!quote]
 >
 > Journalism is ‘the first rough draft of history’. -- Philip L. Graham
-> “新闻是历史的第一张草稿”
+> > “新闻是历史的第一张草稿。”
 
 :::
 
