@@ -19,7 +19,7 @@ read: 1
 
 ## 兰亭集序
 
-![《兰亭集序》唐朝冯承素摹本（“神龙本”）](../assets/lan-ting-ji-xu.jpg)
+![《兰亭集序》唐朝冯承素摹本（“神龙本”）](../images/lan-ting-ji-xu.jpg)
 
 <!-- tabs:start -->
 

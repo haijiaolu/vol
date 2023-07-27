@@ -32,7 +32,7 @@ https://www.zhihu.com/question/295275656
 “为众人抱火的，不可使他冻毙于风雪；为世界开辟道路的，不可使他困顿于荆棘。”）
 ```
 
-![](../assets/zhihu_murongxuecun.jpg)
+![](../images/zhihu_murongxuecun.jpg)
 
 ---
 

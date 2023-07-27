@@ -23,13 +23,13 @@ read: 1
 作者：张曼菱
 《光明日报》（ 2015 年 08 月 21 日 13 版）
 
-- ![邓稼先的入学表](../assets/zhangmanling-djx.jpg)
-- ![杨振宁西南联大入学表](../assets/zhangmanling-yzn.jpg)
-- ![李政道西南联大入学表](../assets/zhangmanling-lzd.jpg)
-- ![邹承鲁西南联大入学表](../assets/zhangmanling-zcl.jpg)
-- ![北大红楼](../assets/zhangmanling-bdhl.jpg)
-- ![教授合影。左起：朱自清、罗庸、罗常培、闻一多、王力](../assets/zhangmanling-js.jpg)
-- ![教授之家。后排左起：周培源、陈意、陈岱孙、金岳霖；前排左起：林徽因、梁在冰、梁从诫、梁思成、周如枚、王蒂澂、周如雁](../assets/zhangmanling-jszj.jpg)
+- ![邓稼先的入学表](../images/zhangmanling-djx.jpg)
+- ![杨振宁西南联大入学表](../images/zhangmanling-yzn.jpg)
+- ![李政道西南联大入学表](../images/zhangmanling-lzd.jpg)
+- ![邹承鲁西南联大入学表](../images/zhangmanling-zcl.jpg)
+- ![北大红楼](../images/zhangmanling-bdhl.jpg)
+- ![教授合影。左起：朱自清、罗庸、罗常培、闻一多、王力](../images/zhangmanling-js.jpg)
+- ![教授之家。后排左起：周培源、陈意、陈岱孙、金岳霖；前排左起：林徽因、梁在冰、梁从诫、梁思成、周如枚、王蒂澂、周如雁](../images/zhangmanling-jszj.jpg)
 
 在抗日救国的呐喊声与杀敌声中，还有另一股隐忍强劲的大潮在集结行动。一批批的青年与导师们冲出沦陷区，去建造战火纷飞下的另一座校园。这是一部中华民族在危亡关头用文化的武器进行拼搏的历史，里面的人、学校、思想、言行、著作都闪耀出迷人的风采与巨大的光芒。
 

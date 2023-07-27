@@ -41,4 +41,4 @@ read: 1
 
 ### 附录
 
-![镜中](../assets/zhangzhao-jingzhong.webp)
+![镜中](../images/zhangzhao-jingzhong.webp)

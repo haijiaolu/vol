@@ -17,7 +17,7 @@ read: 1
 
 ## 网易新闻“另一面”：何必为北大痛心疾首？
 
-![](../assets/netease-beida.png)
+![](../images/netease-beida.png)
 
 ### 何必为北大痛心疾首？
 

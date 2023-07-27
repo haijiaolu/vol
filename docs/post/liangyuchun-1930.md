@@ -62,4 +62,4 @@ Death alone can make man know himself，show the proud and insolent that he is b
 
 ### 附录
 
-[作者手迹](../assets/liangyuchun.jpg)
+[作者手迹](../images/liangyuchun.jpg)

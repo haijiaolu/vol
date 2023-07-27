@@ -44,4 +44,4 @@ Freedom is never free. 自由从来不是天上掉下来的，而是有骨气的
 
 ***
 
-![李沉简](../assets/lichenjian.png)
+![李沉简](../images/lichenjian.png)
