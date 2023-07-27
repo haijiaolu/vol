@@ -84,15 +84,15 @@
 - There are only two hard things in Computer Science: cache invalidation and naming things. -- [Phil Karlton](../wiki/Phil%20Karlton.md)
   - There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. -- Leon Bambrick
 - Journalism is ‘the first rough draft of history’. -- [Philip L. Graham](../wiki/Philip%20Graham.md)
-  - > “新闻是历史的第一张草稿”
+  - > “新闻是历史的第一张草稿。”
 
 ---
 
 ## 其他 2
 
-- We can do it！（美国二战期间 1943 年宣传海报上的标语，用于提升西屋公司（Westinghouse Electric）工人的士气）
+- We can do it！——美国二战期间 1943 年宣传海报上的标语，用于提升西屋公司（Westinghouse Electric）工人的士气。
 - Keep calm and carry on. (保持冷静，继续前行。) —— 1939 年二战期间英国的宣传语之一。
-- "Freedom Is Not Free" / "Freedom isn't free" 美国俗语，相关标语刻在 Korean War Veterans Memorial（1995 年建造）
+- "Freedom Is Not Free" / "Freedom isn't free" ——美国俗语，相关标语刻在 Korean War Veterans Memorial（1995 年建造）。
 - Per Aspera Ad Astra. ("to the stars through difficulty". )
-  - 拉丁谚语：循此苦旅，以达天际。/ 颠簸路途通繁星。
-  - Harper Lee's "To Kill a Mockingbird"（《杀死一只知更鸟》）等引用
+  - > 拉丁谚语：循此苦旅，以达天际。/ 颠簸路途通繁星。
+  - > Harper Lee's "To Kill a Mockingbird"（《杀死一只知更鸟》）等引用
