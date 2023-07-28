@@ -13,7 +13,7 @@ read: 1
 
 [[toc]]
 
-# 爱因斯坦
+# Albert Einstein / 阿尔伯特·爱因斯坦
 
 ## 《主权的限制》
 

@@ -3,7 +3,7 @@ name: "里尔克-挽歌为沃尔夫伯爵封卡尔克洛伊特而作"
 title: "REQUIEM FÜR WOLF GRAF VON KALCKREUTH"
 title_zh: "挽歌——为沃尔夫伯爵封·卡尔克洛伊特而作"
 author: "Rainer Maria Rilke"
-author_zh: "里尔克"
+author_zh: "赖内·马利亚·里尔克"
 date: "1908"
 source: ""
 translate: 
@@ -18,7 +18,7 @@ tags: "诗歌"
 
 [[toc]]
 
-# 里克尔
+# Rainer Maria Rilke / 里尔克
 
 ## 《挽歌——为沃尔夫伯爵封·卡尔克洛伊特而作》
 

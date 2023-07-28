@@ -14,7 +14,7 @@ read: 1
 
 [[toc]]
 
-# 坂本龙一（坂本龍一，Ryuichi Sakamoto）
+# 坂本龙一（坂本龍一，さかもと りゅういち，Ryuichi Sakamoto）
 
 ## 对坂本龙一的书面采访
 

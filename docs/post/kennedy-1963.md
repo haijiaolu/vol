@@ -3,7 +3,7 @@ name: "肯尼迪-我是柏林人"
 title: "我是柏林人（柏林墙下演讲）"
 title_zh: ""
 author: "John F. Kennedy"
-author_zh: "肯尼迪"
+author_zh: "约翰·肯尼迪"
 date: "1963"
 source:
   - "https://www.presidency.ucsb.edu/documents/remarks-the-rudolph-wilde-platz-berlin"
@@ -16,7 +16,7 @@ tags: "演讲"
 
 [[toc]]
 
-# John F. Kennedy / 肯尼迪
+# John F. Kennedy / 约翰·肯尼迪
 
 John F. Kennedy
 35th President of the United States: 1961 ‐ 1963

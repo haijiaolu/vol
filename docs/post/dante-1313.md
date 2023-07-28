@@ -16,7 +16,7 @@ tags: "诗歌"
 
 [[toc]]
 
-# 但丁
+# Dante / 但丁
 
 ## Divina Commedia / 《神曲·地狱篇》（节选）
 

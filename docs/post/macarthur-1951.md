@@ -3,7 +3,7 @@ name: "麦克阿瑟-国会大厦告别演讲"
 title: "Farewell Address to Congress"
 title_zh: "国会大厦告别演讲"
 author: "Douglas MacArthur"
-author_zh: "麦克阿瑟"
+author_zh: "道格拉斯·麦克阿瑟"
 date: ""
 source: "https://www.americanrhetoric.com/speeches/douglasmacarthurfarewelladdress.htm"
 translate: "https://www.douban.com/note/237854274/"
@@ -14,7 +14,7 @@ tags: "演讲"
 
 [[toc]]
 
-# Douglas MacArthur / 麦克阿瑟
+# Douglas MacArthur / 道格拉斯·麦克阿瑟
 
 ## Farewell Address to Congress / 国会大厦告别演讲
 
