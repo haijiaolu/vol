@@ -9,6 +9,7 @@ source: "http://bbs.tianya.cn/post-no01-23400-1.shtml"
 translate: ""
 draft: 1
 read: 1
+tags: "演讲"
 ---
 
 [[toc]]

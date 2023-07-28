@@ -32,16 +32,18 @@ Freedom is never free. 自由从来不是天上掉下来的，而是有骨气的
 
 不过，在漫长的历史中总有火种还顽强地燃烧。在北大，蔡元培、马寅初、胡适、灵昭……承载着北大人的傲骨，公民的尊严。我们即使做不到振臂一呼，以笔为旗与懦弱卑微做不妥协的抗争，也至少做到不出卖人的起码尊严和思想独立。北大人、元培人当共勉。
 
-> Where there is darkness，may we bring light
-> Where there is despair, may we bring hope
-> Where there is doubt, may we bring faith
-> Where there is hatred, may we bring love
-> 戊戌双甲子，诸君拒做犬儒，北大一二〇，师生挺直脊梁。
+> Where there is darkness，may we bring light  
+> Where there is despair, may we bring hope  
+> Where there is doubt, may we bring faith  
+> Where there is hatred, may we bring love  
+> 戊戌双甲子，诸君拒做犬儒，北大一二〇，师生挺直脊梁。  
 
-李沉简
-2018.2.28
-北京大学 朗润园
+李沉简  
+2018.2.28  
+北京大学 朗润园  
 
-***
+---
+
+### 附录
 
 ![李沉简](../images/lichenjian.png)

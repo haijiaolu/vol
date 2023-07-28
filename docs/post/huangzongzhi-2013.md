@@ -9,10 +9,10 @@ source: "https://www.lishiyushehui.cn/article/item/584"
 translate: ""
 draft: 1
 read: 1
+tags: "论文"
 ---
 
 [[toc]]
-
 
 # 黄宗智
 
@@ -25,6 +25,7 @@ read: 1
   <p>Unable to display PDF file. 
     <a href="../resources/huangzongzhi-2013.pdf">Download</a> instead.</p>
 </object>
+
 
 ■ 黄宗智
 

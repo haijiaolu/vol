@@ -11,6 +11,7 @@ source:
 translate: ""
 draft: 1
 read: 1
+tags: "演讲"
 ---
 
 [[toc]]
@@ -32,7 +33,7 @@ John F. Kennedy
 
 #### **English**
 
-Remarks in the Rudolph Wilde Platz, Berlin
+Remarks in the Rudolph Wilde Platz, Berlin   
 June 26, 1963
 
 I am proud to come to this city as the guest of your distinguished Mayor, who has symbolized throughout the world the fighting spirit of West Berlin. And I am proud to visit the Federal Republic with your distinguished Chancellor who for so many years has committed Germany to democracy and freedom and progress, and to come here in the company of my fellow American, General Clay, who has been in this city during its great moments of crisis and will come again if ever needed.
@@ -53,7 +54,7 @@ All free men, wherever they may live, are citizens of Berlin, and, therefore, as
 
 #### **中文翻译**
 
-**我是柏林人**
+**我是柏林人**  
 ——柏林墙下的演说(在柏林鲁道夫·王尔德广场的讲话)
 
 我很自豪能作为尊敬的市长的客人来到这座城市，他象征着西柏林的战斗精神。我很自豪地与尊敬的总理一起访问联邦德国，他多年来一直致力于德国的民主、自由和进步，并在我的美国同胞克莱将军的陪伴下来到这里，他在这座城市的危机时刻一直在这座城市，如果需要，他会再来。

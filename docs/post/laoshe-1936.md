@@ -9,6 +9,7 @@ source: ""
 translate: ""
 draft: 1
 read: 1
+tags: "小说"
 ---
 
 [[toc]]

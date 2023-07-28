@@ -11,6 +11,7 @@ translate:
   - "https://read.douban.com/reader/ebook/319340021/"
 draft: 1
 read: 1
+tags: "诗歌"
 ---
 
 [[toc]]
@@ -19,34 +20,37 @@ read: 1
 
 ## Divina Commedia / 《神曲·地狱篇》（节选）
 
+### 正文
+
 <!-- tabs:start -->
 
 #### **中文翻译 1**
 
-（上海译文出版社，朱维基翻译）
+> 【上海译文出版社，朱维基翻译】
+
 第三歌 可畏的铭文和黑色的江河
 
-“从我，是进入悲惨之城的道路;
-从我，是进入永恒的痛苦的道路；
-从我，是走进永劫的人群的道路。
-正义感动了我的’至高的造物主’；
-‘神圣的权力’，‘至尊的智慧’，
-以及本初的爱’把我造成。
-在我之前，没有创造的东西，
-只有永恒的事物；而我永存：
-你们走进这里的，把一切希望捐弃吧。
+“从我，是进入悲惨之城的道路;  
+从我，是进入永恒的痛苦的道路；  
+从我，是走进永劫的人群的道路。  
+正义感动了我的’至高的造物主’；  
+‘神圣的权力’，‘至尊的智慧’，  
+以及本初的爱’把我造成。  
+在我之前，没有创造的东西，  
+只有永恒的事物；而我永存：  
+你们走进这里的，把一切希望捐弃吧。  
 
 #### **中文翻译 2**
 
-（田德望 翻译）
+> （田德望 翻译）
 
-由我 ① 进入愁苦之城，
-由我进入永劫之苦，
-由我进入万劫不复的人群 ② 中。
-正义推动了崇高的造物主，
-神圣的力量、最高的智慧、本原的爱
-创造了我 ③。在我以前未有造物，除了永久存在的以外 ④，而我也将永世长存。
-进来的人们，你们必须把一切希望抛开！
+由我 ① 进入愁苦之城，  
+由我进入永劫之苦，  
+由我进入万劫不复的人群 ② 中。  
+正义推动了崇高的造物主，  
+神圣的力量、最高的智慧、本原的爱  
+创造了我 ③。在我以前未有造物，除了永久存在的以外 ④，而我也将永世长存。  
+进来的人们，你们必须把一切希望抛开！  
 
 ① 指地狱之门。
 ② 指地狱里的灵魂。
@@ -58,33 +62,34 @@ read: 1
 
 #### **英文翻译 1**
 
-（Longfellow 朗费罗翻译）
+> （Longfellow 朗费罗翻译）
 
-THROUGH me the way is to the city dolent;
-Through me the way is to eternal dole;
-Through me the way among the people lost.
+THROUGH me the way is to the city dolent;  
+Through me the way is to eternal dole;  
+Through me the way among the people lost.  
 
-Justice incited my sublime Creator;
-Created me divine Omnipotence,
-The highest Wisdom and the primal Love.
+Justice incited my sublime Creator;  
+Created me divine Omnipotence,  
+The highest Wisdom and the primal Love.  
 
-Before me there were no created things,’03
-Only eterne, and I eternal last.
-All hope abandon, ye who enter in !”
+Before me there were no created things,’03  
+Only eterne, and I eternal last.  
+All hope abandon, ye who enter in !”  
 
 #### **英文翻译 2**
 
-（Mandelbaum 翻译）
-Through me the way into the suffering city,
-Through me the way to the eternal pain,
-Through me the way that runs among the lost.
+> （Mandelbaum 翻译）
 
-Justice urged on my high artificer;
-My maker was divine authority,
-The highest wisdom, and the primal love.
+Through me the way into the suffering city,  
+Through me the way to the eternal pain,  
+Through me the way that runs among the lost.  
 
-Before me nothing but eternal things
-Were made, and i endure eternally.
-Abandon every hope, who enter here.
+Justice urged on my high artificer;  
+My maker was divine authority,  
+The highest wisdom, and the primal love.  
+
+Before me nothing but eternal things  
+Were made, and i endure eternally.  
+Abandon every hope, who enter here.  
 
 <!-- tabs:end -->

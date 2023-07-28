@@ -12,6 +12,7 @@ source:
 translate: "https://www.zhihu.com/question/20515695/answer/36543110"
 draft: 1
 read: 1
+tags: "演讲"
 ---
 
 [[toc]]
@@ -19,6 +20,8 @@ read: 1
 # 村上春树
 
 ## “高墙与鸡蛋”——耶路撒冷文学奖获奖演讲
+
+### 正文
 
 <!-- tabs:start -->
 

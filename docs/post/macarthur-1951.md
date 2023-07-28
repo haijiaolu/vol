@@ -9,6 +9,7 @@ source: "https://www.americanrhetoric.com/speeches/douglasmacarthurfarewelladdre
 translate: "https://www.douban.com/note/237854274/"
 draft: 1
 read: 1
+tags: "演讲"
 ---
 
 [[toc]]
@@ -17,13 +18,15 @@ read: 1
 
 ## Farewell Address to Congress / 国会大厦告别演讲
 
+### 正文
+
 <!-- tabs:start -->
 
 #### **English**
 
 **Farewell Address to Congress**
 
-General Douglas MacArthur
+General Douglas MacArthur  
 delivered 19 April 1951, Washington, D.C.
 
 Mr. President, Mr. Speaker, and Distinguished Members of the Congress:

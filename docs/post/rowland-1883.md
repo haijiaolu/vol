@@ -15,9 +15,11 @@ read: 1
 
 [[toc]]
 
-# 作者
+# Henry Augustus Rowland / 亨利·奥古斯特·罗兰
 
-## A PLEA FOR PURE SCIENCE
+## A PLEA FOR PURE SCIENCE / 为纯科学呼吁
+
+### 正文
 
 <!-- tabs:start -->
 

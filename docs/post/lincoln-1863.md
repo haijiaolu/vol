@@ -9,6 +9,7 @@ source: "https://education.nationalgeographic.org/resource/gettysburg-address"
 translate: ""
 draft: 1
 read: 1
+tags: "演讲"
 ---
 
 [[toc]]
@@ -17,11 +18,7 @@ read: 1
 
 ## The Gettysburg Address / 葛底斯堡演讲
 
-gettysburg-address.jpg![](../images/gettysburg-address.jpg)
-
-<!-- tabs:start -->
-
-#### **English**
+![gettysburg-address](../images/gettysburg-address.jpg)
 
 **Gettysburg Address**
 
@@ -56,5 +53,3 @@ the last full measure of devotion—that we here highly resolve that these dead
 shall not have died in vain—that this nation, under God, shall have a new birth
 of freedom, and that government of the people, by the people, for the people,
 shall not perish from the earth.
-
-<!-- tabs:end -->

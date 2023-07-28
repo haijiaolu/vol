@@ -15,17 +15,15 @@ read: 1
 
 [[toc]]
 
+# Bertrand Russell / 伯特兰·罗素
 
-# 作者
-
-## 标题
+## Prologue: What I Have Lived For / 序言 我为什么而活着
 
 <!-- tabs:start -->
 
 #### **English**
 
-Prologue: What I Have Lived For*
-
+**Prologue: What I Have Lived For**  
 By Bertrand Russell
 
 Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind. These passions, like great winds, have blown me hither and thither, in a wayward course, over a great ocean of anguish, reaching to the very verge of despair.
@@ -38,15 +36,15 @@ Love and knowledge, so far as they were possible, led upward toward the heavens.
 
 This has been my life. I have found it worth living, and would gladly live it again if the chance were offered me.
 
-B. RUSSELL
+B. RUSSELL  
 (1956)
 
-*  Bertrand Russell, “Prologue,” The Autobiography of Bertrand Russell, volume 1, London, George Allen and Unwin, 1967, p.13
+> Bertrand Russell, “Prologue,” The Autobiography of Bertrand Russell, 
+> volume 1, London, George Allen and Unwin, 1967, p.13
 
 #### **中文翻译**
 
-序言 我为什么而活着
-
+**序言 我为什么而活着**  
 （伯特兰·罗素）
 
 对爱情的渴望，对知识的追求，对人类苦难不可遏制的同情
@@ -75,22 +73,6 @@ B. RUSSELL
 这就是我的一生，我觉得它值得活。如果有机会的话，我还乐
 意再活一次。
 
-
-* 来自：商务印书馆，《罗素文集·第13卷·〈罗素自传·第一卷·1872-1914〉》，胡作玄、赵慧琪 译。
+> 来自：商务印书馆，《罗素文集·第13卷·〈罗素自传·第一卷·1872-1914〉》，胡作玄、赵慧琪 译。
 
 <!-- tabs:end -->
-
-
-
----
-author: Bertrand Russell
-source: https://users.drew.edu/~jlenz/br-prologue.html
-script: 手稿 https://www.humanities.mcmaster.ca/~bertrand/misc.html
-translate: 商务印书馆，《罗素文集·〈罗素自传〉》
-date: 1956
----
-
-## 
----
-
-# 

@@ -15,8 +15,9 @@ read: 1
 
 # Susan Sontag / 苏珊·桑塔格
 
-## 百年电影回眸
+## 百年电影回眸 / The Decay of Cinema / A Century of Cinema 
 
+### 正文
 <!-- tabs:start -->
 
 #### **English**
@@ -53,12 +54,10 @@ If cinephilia is dead, then movies are dead too ... no matter how many movies, e
 
 #### **English 2**
 
-# A Century of Cinema
+**A Century of Cinema**
+1995
 
-[1995]
-
-> 《Where the Stress Falls》第二部分《SEEING》
-> 《重点所在》
+> 《Where the Stress Falls》（《重点所在》）第二部分《SEEING》
 
 CINEMA’S HUNDRED YEARS appear to have the shape of a life
 cycle: an inevitable birth, the steady accumulation of glories, and the onset
@@ -254,14 +253,12 @@ resurrected, it will only be through the birth of a new kind of cine-love.
 
 #### **中文翻译**
 
-百年电影回眸
+**百年电影回眸**
 
-——苏珊·桑塔格
+——苏珊·桑塔格  
 （1995 年）
 
-> （于海江 译）
-> 本文选自苏珊·桑塔格《沉默的美学》（2006 年，南海出版公司）
-> (文本不完全相同)
+> 本文选自苏珊·桑塔格《沉默的美学》【2006 年，南海出版公司，于海江 译】
 
 电影的百年历史形同生命的轮回：不由人意地出生，持续获得各种荣誉，在过去的十年中开始颜面尽失、不可逆转的颓势。这不是说再也不会有令人称赏的新影片出现，但佳片的出现只不过是例外情况。任何艺术中的伟大成就莫不如此。这种佳片必须大胆地打破现在以及将来的资本主义世界也就是说在整个世界中束缚电影制作的一切经验和常规。而普通影片，纯粹的娱乐片（即商业片）将保持其惊人的弱智：大多数媚俗影片已彻底失败，它们不再能吸引挑剔的目标观众。如今佳片的重要特征（比任何时候都突出）就是独树一帜，而商业片却采取了过度膨胀、墨守成规的制片方式，无所顾忌地组合或再组合，以图再现昨日的辉煌。每一部希冀尽可能吸引更多观众的影片无不是某种仿效或重拍。电影曾被誉为二十世纪的艺术，而今天面临二十世纪将尽之际，电影似乎也成了一种没落的艺术。
 

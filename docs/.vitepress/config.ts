@@ -53,12 +53,17 @@ export default defineConfig({
       },
       { text: "🧪社会新知", items: [] },
       {
-        text: "📝札记",
+        text: "📝札记-作者",
         collapsed: true,
         items: [...generateSideBar2("wiki", 0)],
       },
       {
-        text: "📝文集",
+        text: "📝札记-书籍",
+        collapsed: true,
+        items: [...generateSideBar2("book", 0)],
+      },
+      {
+        text: "📝札记-文章",
         collapsed: true,
         items: [...generateSideBar2("post", 1)],
       },

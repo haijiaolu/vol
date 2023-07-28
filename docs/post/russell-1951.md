@@ -19,11 +19,13 @@ read: 1
 
 ## A Liberal Decalogue / 自由主义十诫
 
+### 正文
+
 <!-- tabs:start -->
 
 #### **English**
 
-A Liberal Decalogue (1969)\*
+A Liberal Decalogue (1969)
 
 By Bertrand Russell
 
@@ -51,11 +53,11 @@ Perhaps the essence of the Liberal outlook could be summed up in a new decalogue
 
 B. RUSSELL
 
-- Bertrand Russell, “A Liberal Decalogue,” The Autobiography of Bertrand Russell, 1944-1969, pp. 71-2
+> Bertrand Russell, “A Liberal Decalogue,” The Autobiography of Bertrand Russell, 1944-1969, pp. 71-2
 
 #### **中文翻译**
 
-**自由主义十诫**
+**自由主义十诫**  
 伯特兰·罗素
 
 自由主义观点的要义也许可以概括为新的十诫，这并不是想

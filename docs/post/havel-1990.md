@@ -12,6 +12,7 @@ translate:
 draft: 1
 read: 1
 created: 2020-12-05 08:21:58Z
+tags: "演讲"
 ---
 
 [[toc]]
@@ -19,6 +20,8 @@ created: 2020-12-05 08:21:58Z
 # Václav Havel / 瓦茨拉夫·哈维尔
 
 ## 1990 年新年献辞
+
+### 正文
 
 <!-- tabs:start -->
 

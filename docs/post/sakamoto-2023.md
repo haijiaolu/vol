@@ -14,7 +14,7 @@ read: 1
 
 [[toc]]
 
-# 坂本龙一
+# 坂本龙一（坂本龍一，Ryuichi Sakamoto）
 
 ## 对坂本龙一的书面采访
 
@@ -26,6 +26,8 @@ read: 1
 <https://news.yahoo.co.jp/articles/b050176feb0f3d2bdc52eea8fd1d793b850ab2a1>
 <https://www.at-s.com/news/article/national/1218664.html>
 ```
+
+### 正文
 
 <!-- tabs:start -->
 
@@ -96,7 +98,8 @@ read: 1
 “我对这个答案没有什么特别的想法。 我认为他们一直在郑重其事地以这种方式进行重建计划。”
 
 > - 你是否打算通过信件以外的任何方式传达你对重建的想法或采取行动？
->   “正如我前面提到的，我目前正在与癌症作斗争，我的精力和体力都很差，目前很难继续做音乐。 不幸的是，除了寄信之外，很难发出信息或采取行动。 然而，我认为每一个公民都应该知道这个问题，直接面对这个问题，并提出他们自己的声音，说明他们希望未来是什么样子，而不是像我这样名字有点被世人所知的人的声音。 即使此刻在你的日常生活中很难提高你的声音，但在下次选举中投射你的意图是可能的。 我相信，选举和消费者行为都将是具有同等力量的一票。”
+
+“正如我前面提到的，我目前正在与癌症作斗争，我的精力和体力都很差，目前很难继续做音乐。 不幸的是，除了寄信之外，很难发出信息或采取行动。 然而，我认为每一个公民都应该知道这个问题，直接面对这个问题，并提出他们自己的声音，说明他们希望未来是什么样子，而不是像我这样名字有点被世人所知的人的声音。 即使此刻在你的日常生活中很难提高你的声音，但在下次选举中投射你的意图是可能的。 我相信，选举和消费者行为都将是具有同等力量的一票。”
 
 <!-- tabs:end -->
 
@@ -116,6 +119,7 @@ read: 1
 <https://www.tokyo-np.co.jp/article/243643>
 <https://www.asahi.com/articles/ASR435K42R43OXIE023.html>
 ```
+### 正文
 
 <!-- tabs:start -->
 
@@ -220,8 +224,8 @@ Art is long, life is short.
 While many will share in this loss, we ask that you respect the family's privacy during their
 time of grief.
 
-April 2nd, 2023
-Kab America Inc.
-Kab inc.
+April 2nd, 2023  
+Kab America Inc.  
+Kab inc.  
 
 <!-- tabs:end -->
