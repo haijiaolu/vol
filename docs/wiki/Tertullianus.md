@@ -1,6 +1,7 @@
 # Tertullianus （德尔图良、特图里安、特土良）
 
-Tertullianus (155/160 - 220?), 罗马帝国北非迦太基城（今突尼斯附近）神学家、哲学家。“最后一个希腊教父、第一个拉丁教父”。
+Tertullianus (155/160 - 220?), 罗马帝国北非迦太基城（今突尼斯附近）神学家、哲学家。
+“最后一个希腊教父、第一个拉丁教父”。
 
 ### 名言
 
@@ -15,10 +16,10 @@ Tertullianus (155/160 - 220?), 罗马帝国北非迦太基城（今突尼斯附�
 :::
 
 ```
-
 林欣浩《哲学家们都干了些什么？》
 
-有个教父哲学家有一句名言：“上帝之子死了，虽然是不合理的，但却是可以相信的。埋葬以后又复活了，虽然是不可能的，但却是肯定的。正因为荒谬，所以我才相信。”
+有个教父哲学家有一句名言：“上帝之子死了，虽然是不合理的，但却是可以相信的。埋葬以后又复活了，
+虽然是不可能的，但却是肯定的。正因为荒谬，所以我才相信。”
 
 这话常被人总结为：“因为荒谬，我才相信。”
 
@@ -42,7 +43,7 @@ impossible est”（因为不可能，所以是确实的）。由
 
 ---
 
-https://en.wikiquote.org/wiki/Tertullian#On_the_Flesh_of_Christ
+<https://en.wikiquote.org/wiki/Tertullian#On_the_Flesh_of_Christ>
 
 * Prorsus credibile est, quia ineptum est.
   * It is to be believed because it is absurd.
