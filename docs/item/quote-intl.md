@@ -70,6 +70,7 @@
 - 现在并不是结束，结束甚至还没有开始。但现在可能是序幕的结束。——[丘吉尔](../wiki/丘吉尔.md)，1942
 - 老兵不死，只会慢慢凋零。——[麦克阿瑟](../wiki/麦克阿瑟.md)《国会大厦告别演讲》，1951
 
+
 ---
 
 ## 其他
@@ -95,3 +96,11 @@
 - Per Aspera Ad Astra. ("to the stars through difficulty". )
   - > 拉丁谚语：循此苦旅，以达天际。/ 颠簸路途通繁星。
   - > Harper Lee's "To Kill a Mockingbird"（《杀死一只知更鸟》）等引用
+
+---
+
+## 其他 3
+
+- “知识就是力量，法国就是培根。”（Knowledge is power，France is bacon.）
+  - 原句：知识就是力量。——弗朗西斯·培根（Knowledge is power. —– Francis Bacon ）
+  - 参考[Lard_Baron(Reddit), 2010, When I was young my...](https://www.reddit.com/r/AskReddit/comments/dxosj/what_word_or_phrase_did_you_totally_misunderstand/c13pbyc.compact)
