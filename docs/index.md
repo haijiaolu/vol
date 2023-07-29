@@ -47,6 +47,15 @@ layout: doc
 
 ### 🧪 `社会新知`
 
+- [新知-历史地理](item/info-ld.md)
+- [新知-社会综合](item/info-sh.md)
+- [新知-自然科技](item/info-zr.md)
+- [新知-机构学校](item/info-jg.md)
+- [新知-文化生活](item/info-wh.md)
+
+- [新知-管理定律](item/info-gl.md)
+- [新知-国朝新学](item/info-zh.md)
+
 ## 测试
 
 - [Markdown Examples](example/markdown-examples.md)
