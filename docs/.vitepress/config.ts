@@ -51,7 +51,19 @@ export default defineConfig({
           { text: "网络流行语/MEME", link: "/item/quote-meme" },
         ],
       },
-      { text: "🧪社会新知", items: [] },
+      {
+        text: "🧪社会新知",
+        items: [
+          { text: "新知-历史地理", link: "item/info-ld.md" },
+          { text: "新知-社会综合", link: "item/info-sh.md" },
+          { text: "新知-自然科技", link: "item/info-zr.md" },
+          { text: "新知-机构学校", link: "item/info-jg.md" },
+          { text: "新知-文化生活", link: "item/info-wh.md" },
+
+          { text: "新知-管理定律", link: "item/info-gl.md" },
+          { text: "新知-国朝新学", link: "item/info-zh.md" },
+        ],
+      },
       {
         text: "📝札记-作者",
         collapsed: true,
@@ -98,7 +110,7 @@ export default defineConfig({
       // }),
     ],
     build: {
-      chunkSizeWarningLimit: 5000
-    }
+      chunkSizeWarningLimit: 5000,
+    },
   },
 });
