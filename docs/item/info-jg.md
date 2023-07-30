@@ -153,3 +153,42 @@
   - 巴黎高等师范学院、剑桥大学、哈佛大学、普林斯顿大学
   - 莫斯科大学、巴黎萨克雷大学、索邦大学
   - 加州大学伯克利分校 、圣彼得堡大学、波恩大学、日内瓦大学。
+
+
+- **世界四大设计学院**
+	- 美国帕森斯设计学院（Parsons,1896）
+	- 意大利马兰戈尼学院（Istituto Marangoni， 1935；曾译“马兰欧尼”）
+	- 英国中央圣马丁设计学院（Central Saint Martins， 1854）
+	- 巴黎ESMOD高等时装设计学院（1841）
+-
+-
+- ## 电影学院
+	- ```
+	  2018年8月16日，美国电影业界权威杂志《好莱坞报道》
+	  Top 15 International Film Schools Revealed(字母顺序)
+	  (https://www.hollywoodreporter.com/lists/top-15-international-film-schools-1134439)
+	  ```
+	- 香港演艺学院电影电视学院，中国香港(Academy for Performing Arts School of Film and Television)
+	- 澳大利亚电影电视广播学校，澳大利亚悉尼(Australian Film, Television and Radio School)
+	- 釜山亚洲电影学校，韩国釜山(Busan Asian Film School)
+	- 北京电影学院 中国北京(Beijing Film Academy)
+	- 墨西哥电影培训中心 墨西哥墨西哥城(Centro de Capacitacion Cinematografica)
+	- 意大利实验电影中心 意大利罗马(Centro Sperimentale di Cinematografia)
+	- 奥地利维也纳电影学院 奥地利维也纳(The Film Academy)
+	- 格拉西莫夫电影学院 俄罗斯莫斯科(Gerasimov Institute of Cinematography)
+	- 慕尼黑影视学院 德国慕尼黑(Hochschule fur Film and Fernsehen)
+	- 法国高等国家影像与声音职业学院 法国巴黎(La Femis)
+	- 波兰罗兹电影学校，波兰罗兹(Lodz Film School)
+	- 英国皇家电影电视学院 英国伦敦(National Film and Television School)
+	- 瑞尔森大学广播电影艺术学院，加拿大多伦多(RTA School of Media at Ryerson University)
+	- 以色列特拉维夫大学史蒂夫泰施电影电视学院 以色列特拉维夫(The Sam Spiegel Film & Television School/The Steve Tisch School of Film and Television, Tel Aviv University)
+	- 阿根廷布宜诺斯艾利斯电影大学 阿根廷布宜诺斯艾利斯(Universidad del Cine)
+-
+- ## 美国顶尖电影学院
+	- (https://www.hollywoodreporter.com/lists/top-25-american-film-schools-ranked-1134785)
+	- 1.  南加州大学，洛杉矶(USC)
+	- 2.  纽约大学，纽约(New York University)
+	- 3.  美国电影学院，洛杉矶(American Film Institute)
+	- 4.  加州大学洛杉矶分校，洛杉矶(UCLA)
+	- 5.  哥伦比亚大学，纽约(Columbia University)
+-

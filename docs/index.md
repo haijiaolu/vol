@@ -27,6 +27,7 @@ layout: doc
 - [字集](item/word-zh-char.md)
 - [词库](item/word-zh-idiom.md)
 - [谚语俗语](item/word-zh-idiom2.md)
+- [音译/意译词](item/word-trans.md)
 - [网络流行词/MEME](item/word-meme.md)
 
 ### 🚀 `诗歌文赋`
