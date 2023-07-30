@@ -24,7 +24,7 @@ read: 1
 
 ### 说明
 
-作者：亚伦·斯沃茨(Aaron Swartz,1986-2013) ，[博客](www.aaronsw.com)。
+作者：亚伦·斯沃茨(Aaron Swartz,1986-2013) ，[博客](https://www.aaronsw.com)。
 
 文章来源：
 
