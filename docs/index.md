@@ -44,6 +44,7 @@ layout: doc
 - [格言警句（外文）](item/quote-intl.md)
 - [未知的格言摘录（外文）](item/quote-intl-unk.md)
 - [网络流行语/MEME](item/quote-meme.md)
+- [影视台词](item/quote-ent.md)
 
 ### 🧪 `社会新知`
 
@@ -56,10 +57,10 @@ layout: doc
 - [新知-管理定律](item/info-gl.md)
 - [新知-国朝新学](item/info-zh.md)
 
-## 测试
+## 其他
 
-- [Markdown Examples](example/markdown-examples.md)
-- [Runtime API Examples](example/api-examples.md)
+- [故事寓言](item/story.md)
+
 
 ---
 
