@@ -111,7 +111,7 @@ So by 1980 there were two major lines of Unix, one from Berkeley and one from AT
 In 1982 Joy co-founded Sun Microsystems and offered a workstation, the Sun-1, running a version of BSD called SunOS. (Solaris would come about a decade later.) The following year, AT&T released the first version of Unix System V, an enormously influential operating system that would become the basis for IBM's AIX and Hewlett-Packard's HP-UX.
 Unix versions chart
 
-![Unix versions chart](unix_chart_420.png)
+![Unix versions chart](../images/unix_chart_420.png)
 > The Unix family tree. Credit: Eraserhead1 (cc-by-sa-3.0, GFDL)
 
 ### The Unix Wars
