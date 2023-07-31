@@ -72,7 +72,6 @@
 - 现在并不是结束，结束甚至还没有开始。但现在可能是序幕的结束。——[丘吉尔](../wiki/丘吉尔.md)，1942
 - 老兵不死，只会慢慢凋零。——[麦克阿瑟](../wiki/麦克阿瑟.md)《国会大厦告别演讲》，1951
 
-
 ---
 
 ## 其他
@@ -87,6 +86,7 @@
   - There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. -- Leon Bambrick
 - Journalism is ‘the first rough draft of history’. -- [Philip L. Graham](../wiki/Philip%20Graham.md)
   - > “新闻是历史的第一张草稿。”
+- Talk is cheap. Show me the code. -- [Linus Torvalds](../wiki/托瓦兹.md), 2000
 
 ---
 
