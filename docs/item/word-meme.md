@@ -26,7 +26,7 @@
 - `PTAL`: Please Take A Look. 你来瞅瞅？用来提示别人来看一下
 - `R.S.V.P`: 法语 répondez, s'il vous plaît，敬请回复（response if you please; please reply）
 - `RIP`: “Rest in Peace”的缩写，愿 (死者)安息
-- `RTFM`: Read The Fuking Manual, [www.readthefuckingmanual.com](http://www.readthefuckingmanual.com/)
+- `RTFM`: Read The Fuking Manual, [readthefuckingmanual](http://www.readthefuckingmanual.com/)
 - `SGTM`: Sounds Good To Me. 和上面那句意思差不多，也是已经通过了 review 的意思
 - `STFW`: Search The Fucking Web
 - `TBD`: To Be Done(or Defined/Discussed/Decided/Determined). 根据语境不同意义有所区别，但一般都是还没搞定的意思
@@ -45,6 +45,6 @@
 - `w/`: with；
 - `b/c`: because；
 - `c/o`: care of
-  - (相关讨论: https://english.stackexchange.com/questions/115367/are-w-o-w-b-c-common-abbreviations-in-the-us)
+  - 相关讨论: [w-o-w-b-c-common-abbreviations](https://english.stackexchange.com/questions/115367/are-w-o-w-b-c-common-abbreviations-in-the-us)
 - `y, tho?` == Why, though? (美国俚语)
   - ![](../images/ytho.jpg)

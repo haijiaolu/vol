@@ -28,6 +28,7 @@ export default defineConfig({
           { text: "字集", link: "/item/word-zh-char" },
           { text: "词库", link: "/item/word-zh-idiom" },
           { text: "谚语俗语", link: "/item/word-zh-idiom2" },
+          { text: "音译/意译词", link: "/item/word-trans" },
           { text: "网络流行词/MEME", link: "/item/word-meme" },
         ],
       },
@@ -49,6 +50,7 @@ export default defineConfig({
           { text: "格言警句（外文）", link: "/item/quote-intl" },
           { text: "未知的格言摘录（外文）", link: "/item/quote-intl-unk" },
           { text: "网络流行语/MEME", link: "/item/quote-meme" },
+          { text: "影视台词", link: "/item/quote-ent" },
         ],
       },
       {
