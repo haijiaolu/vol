@@ -19,7 +19,6 @@ read: 1
 
 ## A Declaration of the Independence of Cyberspace / 赛博空间独立宣言
 
-
 ### 说明
 
 作者：约翰·佩里·巴洛（John Perry Barlow, 1947-2018）

@@ -62,7 +62,6 @@ layout: doc
 
 - [故事寓言](item/story.md)
 
-
 ---
 
 <div style="margin-top:5rem">

@@ -237,7 +237,6 @@ But personally I think we should aspire to be like Alan Kay and do all three. Hi
 
 Thats certainly what I aim for. And hopefully I'll still be blowing people's minds past the age of 70.
 
-
 #### **中文翻译（机器翻译）**
 
 编程的 3 个部落
@@ -254,7 +253,6 @@ Thats certainly what I aim for. And hopefully I'll still be blowing people's min
 演讲者指出，我们计算机中的整个现代堆栈（内核、操作系统、浏览器、VM）都是用 C + ASM 编写的。所以你应该了解C和ASM。
 
 这真的很重要吗？严重的问题是，程序首先是指令列表，还是逻辑思想的表达？
-
 
 或者也许两者都不是，程序只是我们为其他人类制作的东西。如果没有受众阅读，一条消息从根本上来说毫无意义。如果不参考它们交互的外部世界，程序就毫无意义吗？
 

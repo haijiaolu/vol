@@ -269,7 +269,6 @@ Ever wonder about how Unix got started, not to mention all the twists and turns 
   - The Open Group announces Version 3 of the Single UNIX Specification (formerly Spec 1170).
   - Sources: Peter H. Salus, A Quarter Century of Unix; Microsoft; AT&T; The Open Group, Wikipedia and other sources.
 
-
 #### **中文翻译**
 
 ## Unix 40 年：昨天，今天和明天
