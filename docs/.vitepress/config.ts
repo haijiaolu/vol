@@ -4,14 +4,14 @@ import footnote from "markdown-it-footnote";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/yan/",
+  base: "/vol/",
   lang: "zh-CN",
   title: "观澜无言",
   titleTemplate: ":title - 观澜无言",
   description: "wiki, notes",
   lastUpdated: true,
   head: [
-    ["link", { rel: "icon", type: "image/x-icon", href: "/yan/favicon.ico" }],
+    ["link", { rel: "icon", type: "image/x-icon", href: "/vol/favicon.ico" }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -84,7 +84,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/haijiaolu/yan/" },
+      { icon: "github", link: "https://github.com/haijiaolu/vol/" },
     ],
     // footer: {
     //   message: '',
