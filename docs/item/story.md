@@ -1,8 +1,13 @@
 # 故事寓言
 
+[[toc]]
+
+---
+
 ### 《苏格兰的黑山羊》
 
-《苏格兰的黑山羊》 王吴军
+**《苏格兰的黑山羊》**  
+王吴军
 
 20世纪70年代的一天，英国的三位科学家威廉、木辛特、赫迪从伦敦去苏格兰参加一个科研会议，
 越过英国边境不久，他们发现了一只黑山羊。
@@ -21,13 +26,17 @@
 （来源于英国《科学家》（存疑）杂志的关于科学家职业特点的幽默短文比赛）
 （电影《动物世界》中有所引用）
 
+---
+
 ### 《不来梅的音乐家》
 
-《不来梅的音乐家》（The Bremen Town Musicians / The Four Musicians of Bremen）来自《格林童话》
+**《不来梅的音乐家》**  
+（The Bremen Town Musicians / The Four Musicians of Bremen）  
+来自《格林童话》
 
 > 驴、狗、猫和公鸡因为老了，他们的主人想要把他们都杀了，于是在旅途上相遇的他们决定去不来梅当个镇上的音乐家。
 > 路上他们遇到了一伙强盗并成功地吓走了强盗们，于是，动物们在那里悠闲地生活下去了。
->  https://literature.fandom.com/wiki/The_Bremen_Town_Musicians
+>  <https://literature.fandom.com/wiki/The_Bremen_Town_Musicians>
 
 从前有一匹驴，它为主人辛辛苦苦干了一辈子，没有气力磨面了，主人想杀掉它。
 驴听到风声，就逃到不来梅去，想在那里做个镇上的音乐家。
