@@ -1,10 +1,25 @@
-# ခက်သီ （Khat Thi，克席）
+---
+name: "Khat Thi（克席）"
+title: "ခက်သီ（克席，Khat Thi）"
+author: "ခက်သီ"
+authors:
+  zh: "克席"
+  en: "Khat Thi"
+date: "1976"
+created: ""
+updated: ""
+draft: false
+read: "1"
+tags: "人物/诗人/缅甸"
+---
+
+# ခက်သီ（克席，Khat Thi）
 
 Khat Thi（1976-2021?）缅甸诗人。
 
 ### 格言
 
-::: info
+::: "info"
 
 > [!quote]
 > "I don't want to be a hero, I don't want to be a martyr, 

@@ -1,10 +1,24 @@
-# Phil Karlton （菲尔·卡尔顿）
+---
+name: "Phil Karlton（菲尔·卡尔顿）"
+title: "Phil Karlton（菲尔·卡尔顿）"
+author: "Phil Karlton"
+authors:
+  zh: "菲尔·卡尔顿"
+date: "1949"
+created: ""
+updated: ""
+draft: false
+read: "1"
+tags: "人物/软件工程师/美国"
+---
+
+# Phil Karlton（菲尔·卡尔顿）
 
 Phil Karlton(1949-1997)，美国软件工程师。
 
 ### 名言
 
-::: info
+::: "info"
 
 > [!quote]
 >
@@ -33,7 +47,7 @@ Phil Karlton(1949-1997)，美国软件工程师。
 
 ```
 I should have known, as I’ve often quoted Phil Karlton’s wise saying
-“There are only two hard things in Computer Science: cache invalidation
+“There are only two hard things in Computer Science: "cache invalidation"
 and naming things”.
 ```
 
@@ -41,7 +55,7 @@ and naming things”.
 
 ```
 > Jeff Atwood @codinghorror · Aug 31, 2014
-> There are two hard things in computer science: cache invalidation,
+> There are two hard things in computer science: "cache invalidation,"
 > naming things, and off-by-one errors.
 >
 > Tim Bray @timbray · Sep 1, 2014

@@ -1,17 +1,31 @@
-# Tertullianus （德尔图良、特图里安、特土良）
+---
+name: "Tertullianus（德尔图良）"
+title: "Tertullianus（德尔图良，特图里安，特土良）"
+author: "Tertullianus"
+authors:
+  zh: "德尔图良"
+date: "公元155"
+created: ""
+updated: ""
+draft: false
+read: "1"
+tags: "人物/哲学家/罗马"
+---
+
+# Tertullianus（德尔图良，特图里安，特土良）
 
 Tertullianus (155/160 - 220?), 罗马帝国北非迦太基城（今突尼斯附近）神学家、哲学家。
 “最后一个希腊教父、第一个拉丁教父”。
 
 ### 名言
 
-::: info
+::: "info"
 
 > [!quote]
 >
 > 因为荒谬，所以相信。
 >
-> > I believe because it is absurd （英语近似）
+> > I believe because it is absurd（英语近似）
 
 :::
 

@@ -1,10 +1,24 @@
-# Edward Livingston Trudeau （爱德华·利文斯顿·特鲁多）
+---
+name: "Edward Livingston Trudeau（爱德华·利文斯顿·特鲁多）"
+title: "Edward Livingston Trudeau（爱德华·利文斯顿·特鲁多）"
+author: "Edward Livingston Trudeau"
+authors:
+  zh: "爱德华·利文斯顿·特鲁多"
+date: "1848"
+created: ""
+updated: ""
+draft: false
+read: "1"
+tags: "人物/医师/美国"
+---
+
+# Edward Livingston Trudeau（爱德华·利文斯顿·特鲁多）
 
 Edward Livingston Trudeau(1848-1915)，美国医生。
 
 ### 名言【存疑】
 
-::: info
+::: "info"
 
 > [!quote]
 >

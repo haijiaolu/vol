@@ -1,10 +1,24 @@
-# 戈弗雷·哈罗德·哈代 （Godfrey Harold Hardy）
+---
+name: "Godfrey Harold Hardy（G.H·哈代）"
+title: "Godfrey Harold Hardy（戈弗雷·哈罗德·哈代）"
+author: "Godfrey Harold Hardy"
+authors:
+  zh: "戈弗雷·哈罗德·哈代"
+date: "1877"
+created: ""
+updated: ""
+draft: false
+read: "1"
+tags: "人物/数学家/英国"
+---
+
+# Godfrey Harold Hardy（戈弗雷·哈罗德·哈代）
 
 G.H. Hardy (1877—1947) 英国数学家。
 
 ### 《一个数学家的辩白》
 
-::: info
+::: "info"
 
 > [!quote]
 >

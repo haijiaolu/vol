@@ -1,10 +1,24 @@
-# Calyampudi Radhakrishna Rao (卡利安普迪·拉达克里希纳·劳, C.R.Rao)
+---
+name: "C.R.Rao"
+title: "Calyampudi Radhakrishna Rao（卡利安普迪·拉达克里希纳·劳，C.R.Rao）"
+author: "Calyampudi Radhakrishna Rao"
+authors:
+  zh: "卡利安普迪·拉达克里希纳·劳"
+date: "1920"
+created: ""
+updated: ""
+draft: false
+read: "1"
+tags: "人物/统计学家/印度"
+---
+
+# Calyampudi Radhakrishna Rao（卡利安普迪·拉达克里希纳·劳，C.R.Rao）
 
 C.R Rao (1920-)，印度统计学家。
 
 ### 名言
 
-::: info
+::: "info"
 
 > [!quote]
 > All knowledge is, in final analysis, history.
@@ -20,7 +34,7 @@ C.R Rao (1920-)，印度统计学家。
 
 ```
 出自：
-C.R. Rao, Statistics and Truth: Putting Chance to Work《统计与真理——怎样运用偶然性》扉页
+C.R. Rao, Statistics and Truth: "Putting Chance to Work《统计与真理——怎样运用偶然性》扉页"
 
 【英语】
 Knowledge is what we know
