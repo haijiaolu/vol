@@ -9,8 +9,8 @@ draft: false
 read: "1"
 sources: "https://onecoder.site/archives/1552"
 tags: 
-  - "时政"
-  - "文化"
+  - "文章/时政"
+  - "文章/文化"
 ---
 
 [[toc]]

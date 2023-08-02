@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://www.poetica.fr/poeme-533/arthur-rimbaud-sensation/"
 translates: "https://zhuanlan.zhihu.com/p/90789322"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

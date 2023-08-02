@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://www.americanrhetoric.com/speeches/douglasmacarthurfarewelladdress.htm"
 translates: "https://www.douban.com/note/237854274/"
-tags: "演讲"
+tags: "文章/演讲"
 ---
 
 [[toc]]

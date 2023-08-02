@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://zh.wikisource.org/zh-hans/蘭亭集序"
-tags: ""
+tags: "文章/"
 ---
 
 [[toc]]

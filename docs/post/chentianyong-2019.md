@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://www.leadeco.com/wfly21/wap_doc/12102982.html"
-tags: "时政"
+tags: "文章/时政"
 ---
 
 [[toc]]

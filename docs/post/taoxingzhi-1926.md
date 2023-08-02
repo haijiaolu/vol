@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.pep.com.cn/zslth/xqjyzydl/202111/t20211126_1972064.shtml"
-tags: "演讲"
+tags: "文章/演讲"
 ---
 
 [[toc]]

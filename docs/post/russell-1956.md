@@ -15,7 +15,7 @@ sources:
   - "https://users.drew.edu/~jlenz/br-prologue.html"
   - "https://www.humanities.mcmaster.ca/~bertrand/misc.html"
 translates: "商务印书馆，《罗素文集·〈罗素自传〉》"
-tags: "哲学"
+tags: "文章/哲学"
 ---
 
 [[toc]]

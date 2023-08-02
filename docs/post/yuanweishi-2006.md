@@ -12,7 +12,7 @@ sources:
   - "https://jwc.sjtu.edu.cn/info/1222/9674.htm"
   - "https://www.douban.com/group/topic/3219434/"
   - "http://zqb.cyol.com/content/2006-03/01/content_1324540.htm"
-tags: "历史"
+tags: "文章/历史"
 ---
 
 [[toc]]

@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://zhuanlan.zhihu.com/p/375529444"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

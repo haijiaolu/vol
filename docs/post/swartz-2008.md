@@ -15,7 +15,7 @@ sources:
   - "https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt"
   - "https://openbehavioralscience.org/manifesto/"
 translates: "https://zhuanlan.zhihu.com/p/20332303"
-tags: "科技"
+tags: "文章/科技"
 ---
 
 [[toc]]

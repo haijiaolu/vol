@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "《春醪集》"
-tags: "散文"
+tags: "文章/散文"
 ---
 
 [[toc]]

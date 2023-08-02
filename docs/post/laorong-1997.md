@@ -12,8 +12,8 @@ sources:
   - "四通利方体育沙龙：http://www.srsnet.com/richtalk/special.html"
   - "南方周末：http://www.infzm.com/content/31436"
 tags: 
-  - "文化"
-  - "体育"
+  - "文章/文化"
+  - "文章/体育"
 ---
 
 [[toc]]

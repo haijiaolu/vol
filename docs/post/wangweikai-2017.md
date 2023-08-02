@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "南方周末：https://www.infzm.com/content/126578"
-tags: "时政"
+tags: "文章/时政"
 ---
 
 [[toc]]

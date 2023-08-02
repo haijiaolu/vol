@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.lishiyushehui.cn/article/item/584"
-tags: "财经"
+tags: "文章/财经"
 ---
 
 [[toc]]

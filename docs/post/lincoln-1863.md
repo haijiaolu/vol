@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://education.nationalgeographic.org/resource/gettysburg-address"
 translates: ""
-tags: "演讲"
+tags: "文章/演讲"
 ---
 
 [[toc]]

@@ -11,7 +11,7 @@ sources:
   - "http://www.chinalawreview.com.cn/20150317162519.html"
   - "[失效]【文字版转载】中国社会科学网：http://www.cssn.cn/fx/fx_cgzs/201511/t20151120_2706397.shtml"
   - "https://read.douban.com/ebook/334866301/"
-tags: "历史"
+tags: "文章/历史"
 ---
 
 [[toc]]

@@ -10,7 +10,7 @@ read: "1"
 sources:
   - "https://news.pku.edu.cn/mtbdnew/384ab002fef04b17aadfa8ff873e7b86.htm"
   - "https://mp.weixin.qq.com/s/FP_oz7LirU5De_EVljlxsQ"
-tags: "历史"
+tags: "文章/历史"
 ---
 
 [[toc]]

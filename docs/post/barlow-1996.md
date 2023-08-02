@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://www.eff.org/cyberspace-independence"
 translates: ""
-tags: "科技"
+tags: "文章/科技"
 ---
 
 [[toc]]

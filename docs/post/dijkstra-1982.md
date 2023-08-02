@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html"
 translates: ""
-tags: "科技"
+tags: "文章/科技"
 ---
 
 [[toc]]

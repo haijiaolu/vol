@@ -16,8 +16,8 @@ translates:
   - "http://math0.bnu.edu.cn/~jgbao/xinxifabu/plea2005.pdf"
   - "https://zhuanlan.zhihu.com/p/84540936"
 tags: 
-  - "演讲"
-  - "科技"
+  - "文章/演讲"
+  - "文章/科技"
 ---
 
 [[toc]]

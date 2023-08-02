@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://reader.s-reader.com/article/5c/3521252.html"
-tags: "时政"
+tags: "文章/时政"
 ---
 
 [[toc]]

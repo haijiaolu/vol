@@ -10,7 +10,7 @@ read: "1"
 sources: 
   - "《中国是部金融史2天下之财》"
   - "《中国农村金融》2014年http://www.cnki.com.cn/Article/CJFDTotal-ZGNC201408042.htm"
-tags: "财经"
+tags: "文章/财经"
 ---
 
 [[toc]]

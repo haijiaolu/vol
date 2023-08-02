@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://weibo.com/ttarticle/p/show?id=2309404079031325749562"
-tags: "文化"
+tags: "文章/文化"
 ---
 
 [[toc]]

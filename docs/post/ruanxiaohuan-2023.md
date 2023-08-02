@@ -10,7 +10,7 @@ read: "1"
 sources:
   - "https://www.williamlong.info/archives/7112.html"
   - "https://zh.wikisource.org/wiki/阮晓寰煽动颠覆国家政权一审刑事判决书"
-tags: "法律"
+tags: "文章/法律"
 ---
 
 [[toc]]

@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://www.poetryfoundation.org/poems/90831/the-emptiness-of-thought"
 translates: "https://bedtimepoem.com/archives/7788"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

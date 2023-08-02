@@ -8,8 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "微信公众号 虹膜：https://mp.weixin.qq.com/s/fprNn9z_NjMdgwyIqNSS2Q"
-tags: 
-  - "电影"
+tags: "文章/电影"
 ---
 
 [[toc]]

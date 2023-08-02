@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "历史"
+tags: "文章/历史"
 ---
 
 [[toc]]

@@ -15,7 +15,7 @@ sources:
   - "https://www.uab.edu/ullmanmuseum/"
   - "https://birminghamhistoricalsociety.files.wordpress.com/2020/08/bhs_newsletter_2008_ullman.pdf"
 translates: "https://language.chinadaily.com.cn/a/202105/04/WS60909c94a31024ad0babbe03.html"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

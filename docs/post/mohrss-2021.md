@@ -10,7 +10,7 @@ read: "1"
 sources:
   - "http://www.mohrss.gov.cn/xxgk2020/1_2_x/jd/202112/t20211202_429298.html"
   - "http://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/rcrs/202112/t20211202_429301.html"
-tags: "资料"
+tags: "文章/资料"
 ---
 
 [[toc]]

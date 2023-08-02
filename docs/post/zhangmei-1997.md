@@ -10,7 +10,7 @@ read: "1"
 sources:
   - "《木屐声声》https://book.douban.com/subject/26687021/"
   - "https://yumoe.com/archives/writetoyouforyourfuture.html"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

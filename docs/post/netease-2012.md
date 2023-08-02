@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://news.163.com/special/reviews/pkuisgone.html"
-tags: "文化"
+tags: "文章/文化"
 ---
 
 [[toc]]

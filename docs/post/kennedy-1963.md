@@ -16,8 +16,8 @@ sources:
   - "https://www.jfklibrary.org/learn/about-jfk/historic-speeches/remarks-at-the-rudolph-wilde-platz-berlin"
 translates: ""
 tags: 
-  - "演讲"
-  - "时政"
+  - "文章/演讲"
+  - "文章/时政"
 ---
 
 [[toc]]

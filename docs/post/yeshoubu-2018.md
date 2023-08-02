@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "微信公众号 大象公会 https://mp.weixin.qq.com/s/Hb8-tONBS1dxOHt3ikNAkw"
-tags: "社会"
+tags: "文章/社会"
 ---
 
 [[toc]]

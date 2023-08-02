@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "文化"
+tags: "文章/文化"
 ---
 
 [[toc]]

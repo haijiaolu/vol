@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://www.nytimes.com/1996/02/25/magazine/the-decay-of-cinema.html"
 translates: "https://book.douban.com/review/1827473/"
-tags: "电影"
+tags: "文章/电影"
 ---
 
 [[toc]]

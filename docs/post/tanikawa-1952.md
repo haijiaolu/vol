@@ -17,7 +17,7 @@ translates:
   - "《古川的诗》https://book.douban.com/subject/35183754/"
   - "《二十亿光年的孤独》 https://book.douban.com/subject/26976266/"
   - "https://www.douban.com/note/489879844/"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

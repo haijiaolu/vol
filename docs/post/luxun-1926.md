@@ -10,7 +10,7 @@ read: "1"
 sources:
   - "http://www.luxunmuseum.com.cn/cx/content.php?id=1590"
   - "https://www.sizhengwang.cn/upload/resources/image/2021/06/29/1515290.jpg?1661974402800/"
-tags: "散文"
+tags: "文章/散文"
 ---
 
 [[toc]]

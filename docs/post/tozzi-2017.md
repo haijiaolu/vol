@@ -12,7 +12,7 @@ read: "1"
 sources:
   - "http://thevarguy.com/open-source/unix-github-10-key-events-free-and-open-source-software-history"
 translates: "https://linux.cn/article-8998-1.html)"
-tags: "科技"
+tags: "文章/科技"
 ---
 
 [[toc]]

@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: ""
 translates: "https://site.douban.com/174501/widget/notes/10588979/note/237643563/"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

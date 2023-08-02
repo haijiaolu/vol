@@ -15,8 +15,7 @@ sources: ""
 translates:
   - "https://worldhistorycommons.org/havels-new-years-address-nation-1990"
   - "https://www.douban.com/note/126028208/"
-tags: 
-  - "演讲"
+tags: "文章/演讲"
 ---
 
 [[toc]]

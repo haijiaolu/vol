@@ -10,7 +10,7 @@ read: "1"
 sources:
   - "http://news.chinabyte.com/144/1715644.shtml"
   - "https://www.cnblogs.com/titanium/p/3543413.html"
-tags: "科技"
+tags: "文章/科技"
 ---
 
 [[toc]]

@@ -13,8 +13,8 @@ read: "1"
 sources: ""
 translates: ""
 tags: 
-  - "采访"
-  - "文化"
+  - "文章/采访"
+  - "文章/文化"
 ---
 
 [[toc]]

@@ -9,8 +9,8 @@ draft: false
 read: "1"
 sources: ""
 tags: 
-  - "时政"
-  - "信件"
+  - "文章/时政"
+  - "文章/信件"
 ---
 
 [[toc]]

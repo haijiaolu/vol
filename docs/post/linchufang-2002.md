@@ -8,8 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://bbs.tianya.cn/post-no01-23400-1.shtml"
-tags: 
-  - "演讲"
+tags: "文章/演讲"
 ---
 
 [[toc]]

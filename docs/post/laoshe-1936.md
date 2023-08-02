@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "小说"
+tags: "文章/小说"
 ---
 
 [[toc]]

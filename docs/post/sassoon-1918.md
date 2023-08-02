@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://www.poetry.com/poem/34895/in-me,-past,-present,-future-meet"
 translates: "https://zhuanlan.zhihu.com/p/147986071"
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

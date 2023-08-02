@@ -13,7 +13,7 @@ draft: false
 read: "1"
 sources: "https://namu.wiki/w/산유화"
 translates: ""
-tags: "诗歌"
+tags: "文章/诗歌"
 ---
 
 [[toc]]

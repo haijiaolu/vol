@@ -16,7 +16,7 @@ sources:
   - "https://www.jbookforum.com/wp-content/uploads/2020/05/ACCEPTANCE-ADDRESS-BY-Haruki-Murakami.pdf"
   - "https://en.wikiquote.org/wiki/Haruki_Murakami"
 translates: "https://www.zhihu.com/question/20515695/answer/36543110"
-tags: "演讲"
+tags: "文章/演讲"
 ---
 
 [[toc]]
