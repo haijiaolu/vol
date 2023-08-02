@@ -1,14 +1,18 @@
 ---
 name: "金素月-山有花"
 title: "산유화"
-title_zh: "山有花"
 author: "김소월"
-author_zh: "金素月"
+titles:
+  zh: "山有花"
+authors:
+  zh: "金素月"
 date: "1925"
-source: "https://namu.wiki/w/산유화"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://namu.wiki/w/산유화"
+translates: ""
 tags: "诗歌"
 ---
 

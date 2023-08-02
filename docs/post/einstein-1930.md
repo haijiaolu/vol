@@ -1,14 +1,19 @@
 ---
 name: "爱因斯坦-我的世界观"
 title: "我的世界观"
-title_zh: "我的世界观"
 author: "Albert Einstein"
-author_zh: "阿尔伯特·爱因斯坦"
+titles:
+  zh: "我的世界观"
+authors:
+  zh: "阿尔伯特·爱因斯坦"
 date: "1930"
-source: ""
-translate: "《爱因斯坦文集》"
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: "《爱因斯坦文集》"
+tags: "哲学"
 ---
 
 [[toc]]

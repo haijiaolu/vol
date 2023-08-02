@@ -1,14 +1,13 @@
 ---
 name: "三书-火车外一闪而过的风景"
 title: "火车外一闪而过的风景"
-title_zh: ""
-author: "三书（王亚鸽）"
-author_zh: ""
-date: "大约2022年"
-source: "https://mp.weixin.qq.com/s/ZYv03PsZkx-5okHEhl1Nqw"
-translate: ""
-draft: 1
-read: 1
+author: "三书"
+date: "约2022"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://mp.weixin.qq.com/s/ZYv03PsZkx-5okHEhl1Nqw"
 tags: "诗歌"
 ---
 

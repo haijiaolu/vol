@@ -1,15 +1,14 @@
 ---
 name: "叶敬忠-在权力的包围中不要熄灭真善美的光"
 title: "在权力的包围中不要熄灭真善美的光"
-title_zh: ""
 author: "叶敬忠"
-author_zh: ""
-date: "2023/6/21"
-source: 
-  - "https://mp.weixin.qq.com/s/vox6KDdHGvRImPC0EVB8dg"
-translate: ""
-draft: 1
-read: 1
+date: "2023/06/21"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://mp.weixin.qq.com/s/vox6KDdHGvRImPC0EVB8dg"
+tags: "演讲"
 ---
 
 [[toc]]

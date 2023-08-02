@@ -1,14 +1,18 @@
 ---
-name: "萨松-于我过去现在以及未来"
+name: "西格夫里·萨松-于我过去现在以及未来"
 title: "In me, past, present, future meet"
-title_zh: "于我，过去，现在以及未来"
 author: "Siegfried Loraine Sassoon"
-author_zh: "西格夫里·萨松"
-date: "大约1918"
-source: "https://www.poetry.com/poem/34895/in-me,-past,-present,-future-meet"
-translate: "https://zhuanlan.zhihu.com/p/147986071"
-draft: 1
-read: 1
+titles:
+  zh: "于我，过去，现在以及未来"
+authors:
+  zh: "西格夫里·萨松"
+date: "约1918"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.poetry.com/poem/34895/in-me,-past,-present,-future-meet"
+translates: "https://zhuanlan.zhihu.com/p/147986071"
 tags: "诗歌"
 ---
 

@@ -1,14 +1,14 @@
 ---
-name: "陶杰-当时只道是寻常"
+name: "陶杰-隔世身影当时只道是寻常"
 title: "隔世身影·当时只道是寻常"
-title_zh: ""
 author: "陶杰"
-author_zh: ""
 date: "2012"
-source: "《杀鹌鹑的少女》https://book.douban.com/subject/11505930/"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "《杀鹌鹑的少女》https://book.douban.com/subject/11505930/"
+tags: "散文"
 ---
 
 [[toc]]

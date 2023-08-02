@@ -1,14 +1,13 @@
 ---
 name: "北岛-太阳城札记"
-title: "太阳城札记（组诗）"
-title_zh: ""
-author: "北岛（赵振开）"
-author_zh: ""
-date: ""
-source: "https://zhuanlan.zhihu.com/p/375529444"
-translate: ""
-draft: 1
-read: 1
+title: "太阳城札记"
+author: "北岛"
+date: "1979"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://zhuanlan.zhihu.com/p/375529444"
 tags: "诗歌"
 ---
 

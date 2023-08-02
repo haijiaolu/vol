@@ -1,16 +1,15 @@
 ---
 name: "冯至-歧路"
 title: "歧路"
-title_zh: ""
 author: "冯至"
-author_zh: ""
 date: "1943"
-source:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://blog.sina.com.cn/s/blog_4ae5369b0102w8xo.html"
   - "https://zhuanlan.zhihu.com/p/36669082"
-translate: ""
-draft: 1
-read: 1
 tags: "诗歌"
 ---
 

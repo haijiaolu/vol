@@ -1,15 +1,14 @@
 ---
-name: "清和-香港往事一人一城"
+name: "清和-香港往事 | 一人，一城"
 title: "香港往事 | 一人，一城"
-title_zh: ""
 author: "清和"
-author_zh: ""
-date: "2019/4/12"
-source: "微信公众号 智本社https://mp.weixin.qq.com/s/_oakWnM8HY9TXrctijv53Q"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2019/04/12"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "微信公众号 智本社https://mp.weixin.qq.com/s/_oakWnM8HY9TXrctijv53Q"
+tags: "财经"
 ---
 
 [[toc]]

@@ -1,14 +1,15 @@
 ---
-name: "席慕容-一棵开花的树/雕刀"
+name: "席慕容-一棵开花的树和雕刀"
 title: "一棵开花的树"
-title_zh: ""
 author: "席慕容"
-author_zh: ""
-date: "1980/10/4"
-source: "《七里香》"
-translate: ""
-draft: 1
-read: 1
+date: "1980/10/04"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
+  - "《七里香》"
+  - "《以诗之名》"
 tags: "诗歌"
 ---
 

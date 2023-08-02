@@ -1,15 +1,14 @@
 ---
 name: "冲浪鸽-25年前互联网大佬在最原始的论坛网上冲浪"
 title: "25年前，互联网大佬在最原始的论坛网上冲浪"
-title_zh: ""
 author: "冲浪鸽"
-author_zh: ""
-date: "2019/9/9"
-source: "https://www.huxiu.com/article/317218.html"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2019/09/09"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.huxiu.com/article/317218.html"
+tags: "科技"
 ---
 
 [[toc]]

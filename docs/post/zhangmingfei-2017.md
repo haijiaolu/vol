@@ -1,15 +1,14 @@
 ---
 name: "张鸣飞-网络小说二十年推荐"
 title: "网络小说二十年推荐"
-title_zh: ""
 author: "张鸣飞"
-author_zh: ""
-date: "2017/4/11"
-source: "https://zhuanlan.zhihu.com/p/26298455"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2017/04/11"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://zhuanlan.zhihu.com/p/26298455"
+tags: "文化"
 ---
 
 [[toc]]

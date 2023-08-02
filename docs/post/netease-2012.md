@@ -1,14 +1,14 @@
 ---
-name: "网易新闻“另一面”：何必为北大痛心疾首？"
+name: "网易新闻-网易新闻“另一面”：何必为北大痛心疾首？"
 title: "网易新闻“另一面”：何必为北大痛心疾首？"
-title_zh: ""
 author: "网易新闻"
-author_zh: ""
 date: "2011"
-source: "http://news.163.com/special/reviews/pkuisgone.html"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "http://news.163.com/special/reviews/pkuisgone.html"
+tags: "文化"
 ---
 
 [[toc]]

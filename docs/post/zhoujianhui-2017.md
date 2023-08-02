@@ -1,14 +1,14 @@
 ---
-name: "周剑辉-如何看待简体字"
+name: "周剑辉-怎样看待简体字"
 title: "怎樣看待簡體字？"
-title_zh: ""
 author: "周劍輝"
-author_zh: ""
 date: "2017/10/26"
-source: "www.haodoo.net/?M=hd&P=sc"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "www.haodoo.net/?M=hd&P=sc"
+tags: "文化"
 ---
 
 [[toc]]

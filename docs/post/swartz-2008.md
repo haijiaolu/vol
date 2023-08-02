@@ -1,17 +1,21 @@
 ---
 name: "亚伦·斯沃茨-游击队开放访问宣言"
 title: "Guerilla Open Access Manifesto"
-title_zh: "游击队开放访问宣言"
 author: "Aaron Swartz"
-author_zh: "亚伦·斯沃茨"
+titles:
+  zh: "游击队开放访问宣言"
+authors:
+  zh: "亚伦·斯沃茨"
 date: "2008/07"
-source: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt"
   - "https://openbehavioralscience.org/manifesto/"
-translate: 
-  - "https://zhuanlan.zhihu.com/p/20332303"
-draft: 1
-read: 1
+translates: "https://zhuanlan.zhihu.com/p/20332303"
+tags: "科技"
 ---
 
 [[toc]]

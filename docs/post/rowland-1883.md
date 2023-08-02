@@ -1,16 +1,23 @@
 ---
 name: "亨利·奥古斯特·罗兰-为纯科学呼吁"
 title: "A PLEA FOR PURE SCIENCE"
-title_zh: "为纯科学呼吁"
 author: "Henry Augustus Rowland"
-author_zh: "亨利·奥古斯特·罗兰"
+titles:
+  zh: "为纯科学呼吁"
+authors:
+  zh: "亨利·奥古斯特·罗兰"
 date: "1883"
-source: "https://www.jstor.org/stable/1758976"
-translate:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.jstor.org/stable/1758976"
+translates:
   - "http://math0.bnu.edu.cn/~jgbao/xinxifabu/plea2005.pdf"
   - "https://zhuanlan.zhihu.com/p/84540936"
-draft: 1
-read: 1
+tags: 
+  - "演讲"
+  - "科技"
 ---
 
 [[toc]]

@@ -1,15 +1,14 @@
 ---
 name: "黄宗智-重新认识中国劳动人民"
 title: "重新认识中国劳动人民"
-title_zh: ""
 author: "黄宗智"
-author_zh: ""
 date: "2013"
-source: "https://www.lishiyushehui.cn/article/item/584"
-translate: ""
-draft: 1
-read: 1
-tags: "论文"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.lishiyushehui.cn/article/item/584"
+tags: "财经"
 ---
 
 [[toc]]

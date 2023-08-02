@@ -1,17 +1,19 @@
 ---
-name: "Anthes-UNIX40年昨天今天和明天"
-title: "Unix turns 40: The past, present and future of a revolutionary OS"
-title_zh: "Unix 40年：昨天，今天和明天"
+name: "Anthes-Unix40年昨天今天和明天"
+title: "Unix turns 40: "The past, present and future of a revolutionary OS""
 author: "Gary Anthes"
-author_zh: "陈皓【翻译】"
-date: "2015/10/9"
-source: 
-  - "https://www.computerworld.com/article/2524456/unix-turns-40--the-past--present-and-future-of-a-revolutionary-os.html"
-translate: 
-  - "https://coolshell.cn/articles/1023.html"
-draft: 1
-read: 1
-created: 2019-01-31 05:29:50Z
+titles:
+  zh: "Unix 40年：昨天，今天和明天"
+authors: 
+  zh: ""
+date: "2009/06/04"
+created: "2019-01-31 05:29:50"
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.computerworld.com/article/2524456/unix-turns-40--the-past--present-and-future-of-a-revolutionary-os.html"
+translates: "陈皓 https://coolshell.cn/articles/1023.html"
+tags: "科技"
 ---
 
 [[toc]]

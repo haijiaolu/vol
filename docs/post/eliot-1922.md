@@ -1,14 +1,18 @@
 ---
 name: "艾略特-荒原"
 title: "The Waste Land"
-title_zh: "荒原"
 author: "T. S. Eliot"
-author_zh: "艾略特"
+titles:
+  zh: "荒原"
+authors:
+  zh: "艾略特"
 date: "1922"
-source: ""
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: ""
 tags: "诗歌"
 ---
 

@@ -1,15 +1,14 @@
 ---
 name: "孤独力命-晋江小说的人物姓氏"
 title: "晋江小说的人物姓氏"
-title_zh: ""
 author: "孤独力命"
-author_zh: ""
-date: "2016/11/7"
-source: "https://www.douban.com/note/590741250/"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2016/11/07"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.douban.com/note/590741250/"
+tags: "其他"
 ---
 
 [[toc]]

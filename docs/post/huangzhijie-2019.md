@@ -1,15 +1,14 @@
 ---
 name: "黄志杰-甘柴劣火"
 title: "甘柴劣火"
-title_zh: ""
 author: "黄志杰"
-author_zh: ""
-date: "2019/1/11"
-source: "微信公众号 呦呦鹿鸣  https://mp.weixin.qq.com/s/958v2JQO6AeyLOGjxvDo6g"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2019/01/11"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "微信公众号 呦呦鹿鸣  https://mp.weixin.qq.com/s/958v2JQO6AeyLOGjxvDo6g"
+tags: "时政"
 ---
 
 [[toc]]

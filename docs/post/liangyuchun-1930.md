@@ -1,14 +1,14 @@
 ---
 name: "梁遇春-人死观"
 title: "人死观"
-title_zh: ""
 author: "梁遇春"
-author_zh: ""
 date: "1930"
-source: "《春醪集》"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "《春醪集》"
+tags: "散文"
 ---
 
 [[toc]]

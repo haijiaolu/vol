@@ -1,18 +1,18 @@
 ---
-name: "袁伟时-现代化与历史教科书等"
+name: "袁伟时-现代化与历史教科书"
 title: "现代化与历史教科书"
-title_zh: ""
 author: "袁伟时"
-author_zh: ""
 date: "2006"
-source: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://zqb.cyol.com/gb/zqb/2006-01/11/content_118530.htm"
   - "https://jwc.sjtu.edu.cn/info/1222/9674.htm"
   - "https://www.douban.com/group/topic/3219434/"
   - "http://zqb.cyol.com/content/2006-03/01/content_1324540.htm"
-translate: ""
-draft: 1
-read: 1
+tags: "历史"
 ---
 
 [[toc]]

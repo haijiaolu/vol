@@ -1,14 +1,18 @@
 ---
 name: "艾米莉·狄金森-如果我不曾见过太阳"
 title: "Had I not seen the Sun"
-title_zh: "如果我不曾见过太阳"
 author: "Emily Dickinson"
-author_zh: "艾米莉·狄金森"
+titles:
+  zh: "如果我不曾见过太阳"
+authors:
+  zh: "艾米莉·狄金森"
 date: "1872"
-source: "https://www.edickinson.org/editions/2/image_sets/12171949"
-translate: "https://www.douban.com/group/topic/89771034/"
-draft: 0
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.edickinson.org/editions/2/image_sets/12171949"
+translates: "https://www.douban.com/group/topic/89771034/"
 tags: "诗歌"
 ---
 

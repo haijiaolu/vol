@@ -1,21 +1,22 @@
 ---
-name: "王小波-我为什么写作"
+name: "王小波-我为什么要写作"
 title: "我为什么要写作——《时代三部曲》总序"
-title_zh: ""
 author: "王小波"
-author_zh: ""
-date: "大约1994年"
-source: ""
-translate: ""
-draft: 1
-read: 1
+date: "约1994"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+tags: "散文"
 ---
 
 [[toc]]
 
 # 王小波
 
-## 我为什么要写作——《时代三部曲》总序
+## 我为什么要写作
+——《时代三部曲》总序
 
 > 本文最初发表于一九九四年三月出版的第 111 期《香港文学》杂志
 

@@ -1,15 +1,15 @@
 ---
 name: "林楚方-布什总统在美国国庆日在中国网友会上的演说代拟"
 title: "布什总统在美国国庆日在中国网友会上的演说（代拟）"
-title_zh: ""
 author: "林楚方"
-author_zh: ""
-date: "2002/7/21"
-source: "http://bbs.tianya.cn/post-no01-23400-1.shtml"
-translate: ""
-draft: 1
-read: 1
-tags: "演讲"
+date: "2002/07/21"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "http://bbs.tianya.cn/post-no01-23400-1.shtml"
+tags: 
+  - "演讲"
 ---
 
 [[toc]]

@@ -1,11 +1,13 @@
 ---
 name: "半月谈-共和国词典1949-2009"
 title: "共和国词典1949-2009"
-title_zh: ""
 author: "半月谈"
-author_zh: ""
-date: "2010-10-01"
-source: 
+date: "2010/10/01"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: 
   - "[共和国词典]（http://www.xinhuanet.com//banyt/0010-08/30/content_12116001.htm）"
   - "[共和国词典1949～1953]（http://www.banyuetan.org/chcontent/jrt/2010930/49702.shtml）"
   - "[共和国词典1954～1962]（http://www.banyuetan.org/chcontent/jrt/2010930/49703.shtml）"
@@ -14,9 +16,7 @@ source:
   - "[共和国词典1985～1994]（http://www.banyuetan.org/chcontent/jrt/2010930/49706.shtml）"
   - "[共和国词典1995～2005]（http://www.banyuetan.org/chcontent/jrt/2010930/49707.shtml）"
   - "[共和国词典2006～2009]（http://www.banyuetan.org/chcontent/jrt/2010930/49708.shtml）"
-translate: ""
-draft: 1
-read: 1
+tags: "时政"
 ---
 
 [[toc]]

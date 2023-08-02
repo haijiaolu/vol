@@ -1,14 +1,13 @@
 ---
 name: "张枣-镜中"
 title: "镜中"
-title_zh: ""
 author: "张枣"
-author_zh: ""
 date: "1984"
-source: "https://www.zhihu.com/question/27007320"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.zhihu.com/question/27007320"
 tags: "诗歌"
 ---
 

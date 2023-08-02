@@ -1,16 +1,16 @@
 ---
 name: "鲁迅-记念刘和珍君"
 title: "记念刘和珍君"
-title_zh: ""
 author: "鲁迅"
-author_zh: ""
 date: "1926"
-source:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://www.luxunmuseum.com.cn/cx/content.php?id=1590"
   - "https://www.sizhengwang.cn/upload/resources/image/2021/06/29/1515290.jpg?1661974402800/"
-translate: ""
-draft: 1
-read: 1
+tags: "散文"
 ---
 
 [[toc]]

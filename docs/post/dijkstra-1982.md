@@ -1,15 +1,19 @@
 ---
-name: "戴克斯特拉-为什么应该从0开始计数"
+name: "艾兹赫尔·戴克斯特拉-为什么应该从0开始计数"
 title: "Why numbering should start at zero"
-title_zh: "为什么应该从0开始计数"
 author: "Edsger Wybe Dijkstra"
-author_zh: "艾兹赫尔·戴克斯特拉"
-date: ""
-source: "http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html"
-translate: ""
-draft: 1
-read: 1
-created: 2019-02-12 06:51:51Z
+titles:
+  zh: "为什么应该从0开始计数"
+authors:
+  zh: "艾兹赫尔·戴克斯特拉"
+date: "1982/08/11"
+created: "2019-02-12 06:51:51"
+updated: ""
+draft: false
+read: "1"
+sources: "http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html"
+translates: ""
+tags: "科技"
 ---
 
 [[toc]]

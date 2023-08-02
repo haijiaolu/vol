@@ -1,14 +1,14 @@
 ---
 name: "陶行知-我们的信条"
 title: "我们的信条"
-title_zh: ""
 author: "陶行知"
-author_zh: ""
 date: "1926"
-source: "https://www.pep.com.cn/zslth/xqjyzydl/202111/t20211126_1972064.shtml"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.pep.com.cn/zslth/xqjyzydl/202111/t20211126_1972064.shtml"
+tags: "演讲"
 ---
 
 [[toc]]

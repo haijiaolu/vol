@@ -1,16 +1,20 @@
 ---
 name: "但丁-神曲地狱篇"
 title: "Divina Commedia"
-title_zh: "神曲·地狱篇"
 author: "Dante"
-author_zh: "但丁"
-date: "1313"
-source: ""
-translate:
+titles: 
+  zh: "神曲·地狱篇"
+authors: 
+  zh: "但丁"
+date: "公元1313"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: 
   - "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-3/"
   - "https://read.douban.com/reader/ebook/319340021/"
-draft: 1
-read: 1
 tags: "诗歌"
 ---
 

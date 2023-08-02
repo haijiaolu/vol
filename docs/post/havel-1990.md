@@ -1,18 +1,22 @@
 ---
-name: "哈维尔-1990年新年献辞"
-title: ""
-title_zh: ""
+name: "瓦茨拉夫·哈维尔-1990年新年献辞"
+title: "1990年新年献辞"
 author: "Václav Havel"
-author_zh: "瓦茨拉夫·哈维尔"
-date: ""
-source: ""
-translate:
+titles:
+  zh: "1990年新年献辞"
+authors:
+  zh: "瓦茨拉夫·哈维尔"
+date: "1990/01/01"
+created: "2020-12-05 08:21:58"
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates:
   - "https://worldhistorycommons.org/havels-new-years-address-nation-1990"
   - "https://www.douban.com/note/126028208/"
-draft: 1
-read: 1
-created: 2020-12-05 08:21:58Z
-tags: "演讲"
+tags: 
+  - "演讲"
 ---
 
 [[toc]]

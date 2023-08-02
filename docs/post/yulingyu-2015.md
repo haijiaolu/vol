@@ -1,18 +1,17 @@
 ---
 name: "余凌云-中国宪法史上的国歌"
 title: "中国宪法史上的国歌"
-title_zh: ""
 author: "余凌云"
-author_zh: ""
 date: "2015"
-source:
+created: "2019-01-31 05:18:07"
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://www.chinalawreview.com.cn/20150317162519.html"
   - "[失效]【文字版转载】中国社会科学网：http://www.cssn.cn/fx/fx_cgzs/201511/t20151120_2706397.shtml"
   - "https://read.douban.com/ebook/334866301/"
-translate: ""
-draft: 1
-read: 1
-created: 2019-01-31 05:18:07Z
+tags: "历史"
 ---
 
 [[toc]]

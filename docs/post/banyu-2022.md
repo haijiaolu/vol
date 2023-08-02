@@ -1,16 +1,15 @@
 ---
 name: "班宇-漫长的"
 title: "漫长的"
-title_zh: ""
 author: "班宇"
-author_zh: ""
-date: ""
-source:
-  - "https://www.douban.com/group/topic/287826227/?_i=0338349WlXS1BI"
+date: "2022"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: 
+  - "https://www.douban.com/group/topic/287826227/"
   - "https://www.thepaper.cn/newsDetail_forward_23189324"
-translate: ""
-draft: 1
-read: 1
 tags: "诗歌"
 ---
 

@@ -1,14 +1,14 @@
 ---
 name: "洪蔚琳-如此打工30年"
 title: "如此打工30年"
-title_zh: ""
 author: "洪蔚琳"
-author_zh: ""
-date: "2023/6/21"
-source: ""
-translate: ""
-draft: 1
-read: 1
+date: "2023/06/21"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+tags: "时政"
 ---
 
 [[toc]]

@@ -1,14 +1,14 @@
 ---
 name: "胡启立-我心中的耀邦"
 title: "我心中的耀邦"
-title_zh: ""
 author: "胡启立"
-author_zh: ""
 date: "2005/12/07"
-source: ""
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+tags: "其他"
 ---
 
 [[toc]]

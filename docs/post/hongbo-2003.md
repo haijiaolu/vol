@@ -1,16 +1,16 @@
 ---
 name: "洪波-以Linux的名义"
 title: "以Linux的名义"
-title_zh: ""
 author: "洪波"
-author_zh: ""
 date: "2003"
-source: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://news.chinabyte.com/144/1715644.shtml"
   - "https://www.cnblogs.com/titanium/p/3543413.html"
-translate: ""
-draft: 1
-read: 1
+tags: "科技"
 ---
 
 [[toc]]

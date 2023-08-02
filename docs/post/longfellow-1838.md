@@ -1,14 +1,18 @@
 ---
-name: "朗费罗/生命礼赞"
+name: "亨利·沃兹沃斯·朗费罗-生命礼赞"
 title: "A Psalm of Life"
-title_zh: "生命礼赞"
 author: "Henry Wadsworth Longfellow"
-author_zh: "亨利·沃兹沃斯·朗费罗"
-date: ""
-source: "https://www.poetryfoundation.org/poems/44644/a-psalm-of-life"
-translate: "https://www.douban.com/note/387422358"
-draft: 1
-read: 1
+titles:
+  zh: "生命礼赞"
+authors:
+  zh: "亨利·沃兹沃斯·朗费罗"
+date: "1838"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.poetryfoundation.org/poems/44644/a-psalm-of-life"
+translates: "https://www.douban.com/note/387422358"
 tags: "诗歌"
 ---
 

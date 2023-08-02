@@ -1,22 +1,23 @@
 ---
 name: "Seph Gentle-编程的3个部落"
-title: "3 tribes of programming"
-title_zh: "编程的3个部落"
+title: "3 Tribes of Programming"
 author: "Seph Gentle"
-author_zh: ""
-date: "2007/5/3"
-source: "https://josephg.com/blog/3-tribes/"
-translate: ""
-draft: 1
-read: 1
-tags: "技术"
+titles:
+  zh: "编程的3个部落"
+date: "2007/05/03"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://josephg.com/blog/3-tribes/"
+tags: "科技"
 ---
 
 [[toc]]
 
 # Seph Gentle
 
-## 3 tribes of programming / 编程的 3 个部落
+## 3 Tribes of Programming / 编程的 3 个部落
 
 ### 正文
 
@@ -35,7 +36,7 @@ Funny joke. Everyone laughs, then someone says "Yeah but it sort of is about com
 Out in the wild, these arguments look like this:
 
 > I think I agree, and am looking forward to hearing Joe's take on it 
-> #deconstructconf pic.twitter.com/j7H2QWG0Tr  
+> `#deconstructconf pic.twitter.com/j7H2QWG0Tr`  
 > — Andy Lindeman (@alindeman) [April 21, 2017](https://twitter.com/alindeman/status/855557506881396736)
 
 > I'll happily renounce "programmer" in favor of "applied mathematician"
@@ -47,7 +48,7 @@ The speaker was making the point that the whole modern stack in our computers (K
 
 Is that really important? Serious question, are programs foremost lists of instructions, or expressions of logical ideas?
 
-> #deconstructconf pic.twitter.com/V2lGXwmaJM  
+> `#deconstructconf pic.twitter.com/V2lGXwmaJM`  
 > — Justin Falcone (@modernserf) April 21, 2017
 
 Or maybe its neither, and programs are just things we make for other humans. A message is fundamentally meaningless without an audience who reads it. Are programs meaningless without reference to the outside world they interact in?
@@ -247,7 +248,7 @@ Thats certainly what I aim for. And hopefully I'll still be blowing people's min
 在野外，这些论点看起来像这样：
 
 > 我想我同意，并且期待听到乔的看法
-> #deconstructconf pic.twitter.com/j7H2QWG0Tr
+> `#deconstructconf pic.twitter.com/j7H2QWG0Tr.  
 > — 安迪·林德曼 (@alindeman) 2017 年 4 月 21 日
 
 演讲者指出，我们计算机中的整个现代堆栈（内核、操作系统、浏览器、VM）都是用 C + ASM 编写的。所以你应该了解C和ASM。

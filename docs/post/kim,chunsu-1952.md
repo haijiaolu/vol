@@ -1,16 +1,20 @@
 ---
 name: "金春洙-花"
 title: "꽃"
-title_zh: "花"
 author: "김춘수"
-author_zh: "金春洙"
+titles:
+  zh: "花"
+authors:
+  zh: "金春洙"
 date: "1952"
-source:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://namu.wiki/w/꽃(김춘수)"
   - "https://ppullan.tistory.com/202"
-translate: ""
-draft: 1
-read: 1
+translates: ""
 tags: "诗歌"
 ---
 

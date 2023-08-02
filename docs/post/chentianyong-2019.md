@@ -1,15 +1,14 @@
 ---
 name: "陈天庸-我为什么离开中国"
 title: "我为什么离开中国？"
-title_zh: ""
 author: "陈天庸"
-author_zh: ""
-date: "2019/1"
-source: "http://www.leadeco.com/wfly21/wap_doc/12102982.html"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2019/01"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "http://www.leadeco.com/wfly21/wap_doc/12102982.html"
+tags: "时政"
 ---
 
 [[toc]]

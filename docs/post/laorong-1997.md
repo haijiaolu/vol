@@ -1,18 +1,19 @@
 ---
 name: "老榕-大连金州没有眼泪"
 title: "大连金州没有眼泪"
-title_zh: ""
 author: "老榕"
-author_zh: ""
 date: "1997/11"
-source: 
-- "IT时代网：http://news.ittime.com.cn/news/news_2484.shtml"
-- "四通利方体育沙龙：http://www.srsnet.com/richtalk/special.html"
-- "南方周末：http://www.infzm.com/content/31436"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
+  - "IT时代网：http://news.ittime.com.cn/news/news_2484.shtml"
+  - "四通利方体育沙龙：http://www.srsnet.com/richtalk/special.html"
+  - "南方周末：http://www.infzm.com/content/31436"
+tags: 
+  - "文化"
+  - "体育"
 ---
 
 [[toc]]

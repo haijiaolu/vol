@@ -1,16 +1,21 @@
 ---
-name: "罗素-自由主义十诫"
+name: "伯特兰·罗素-自由主义十诫"
 title: "A Liberal Decalogue"
-title_zh: "自由主义十诫"
 author: "Bertrand Russell"
-author_zh: "伯特兰·罗素"
+titles:
+  zh: "自由主义十诫"
+authors:
+  zh: "伯特兰·罗素"
 date: "1951"
-source:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://users.drew.edu/~jlenz/br-decalogue.html"
   - "http://www.panarchy.org/russell/decalogue.1951.html"
-translate: "商务印书馆，《罗素文集·〈罗素自传〉》"
-draft: 1
-read: 1
+translates: "商务印书馆，《罗素文集·〈罗素自传〉》"
+tags: "哲学"
 ---
 
 [[toc]]

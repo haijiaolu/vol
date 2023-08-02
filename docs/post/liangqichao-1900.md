@@ -1,15 +1,14 @@
 ---
 name: "梁启超-呵旁观者文"
 title: "呵旁观者文"
-title_zh: ""
 author: "梁启超"
-author_zh: ""
 date: "1900"
-source: "1900/2 《清议报》"
-translate: ""
-created: 2019-02-12 06:29:36Z
-draft: 1
-read: 1
+created: "2019-02-12 06:29:36"
+updated: ""
+draft: false
+read: "1"
+sources: "1900/2 《清议报》"
+tags: "散文"
 ---
 
 [[toc]]

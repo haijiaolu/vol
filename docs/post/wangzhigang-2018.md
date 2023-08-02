@@ -1,15 +1,14 @@
 ---
-name: "王志纲：再回首邓公的遗产"
+name: "王志纲-再回首邓公的遗产"
 title: "再回首：邓公的遗产"
-title_zh: ""
 author: "王志纲"
-author_zh: ""
 date: "2018/12/13"
-source: "https://mp.weixin.qq.com/s/87rEUBaSzefcJ0f65MfzVg"
-translate: ""
-draft: 1
-read: 1
-comment: "微信公众号【正和岛】,2019/2/19(微信公众号发布)，原文2018/12/13"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://mp.weixin.qq.com/s/87rEUBaSzefcJ0f65MfzVg"
+tags: "时政"
 ---
 
 [[toc]]

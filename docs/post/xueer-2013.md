@@ -1,15 +1,14 @@
 ---
 name: "雪珥-激进主义害死中国"
 title: "激进主义害死中国"
-title_zh: ""
 author: "雪珥"
-author_zh: ""
 date: "2013/10/14"
-source: "腾讯网大家专栏：http://dajia.qq.com/blog/271237016387735.html"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "腾讯网大家专栏：http://dajia.qq.com/blog/271237016387735.html"
+tags: "历史"
 ---
 
 [[toc]]

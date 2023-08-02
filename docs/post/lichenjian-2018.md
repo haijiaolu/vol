@@ -1,15 +1,16 @@
 ---
-name: "李沉简-挺直脊梁拒做犬儒"
+name: "李沉简-挺直脊梁 拒做犬儒"
 title: "挺直脊梁 拒做犬儒"
-title_zh: ""
 author: "李沉简"
-author_zh: ""
-date: "2018/2/28"
-source: "https://onecoder.site/archives/1552"
-translate: ""
-created: 2020-12-19 03:16:41Z
-draft: 1
-read: 1
+date: "2018/02/28"
+created: "2020-12-19 03:16:41"
+updated: ""
+draft: false
+read: "1"
+sources: "https://onecoder.site/archives/1552"
+tags: 
+  - "时政"
+  - "文化"
 ---
 
 [[toc]]

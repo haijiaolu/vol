@@ -1,16 +1,16 @@
 ---
 name: "陈雨露-青苗法系列"
 title: "青苗法系列"
-title_zh: ""
 author: "陈雨露,杨忠恕"
-author_zh: ""
 date: "2014"
-source: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: 
   - "《中国是部金融史2天下之财》"
   - "《中国农村金融》2014年http://www.cnki.com.cn/Article/CJFDTotal-ZGNC201408042.htm"
-translate: ""
-draft: 1
-read: 1
+tags: "财经"
 ---
 
 [[toc]]

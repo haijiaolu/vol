@@ -1,14 +1,14 @@
 ---
 name: "章诒和-一阵风留下了千古绝唱"
 title: "一阵风，留下了千古绝唱"
-title_zh: ""
 author: "章诒和"
-author_zh: ""
 date: "2004/09/29"
-source: ""
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+tags: "历史"
 ---
 
 [[toc]]

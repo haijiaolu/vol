@@ -1,15 +1,14 @@
 ---
 name: "陈季冰-真正的新闻正在死去更可怕的是无人在意"
 title: "真正的新闻正在死去，更可怕的是无人在意"
-title_zh: ""
 author: "陈季冰"
-author_zh: ""
-date: "2018/4/1"
-source: "http://reader.s-reader.com/article/5c/3521252.html"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2018/04/01"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "http://reader.s-reader.com/article/5c/3521252.html"
+tags: "时政"
 ---
 
 [[toc]]

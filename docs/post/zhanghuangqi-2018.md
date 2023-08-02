@@ -1,17 +1,16 @@
 ---
 name: "张皇琦-看不到的焦虑和看得到的质疑北大120年校庆见闻"
 title: "看不到的焦虑和看得到的质疑，北大 120 年校庆见闻"
-title_zh: ""
 author: "张皇琦"
-author_zh: ""
-date: "2018/5/8"
-source: 
+date: "2018/05/08"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "微信公众号 好奇心日报 https://mp.weixin.qq.com/s/hgG-opMvZgJDq7oqxvc4Yg"
   - "http://www.qdaily.com/articles/52934.html"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+tags: "社会"
 ---
 
 [[toc]]

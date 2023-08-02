@@ -1,14 +1,14 @@
 ---
 name: "张曼菱-烽火读书声"
 title: "烽火读书声"
-title_zh: ""
 author: "张曼菱"
-author_zh: ""
-date: ""
-source: "《光明日报》https://epaper.gmw.cn/gmrb/html/2015-08/21/nw.D110000gmrb_20150821_1-13.htm"
-translate: ""
-draft: 1
-read: 1
+date: "2015/08/21"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "《光明日报》https://epaper.gmw.cn/gmrb/html/2015-08/21/nw.D110000gmrb_20150821_1-13.htm"
+tags: "历史"
 ---
 
 [[toc]]

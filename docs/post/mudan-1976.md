@@ -1,14 +1,13 @@
 ---
 name: "穆旦-冥想"
 title: "冥想"
-title_zh: ""
 author: "穆旦"
-author_zh: ""
-date: "1976/5"
-source: "http://www.shitan.org/shiku/xs/mudan/1408.htm"
-translate: ""
-draft: 1
-read: 1
+date: "1976/05"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "http://www.shitan.org/shiku/xs/mudan/1408.htm"
 tags: "诗歌"
 ---
 

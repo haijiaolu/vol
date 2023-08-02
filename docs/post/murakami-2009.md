@@ -1,17 +1,21 @@
 ---
-name: "村上春树-耶路撒冷文学奖获奖演讲"
+name: "村上春树-高墙与鸡蛋耶路撒冷文学奖获奖演讲"
 title: ""
-title_zh: "“高墙与鸡蛋”——耶路撒冷文学奖获奖演讲"
 author: "村上春樹"
-author_zh: "村上春树"
-author_en: "Haruki Murakami"
+titles:
+  zh: "“高墙与鸡蛋”——耶路撒冷文学奖获奖演讲"
+authors:
+  zh: "村上春树"
+  en: "Haruki Murakami"
 date: "2009"
-source: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://www.jbookforum.com/wp-content/uploads/2020/05/ACCEPTANCE-ADDRESS-BY-Haruki-Murakami.pdf"
   - "https://en.wikiquote.org/wiki/Haruki_Murakami"
-translate: "https://www.zhihu.com/question/20515695/answer/36543110"
-draft: 1
-read: 1
+translates: "https://www.zhihu.com/question/20515695/answer/36543110"
 tags: "演讲"
 ---
 

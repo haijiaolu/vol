@@ -1,14 +1,16 @@
 ---
-name: "毛泽东-1966年给江青的信"
+name: "毛泽东-给江青的信"
 title: "给江青的信"
-title_zh: ""
 author: "毛泽东"
-author_zh: ""
 date: "1966"
-source: ""
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+tags: 
+  - "时政"
+  - "信件"
 ---
 
 [[toc]]

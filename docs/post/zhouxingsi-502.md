@@ -1,15 +1,14 @@
 ---
 name: "周兴嗣-千字文"
 title: "千字文"
-title_zh: ""
 author: "周兴嗣"
-author_zh: ""
 date: "公元502"
-source: ""
-translate: ""
-draft: 1
-read: 1
-created: 2019-01-31 05:18:07Z
+created: "2019-01-31 05:18:07"
+updated: ""
+draft: false
+read: "1"
+sources: ""
+tags: "文化"
 ---
 
 [[toc]]

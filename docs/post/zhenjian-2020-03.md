@@ -1,15 +1,14 @@
 ---
 name: "针尖-中国娱乐产业四十年"
 title: "中国娱乐产业四十年"
-title_zh: ""
 author: "针尖"
-author_zh: ""
 date: "2020/03/30"
-source: "虎嗅：https://www.huxiu.com/article/347365.html"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "虎嗅：https://www.huxiu.com/article/347365.html"
+tags: "文化"
 ---
 
 [[toc]]

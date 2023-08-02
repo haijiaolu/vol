@@ -1,15 +1,19 @@
 ---
 name: "帕斯捷尔纳克-日瓦戈医生哈姆雷特"
 title: "Гамлет"
-title_zh: "《日瓦戈医生》哈姆雷特"
 author: "Борис Леонидович Пастернак"
-author_zh: "帕斯捷尔纳克"
-author_en: "Boris Pasternak"
-date: ""
-source: ""
-translate: ""
-draft: 1
-read: 1
+titles:
+  zh: "《日瓦戈医生》哈姆雷特"
+authors:
+  zh: "帕斯捷尔纳克"
+  en: "Boris Pasternak"
+date: "约1957"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: ""
 tags: "诗歌"
 ---
 

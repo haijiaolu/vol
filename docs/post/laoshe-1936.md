@@ -1,14 +1,13 @@
 ---
 name: "老舍-断魂枪"
 title: "断魂枪"
-title_zh: ""
 author: "老舍"
-author_zh: ""
 date: "1936"
-source: ""
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
 tags: "小说"
 ---
 

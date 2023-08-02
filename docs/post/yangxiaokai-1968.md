@@ -1,15 +1,14 @@
 ---
 name: "杨小凯-中国向何处去"
 title: "中国向何处去"
-title_zh: ""
 author: "杨小凯"
-author_zh: ""
-date: "1968/1"
-source: "https://www.marxists.org/chinese/reference-books/minjian-1966-1976/25.htm"
-translate: ""
-created: 2021-03-13 09:08:02Z
-draft: 1
-read: 1
+date: "1968/01"
+created: "2021-03-13 09:08:02"
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.marxists.org/chinese/reference-books/minjian-1966-1976/25.htm"
+tags: "时政"
 ---
 
 [[toc]]

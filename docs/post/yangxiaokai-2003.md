@@ -1,18 +1,17 @@
 ---
 name: "杨小凯-我的一生"
 title: "我的一生"
-title_zh: ""
 author: "杨小凯"
-author_zh: ""
 date: "2003"
-source: 
+created: "2021-03-13 09:19:20"
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://www.hxzq.net/aspshow/showarticle.asp?id=9415"
   - "微博：https://weibo.com/ttarticle/p/show?id=2309634543065988661266"
   - "转载微信： https://mp.weixin.qq.com/s/RW3AMktA00ufhnGdWajXYA）"
-translate: ""
-created: 2021-03-13 09:19:20Z
-draft: 1
-read: 1
+tags: "人物"
 ---
 
 [[toc]]

@@ -1,14 +1,18 @@
 ---
 name: "约翰·多恩-没有人是一座岛屿自成一体"
 title: "Nobody is an island"
-title_zh: "没有人是一座岛屿、自成一体"
 author: "John Donne"
-author_zh: "约翰·多恩"
-date: "1623 年"
-source: ""
-translate: "https://site.douban.com/174501/widget/notes/10588979/note/237643563/"
-draft: 1
-read: 1
+titles:
+  zh: "没有人是一座岛屿、自成一体"
+authors:
+  zh: "约翰·多恩"
+date: "公元1623"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: "https://site.douban.com/174501/widget/notes/10588979/note/237643563/"
 tags: "诗歌"
 ---
 

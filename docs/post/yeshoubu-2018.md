@@ -1,15 +1,14 @@
 ---
 name: "叶首部-家乡啤酒兴亡史"
 title: "家乡啤酒兴亡史"
-title_zh: ""
 author: "叶首部"
-author_zh: ""
-date: "2018/7/30"
-source: "微信公众号 大象公会 https://mp.weixin.qq.com/s/Hb8-tONBS1dxOHt3ikNAkw"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2018/07/30"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "微信公众号 大象公会 https://mp.weixin.qq.com/s/Hb8-tONBS1dxOHt3ikNAkw"
+tags: "社会"
 ---
 
 [[toc]]

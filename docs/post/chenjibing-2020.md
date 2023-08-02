@@ -1,15 +1,14 @@
 ---
 name: "陈季冰-肺炎50天全体中国人都在承受媒体死亡的代价"
 title: "肺炎50天，全体中国人都在承受媒体死亡的代价"
-title_zh: ""
 author: "陈季冰"
-author_zh: ""
-date: "2020/1/27"
-source: "https://hyw.space/2020/01/27/dead-news/"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2020/01/27"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://hyw.space/2020/01/27/dead-news/"
+tags: "时政"
 ---
 
 [[toc]]

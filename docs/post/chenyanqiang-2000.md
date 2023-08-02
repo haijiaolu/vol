@@ -1,14 +1,13 @@
 ---
-name: "陈衍强-一份讲稿等"
+name: "陈衍强-一份讲稿和仰望天空"
 title: "一份讲稿"
-title_zh: ""
 author: "陈衍强"
-author_zh: ""
 date: "2000/07/15"
-source: ""
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
 tags: "诗歌"
 ---
 

@@ -1,14 +1,19 @@
 ---
 name: "苏珊·桑塔格-百年电影回眸"
 title: "The Decay of Cinema/A Century of Cinema"
-title_zh: "百年电影回眸"
 author: "Susan Sontag"
-author_zh: "苏珊·桑塔格"
-date: ""
-source: "https://www.nytimes.com/1996/02/25/magazine/the-decay-of-cinema.html"
-translate: "https://book.douban.com/review/1827473/"
-draft: 1
-read: 1
+titles:
+  zh: "百年电影回眸"
+authors:
+  zh: "苏珊·桑塔格"
+date: "1996/02/25"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.nytimes.com/1996/02/25/magazine/the-decay-of-cinema.html"
+translates: "https://book.douban.com/review/1827473/"
+tags: "电影"
 ---
 
 [[toc]]

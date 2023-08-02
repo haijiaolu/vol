@@ -1,14 +1,18 @@
 ---
 name: "詹姆斯·泽摩曼-思想之空旷"
 title: "The Emptiness of Thought"
-title_zh: "思想之空旷"
 author: "James K. Zimmerman"
-author_zh: "詹姆斯·泽摩曼"
+titles:
+  zh: "思想之空旷"
+authors:
+  zh: "詹姆斯·泽摩曼"
 date: "2015"
-source: "https://www.poetryfoundation.org/poems/90831/the-emptiness-of-thought"
-translate: "https://bedtimepoem.com/archives/7788"
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.poetryfoundation.org/poems/90831/the-emptiness-of-thought"
+translates: "https://bedtimepoem.com/archives/7788"
 tags: "诗歌"
 ---
 

@@ -1,14 +1,18 @@
 ---
-name: "兰波-感觉"
+name: "阿瑟·兰波-感觉"
 title: "Sensation"
-title_zh: "感觉"
 author: "Arthur Rimbaud"
-author_zh: "阿瑟·兰波"
-date: ""
-source: "https://www.poetica.fr/poeme-533/arthur-rimbaud-sensation/"
-translate: "https://zhuanlan.zhihu.com/p/90789322"
-draft: 1
-read: 1
+titles:
+  zh: "感觉"
+authors:
+  zh: "阿瑟·兰波"
+date: "1870/03"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.poetica.fr/poeme-533/arthur-rimbaud-sensation/"
+translates: "https://zhuanlan.zhihu.com/p/90789322"
 tags: "诗歌"
 ---
 

@@ -1,14 +1,18 @@
 ---
 name: "大卫·范伯格-孤独的根号三"
 title: "The Square Root of Three"
-title_zh: "孤独的根号三"
 author: "David Feinberg"
-author_zh: "大卫·范伯格"
-date: ""
-source: ""
-translate: ""
-draft: 1
-read: 1
+titles:
+  zh: "孤独的根号三"
+authors:
+  zh: "大卫·范伯格"
+date: "约2008"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: ""
 tags: "诗歌"
 ---
 

@@ -1,18 +1,22 @@
 ---
-name: "里尔克-挽歌为沃尔夫伯爵封卡尔克洛伊特而作"
+name: "赖内·马利亚·里尔克-挽歌为沃尔夫伯爵封卡尔克洛伊特而作"
 title: "REQUIEM FÜR WOLF GRAF VON KALCKREUTH"
-title_zh: "挽歌——为沃尔夫伯爵封·卡尔克洛伊特而作"
 author: "Rainer Maria Rilke"
-author_zh: "赖内·马利亚·里尔克"
+titles:
+  zh: "挽歌——为沃尔夫伯爵封·卡尔克洛伊特而作"
+authors:
+  zh: "赖内·马利亚·里尔克"
 date: "1908"
-source: ""
-translate: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates:
   - "[豆瓣, 里尔克《挽歌——为沃尔夫伯爵封•卡尔克洛伊特而作》](https://www.douban.com/group/topic/2737434/)"
   - "[知乎, 里尔克｜挽歌｜为沃尔夫伯爵·冯·卡尔克洛伊](https://zhuanlan.zhihu.com/p/431600541)"
   - "[豆瓣, 有何胜利可言？？](https://www.douban.com/note/13519932/?_i=0039490WlXS1BI)"
   - "[豆瓣, 祭沃尔夫·卡尔克罗伊德伯爵](https://www.douban.com/note/545126658/)"
-draft: 1
-read: 1
 tags: "诗歌"
 ---
 

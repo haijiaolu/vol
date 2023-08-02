@@ -1,17 +1,23 @@
 ---
-name: "肯尼迪-我是柏林人"
-title: "我是柏林人（柏林墙下演讲）"
-title_zh: ""
+name: "约翰·肯尼迪-我是柏林人"
+title: "Remarks in the Rudolph Wilde Platz, Berlin "
 author: "John F. Kennedy"
-author_zh: "约翰·肯尼迪"
-date: "1963"
-source:
+titles:
+  zh: "我是柏林人（柏林墙下演讲）"
+authors:
+  zh: "约翰·肯尼迪"
+date: "1963/06/26"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://www.presidency.ucsb.edu/documents/remarks-the-rudolph-wilde-platz-berlin"
   - "https://www.jfklibrary.org/learn/about-jfk/historic-speeches/remarks-at-the-rudolph-wilde-platz-berlin"
-translate: ""
-draft: 1
-read: 1
-tags: "演讲"
+translates: ""
+tags: 
+  - "演讲"
+  - "时政"
 ---
 
 [[toc]]
@@ -26,7 +32,7 @@ John F. Kennedy
 ### 正文
 
 > 背景：
-> 1963 年 6 月 25 日，美国时任总统约翰·肯尼迪到访西柏林，在著名的柏林墙下发表了此篇名为 Ich Bin Ein Berliner 的演讲。
+> 1963 年 6 月，美国时任总统约翰·肯尼迪到访西柏林，在著名的柏林墙下发表了此篇名为 Ich Bin Ein Berliner 的演讲。
 > 被译为《我是一个柏林人》或《柏林墙下的演讲》，大力抨击了苏联与东德建造柏林墙的行为。
 
 <!-- tabs:start -->

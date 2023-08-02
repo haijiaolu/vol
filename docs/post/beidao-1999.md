@@ -1,14 +1,14 @@
 ---
 name: "北岛-波兰来客"
 title: "波兰来客"
-title_zh: ""
-author: "北岛（赵振开）"
-author_zh: ""
-date: ""
-source: "《蓝房子》【三联书店】"
-translate: ""
-draft: 1
-read: 1
+author: "北岛"
+date: "1999"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "《蓝房子》【三联书店】"
+tags: "散文"
 ---
 
 [[toc]]

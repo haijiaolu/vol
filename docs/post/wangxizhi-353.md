@@ -1,16 +1,14 @@
 ---
 name: "王羲之-兰亭集序"
 title: "兰亭集序"
-title_zh: ""
 author: "王羲之"
-author_zh: ""
-date: "公元353年"
-source:
-  - "https://zh.wikisource.org/zh-hans/蘭亭集序"
-  - "https://zh.wikipedia.org/zh-hans/蘭亭集序"
-translate: ""
-draft: 1
-read: 1
+date: "公元353"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://zh.wikisource.org/zh-hans/蘭亭集序"
+tags: ""
 ---
 
 [[toc]]

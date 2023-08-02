@@ -1,16 +1,15 @@
 ---
 name: "张梅-给我未来的孩子"
 title: "给我未来的孩子"
-title_zh: ""
 author: "张梅"
-author_zh: ""
 date: "1997-10-1"
-source:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "《木屐声声》https://book.douban.com/subject/26687021/"
   - "https://yumoe.com/archives/writetoyouforyourfuture.html"
-translate: ""
-draft: 1
-read: 1
 tags: "诗歌"
 ---
 

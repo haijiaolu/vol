@@ -1,17 +1,19 @@
 ---
-name: "弗莱德·赫伯特-小Printf我们为何编程"
+name: "Hebert-小Printf"
 title: "The Little Printf"
-title_zh: ""
 author: "Fred Hebert"
-author_zh: ""
-date: "2015/10/9"
-source: 
+titles:
+  zh: "小Printf"
+date: "2015/10/09"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://ferd.ca/the-little-printf.html"
   - "https://s3.us-east-2.amazonaws.com/ferd.ca/printf.pdf"
-translate: 
-  - "https://mogeko.me/posts/zh-cn/043/"
-draft: 1
-read: 1
+translates: "https://mogeko.me/posts/zh-cn/043/"
+tags: "科技"
 ---
 
 [[toc]]

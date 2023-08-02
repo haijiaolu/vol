@@ -1,18 +1,18 @@
 ---
-name: " 赵明波-全票当选不一定都是民意等几则"
+name: "赵明波-全票当选不一定都是民意等几则"
 title: "“全票当选”不一定都是民意"
-title_zh: ""
 author: "赵明波"
-author_zh: ""
-date: "2012-03-31"
-source:
+date: "2012/03/31"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://jiwei.shnu.edu.cn/e5/41/c17267a451905/page.htm"
   - "http://theory.people.com.cn/GB/49150/49152/17552068.html"
   - "http://cpc.people.com.cn/GB/64093/64099/15099584.html"
   - "http://news.cntv.cn/20120306/103249.shtml"
-translate: ""
-draft: 1
-read: 1
+tags: "时政"
 ---
 
 [[toc]]

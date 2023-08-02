@@ -1,16 +1,16 @@
 ---
-name: "人力资源社会保障部-2021年版国家职业资格目录"
+name: "人力资源社会保障部-2021年版《国家职业资格目录》"
 title: "2021年版《国家职业资格目录》"
-title_zh: ""
 author: "人力资源社会保障部"
-author_zh: ""
-date: "2021-12-02"
-source: 
+date: "2021/12/02"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://www.mohrss.gov.cn/xxgk2020/1_2_x/jd/202112/t20211202_429298.html"
   - "http://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/rcrs/202112/t20211202_429301.html"
-translate: ""
-draft: 1
-read: 1
+tags: "资料"
 ---
 
 [[toc]]

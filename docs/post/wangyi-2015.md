@@ -1,15 +1,14 @@
 ---
 name: "王奕-从论坛到微信网络水军的前世今生"
 title: "从论坛到微信：网络水军的前世今生"
-title_zh: ""
 author: "王奕"
-author_zh: ""
-date: "2015/9/30"
-source: "微信公众号 3W互联网深度精选 https://mp.weixin.qq.com/s/2yhzL8e5HVHiYbqb9hyXCg"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2015/09/30"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "微信公众号 3W互联网深度精选 https://mp.weixin.qq.com/s/2yhzL8e5HVHiYbqb9hyXCg"
+tags: "科技"
 ---
 
 [[toc]]

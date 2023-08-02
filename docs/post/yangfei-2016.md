@@ -1,16 +1,14 @@
 ---
-name: "杨飞-为什么我们不能访问谷歌"
+name: "杨飞-深度调查为什么我们不能访问谷歌"
 title: "深度调查 | 为什么我们不能访问谷歌？"
-title_zh: ""
 author: "杨飞"
-author_zh: ""
-date: "2016/4/1"
-source: 
-  - "http://www.midphoto.com/chinese/whatsnew/2016/2.htm"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2016/04/01"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "http://www.midphoto.com/chinese/whatsnew/2016/2.htm"
+tags: "科技"
 ---
 
 [[toc]]

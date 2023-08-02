@@ -1,16 +1,20 @@
 ---
 name: "塞缪尔·厄尔曼-青春"
 title: "Youth"
-title_zh: "青春"
 author: "Samuel Ullman"
-author_zh: "塞缪尔·厄尔曼"
+titles:
+  zh: "青春"
+authors:
+  zh: "塞缪尔·厄尔曼"
 date: "1918"
-source:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://www.uab.edu/ullmanmuseum/"
   - "https://birminghamhistoricalsociety.files.wordpress.com/2020/08/bhs_newsletter_2008_ullman.pdf"
-translate: "https://language.chinadaily.com.cn/a/202105/04/WS60909c94a31024ad0babbe03.html"
-draft: 1
-read: 1
+translates: "https://language.chinadaily.com.cn/a/202105/04/WS60909c94a31024ad0babbe03.html"
 tags: "诗歌"
 ---
 

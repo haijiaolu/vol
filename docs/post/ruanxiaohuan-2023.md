@@ -1,16 +1,16 @@
 ---
-name: "阮晓寰-上海市第二中级人民法院刑事判决书"
+name: "阮晓寰-上海二中院刑事判决书"
 title: "上海市第二中级人民法院刑事判决书"
-title_zh: ""
-author: ""
-author_zh: ""
+author: "阮晓寰"
 date: "2023"
-source:
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://www.williamlong.info/archives/7112.html"
   - "https://zh.wikisource.org/wiki/阮晓寰煽动颠覆国家政权一审刑事判决书"
-translate: ""
-draft: 1
-read: 1
+tags: "法律"
 ---
 
 [[toc]]

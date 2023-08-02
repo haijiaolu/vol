@@ -1,15 +1,15 @@
 ---
 name: "赛人-陈凯歌天真张艺谋心狠冯小刚悲凉姜文羞涩"
 title: "陈凯歌天真，张艺谋心狠，冯小刚悲凉，姜文羞涩"
-title_zh: ""
 author: "赛人"
-author_zh: ""
 date: "2017/12/31"
-source: "微信公众号 虹膜：https://mp.weixin.qq.com/s/fprNn9z_NjMdgwyIqNSS2Q"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "微信公众号 虹膜：https://mp.weixin.qq.com/s/fprNn9z_NjMdgwyIqNSS2Q"
+tags: 
+  - "电影"
 ---
 
 [[toc]]

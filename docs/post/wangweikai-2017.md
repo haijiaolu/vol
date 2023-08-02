@@ -1,15 +1,14 @@
 ---
 name: "王伟凯-传销三十年净衣帮和污衣帮"
 title: "传销三十年：净衣帮和污衣帮"
-title_zh: ""
 author: "王伟凯"
-author_zh: ""
-date: "2017/8/10"
-source: "南方周末：https://www.infzm.com/content/126578"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2017/08/10"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "南方周末：https://www.infzm.com/content/126578"
+tags: "时政"
 ---
 
 [[toc]]

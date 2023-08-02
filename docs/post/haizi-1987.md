@@ -1,14 +1,13 @@
 ---
 name: "海子-祖国或以梦为马"
 title: "祖国（或以梦为马）"
-title_zh: ""
 author: "海子"
-author_zh: ""
 date: "1987"
-source: "https://haizi.huhaitai.com/03/064.htm"
-translate: ""
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://haizi.huhaitai.com/03/064.htm"
 tags: "诗歌"
 ---
 

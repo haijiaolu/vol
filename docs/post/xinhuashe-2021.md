@@ -1,14 +1,14 @@
 ---
-name: "新华社-中国共产党一百年大事记"
+name: "新华社-中国共产党一百年大事记1921年7月至2021年6月"
 title: "中国共产党一百年大事记（1921年7月－2021年6月）"
-title_zh: ""
 author: "新华社"
-author_zh: ""
-date: ""
-source: "http://www.xinhuanet.com/2021-06/28/c_1127603399.htm"
-translate: ""
-draft: 1
-read: 1
+date: "2021"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "http://www.xinhuanet.com/2021-06/28/c_1127603399.htm"
+tags: "时政"
 ---
 
 [[toc]]

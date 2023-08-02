@@ -1,17 +1,14 @@
 ---
 name: "兽爷-疫苗之王"
 title: "疫苗之王"
-title_zh: ""
 author: "兽爷"
-author_zh: ""
-date: "2018/7/22"
-source: 
-  - "https://www.wolege.com/843.htm"
-  - "微信公众号：兽楼处"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2018/07/22"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "微信公众号：兽楼处；https://www.wolege.com/843.htm"
+tags: "财经"
 ---
 
 [[toc]]

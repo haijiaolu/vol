@@ -1,18 +1,22 @@
 ---
-name: "谷川俊太郎-二十亿光年的孤独/春天"
+name: "谷川俊太郎-二十亿光年的孤独和春天"
 title: "二十億光年の孤独"
-title_zh: "二十亿光年的孤独"
 author: "谷川 俊太郎"
-author_zh: "谷川俊太郎"
-author_en: "Shuntarō Tanikawa"
-date: ""
-source: ""
-translate:
+titles:
+  zh: "二十亿光年的孤独"
+authors:
+  zh: "谷川俊太郎"
+  en: "Shuntarō Tanikawa"
+date: "1952"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates:
   - "《古川的诗》https://book.douban.com/subject/35183754/"
   - "《二十亿光年的孤独》 https://book.douban.com/subject/26976266/"
   - "https://www.douban.com/note/489879844/"
-draft: 1
-read: 1
 tags: "诗歌"
 ---
 

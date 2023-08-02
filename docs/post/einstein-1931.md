@@ -1,14 +1,19 @@
 ---
 name: "爱因斯坦-主权的限制"
 title: "主权的限制"
-title_zh: "主权的限制"
 author: "Albert Einstein"
-author_zh: "阿尔伯特·爱因斯坦"
+titles:
+  zh: "主权的限制"
+authors:
+  zh: "阿尔伯特·爱因斯坦"
 date: "1930"
-source: ""
-translate: "《爱因斯坦文集》"
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: "《爱因斯坦文集》"
+tags: "哲学"
 ---
 
 [[toc]]

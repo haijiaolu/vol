@@ -1,14 +1,18 @@
 ---
-name: "麦克阿瑟-国会大厦告别演讲"
+name: "道格拉斯·麦克阿瑟-国会大厦告别演讲"
 title: "Farewell Address to Congress"
-title_zh: "国会大厦告别演讲"
 author: "Douglas MacArthur"
-author_zh: "道格拉斯·麦克阿瑟"
-date: ""
-source: "https://www.americanrhetoric.com/speeches/douglasmacarthurfarewelladdress.htm"
-translate: "https://www.douban.com/note/237854274/"
-draft: 1
-read: 1
+titles:
+  zh: "国会大厦告别演讲"
+authors:
+  zh: "道格拉斯·麦克阿瑟"
+date: "1951/04/19"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.americanrhetoric.com/speeches/douglasmacarthurfarewelladdress.htm"
+translates: "https://www.douban.com/note/237854274/"
 tags: "演讲"
 ---
 

@@ -1,17 +1,18 @@
 ---
-name: "Tozzi-从UNIX到GitHub"
+name: "Tozzi-从UNIX到GitHub十个关于自由和开源软件历史的重要事件"
 title: "Unix to GitHub: 10 Key Events in Free and Open Source Software History"
-title_zh: ""
 author: "Christopher Tozzi"
-author_zh: ""
-date: ""
-source: 
+titles:
+  zh: "从UNIX到GitHub：十个关于自由和开源软件历史的重要事件"
+date: "约2008"
+created: "2019-01-31 03:35:39"
+updated: ""
+draft: false
+read: "1"
+sources:
   - "http://thevarguy.com/open-source/unix-github-10-key-events-free-and-open-source-software-history"
-translate: 
-  - "https://linux.cn/article-8998-1.html)"
-draft: 1
-read: 1
-created: 2019-01-31 03:35:39Z
+translates: "https://linux.cn/article-8998-1.html)"
+tags: "科技"
 ---
 
 [[toc]]

@@ -1,15 +1,14 @@
 ---
 name: "蓝莲安-动漫婆罗门消亡史"
 title: "动漫婆罗门消亡史"
-title_zh: ""
 author: "蓝莲安"
-author_zh: ""
-date: "2017/2/25"
-source: "https://weibo.com/ttarticle/p/show?id=2309404079031325749562"
-translate: ""
-draft: 1
-read: 1
-tags: ""
+date: "2017/02/25"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://weibo.com/ttarticle/p/show?id=2309404079031325749562"
+tags: "文化"
 ---
 
 [[toc]]

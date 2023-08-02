@@ -1,14 +1,18 @@
 ---
 name: "迪兰·托马斯-不要温和地走进那良夜"
 title: "Do not go gentle into that good night"
-title_zh: "不要温和地走进那良夜"
 author: "Dylan Thomas"
-author_zh: "迪兰·托马斯"
-date: "大约1945创作"
-source: "https://poets.org/poem/do-not-go-gentle-good-night"
-translate: ""
-draft: 1
-read: 1
+titles:
+  zh: "不要温和地走进那良夜"
+authors:
+  zh: "迪兰·托马斯"
+date: "约1945"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://poets.org/poem/do-not-go-gentle-good-night"
+translates: ""
 tags: "诗歌"
 ---
 

@@ -1,15 +1,20 @@
 ---
 name: "坂本龙一-采访和书信等"
 title: "采访和书信等"
-title_zh: ""
 author: "坂本龍一"
-author_zh: "坂本龙一"
-author_en: "Ryuichi Sakamoto"
-date: ""
-source: ""
-translate: ""
-draft: 1
-read: 1
+authors:
+  zh: "坂本龙一"
+  en: "Ryuichi Sakamoto"
+date: "2023"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: ""
+tags: 
+  - "采访"
+  - "文化"
 ---
 
 [[toc]]

@@ -1,16 +1,16 @@
 ---
-name: "新华社-中华人民共和国大事记"
+name: "新华社-中华人民共和国大事记1949年10月－2019年9月"
 title: "中华人民共和国大事记（1949年10月－2019年9月）"
-title_zh: ""
 author: "新华社"
-author_zh: ""
-date: ""
-source:
+date: "2019"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://www.gov.cn/xinwen/2019-09/27/content_5434223.htm"
   - "http://www.xinhuanet.com/politics/2019-09/27/c_1125049752.htm"
-translate: ""
-draft: 1
-read: 1
+tags: "时政"
 ---
 
 [[toc]]

@@ -1,17 +1,16 @@
 ---
 name: "余光中-等你在雨中/寻李白/欢呼哈雷"
 title: "等你在雨中/寻李白/欢呼哈雷"
-title_zh: ""
 author: "余光中"
-author_zh: ""
 date: "1962"
-source: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "《乡愁·余光中卷》https://book.douban.com/subject/3265311/"
   - "《乡愁：余光中诗歌选》https://book.douban.com/subject/35200817/"
   - "《愿桥都坚固，隧道都光明（余光中诗歌精选集）》https://book.douban.com/subject/35284597/"
-translate: ""
-draft: 1
-read: 1
 tags: "诗歌"
 ---
 

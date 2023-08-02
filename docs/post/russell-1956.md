@@ -1,16 +1,21 @@
 ---
-name: "罗素-我为什么而活着"
+name: "伯特兰·罗素-我为什么而活着"
 title: "Prologue: What I Have Lived For"
-title_zh: "序言 我为什么而活着"
 author: "Bertrand Russell"
-author_zh: "伯特兰·罗素"
+titles:
+  zh: "序言 我为什么而活着"
+authors:
+  zh: "伯特兰·罗素"
 date: "1956"
-source: 
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources:
   - "https://users.drew.edu/~jlenz/br-prologue.html"
   - "https://www.humanities.mcmaster.ca/~bertrand/misc.html"
-translate: "商务印书馆，《罗素文集·〈罗素自传〉》"
-draft: 1
-read: 1
+translates: "商务印书馆，《罗素文集·〈罗素自传〉》"
+tags: "哲学"
 ---
 
 [[toc]]

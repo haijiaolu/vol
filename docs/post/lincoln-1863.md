@@ -1,14 +1,18 @@
 ---
-name: "林肯-葛底斯堡演讲"
+name: "亚伯拉罕·林肯-葛底斯堡演讲"
 title: "The Gettysburg Address"
-title_zh: "葛底斯堡演讲"
 author: "Abraham Lincoln"
-author_zh: "亚伯拉罕·林肯"
-date: "1863-11-19"
-source: "https://education.nationalgeographic.org/resource/gettysburg-address"
-translate: ""
-draft: 1
-read: 1
+titles:
+  zh: "葛底斯堡演讲"
+authors:
+  zh: "亚伯拉罕·林肯"
+date: "1863/11/19"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://education.nationalgeographic.org/resource/gettysburg-address"
+translates: ""
 tags: "演讲"
 ---
 

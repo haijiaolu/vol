@@ -1,14 +1,14 @@
 ---
-name: "新华社-新闻信息报道中的禁用词和慎用词"
+name: "新华社-新华社新闻信息报道中的禁用词和慎用词"
 title: "新华社新闻信息报道中的禁用词和慎用词"
-title_zh: ""
 author: "新华社"
-author_zh: ""
-date: ""
-source: ""
-translate: ""
-draft: 1
-read: 1
+date: "2016/07"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+tags: "新闻"
 ---
 
 [[toc]]

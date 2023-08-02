@@ -1,14 +1,18 @@
 ---
 name: "艾米莉·狄金森-如果我能教一颗心免于破碎"
 title: "If I can stop one heart from breaking"
-title_zh: "《如果我能教一颗心免于破碎》"
 author: "Emily Dickinson"
-author_zh: "艾米莉·狄金森"
+titles: 
+  zh: "如果我能教一颗心免于破碎"
+authors:
+  zh: "艾米莉·狄金森"
 date: "约1864"
-source: ""
-translate: "https://www.douban.com/note/542021456/"
-draft: 1
-read: 1
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: ""
+translates: "https://www.douban.com/note/542021456/"
 tags: "诗歌"
 ---
 

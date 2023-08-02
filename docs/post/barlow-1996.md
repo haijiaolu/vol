@@ -1,16 +1,19 @@
 ---
 name: "Barlow-赛博空间独立宣言"
 title: "A Declaration of the Independence of Cyberspace"
-title_zh: "赛博空间独立宣言"
 author: "John Perry Barlow"
-author_zh: ""
-date: "1996/2/8"
-source: 
-  - "https://www.eff.org/cyberspace-independence"
-translate: 
-  - ""
-draft: 1
-read: 1
+titles: 
+  zh: "赛博空间独立宣言"
+authors: 
+  zh: ""
+date: "1996/02/08"
+created: ""
+updated: ""
+draft: false
+read: "1"
+sources: "https://www.eff.org/cyberspace-independence"
+translates: ""
+tags: "科技"
 ---
 
 [[toc]]
