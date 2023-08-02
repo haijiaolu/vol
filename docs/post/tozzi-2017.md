@@ -53,7 +53,7 @@ Still, the culture that grew up around Unix played a foundational role in birthi
 
 ### 1984: AT&T Commercializes Unix
 
-![AT&T Commercializes Unix](../images/1984_atnt_ commercializes_unix.jpg)
+![AT&T Commercializes Unix](../images/1984_atnt_commercializes_unix.jpg)
 
 For the first fifteen years of Unix's existence, AT&T, which owned the operating system, was forbidden by court order from profiting off of it. (The order dated to 1956, when the federal government, in an effort to prevent monopolization, issued a consent decree that forbade AT&T from generating profits in markets other than telecommunications.)
 

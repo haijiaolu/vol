@@ -26,6 +26,8 @@ tags: "论文"
     <a href="../resources/huangzongzhi-2013.pdf">Download</a> instead.</p>
 </object>
 
+[PDF](../resources/huangzongzhi-2013.pdf)
+
 ■ 黄宗智
 
 【内容提要】

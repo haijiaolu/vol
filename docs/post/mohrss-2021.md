@@ -28,3 +28,5 @@ read: 1
   <p>Unable to display PDF file. 
     <a href="../resources/P020211202354560821450.pdf">Download</a> instead.</p>
 </object>
+
+[PDF](../resources/P020211202354560821450.pdf)
