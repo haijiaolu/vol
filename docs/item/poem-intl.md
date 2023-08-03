@@ -1,3 +1,16 @@
+---
+name: "外国诗歌"
+title: "外国诗歌"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/诗歌"
+---
+
 # 外国诗歌
 
 ## 诗歌

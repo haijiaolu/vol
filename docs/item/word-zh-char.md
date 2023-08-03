@@ -1,3 +1,16 @@
+---
+name: "字集"
+title: "字集"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/字词"
+---
+
 # 字集
 
 - [字集](#字集)

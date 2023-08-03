@@ -1,3 +1,16 @@
+---
+name: "篇章摘录（中文）"
+title: "篇章摘录（中文）"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/摘录"
+---
+
 # 篇章摘录（中文）
 
 ## 诗文

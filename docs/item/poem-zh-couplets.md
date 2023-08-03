@@ -1,3 +1,16 @@
+---
+name: "对联集句"
+title: "对联集句"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/诗歌"
+---
+
 # 对联集句
 
 ## 1

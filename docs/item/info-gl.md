@@ -1,3 +1,16 @@
+---
+name: "新知-管理定律"
+title: "新知-管理定律"
+author: ""
+date: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/新知"
+---
+
 # 新知-管理定律
 
 [[toc]]

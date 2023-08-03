@@ -1,6 +1,6 @@
 ---
 name: "村上春树-高墙与鸡蛋耶路撒冷文学奖获奖演讲"
-title: ""
+title: "Acceptance Address By Haruki Murakami"
 author: "村上春樹"
 titles:
   zh: "“高墙与鸡蛋”——耶路撒冷文学奖获奖演讲"

@@ -1,3 +1,16 @@
+---
+name: "新诗摘录"
+title: "新诗摘录"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/诗歌"
+---
+
 # 新诗摘录
 
 ## 诗歌

@@ -1,3 +1,16 @@
+---
+name: "影视台词"
+title: "影视台词"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/摘录"
+---
+
 # 影视台词
 
 - [影视台词](#影视台词)

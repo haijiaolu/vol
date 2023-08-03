@@ -1,3 +1,16 @@
+---
+name: "未知的格言摘录（外文）"
+title: "未知的格言摘录（外文）"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/摘录"
+---
+
 # 未知的格言摘录（外文）
 
 ## 出处不明 1

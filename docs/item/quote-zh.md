@@ -1,3 +1,16 @@
+---
+name: "格言警句（中文）"
+title: "格言警句（中文）"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/摘录"
+---
+
 # 格言警句（中文）
 
 ## 古文

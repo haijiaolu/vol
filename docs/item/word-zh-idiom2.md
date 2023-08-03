@@ -1,3 +1,16 @@
+---
+name: "谚语俗语"
+title: "谚语俗语"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/字词"
+---
+
 # 谚语俗语
 
 ## 语句 1

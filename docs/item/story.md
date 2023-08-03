@@ -1,3 +1,16 @@
+---
+name: "故事寓言"
+title: "故事寓言"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/故事"
+---
+
 # 故事寓言
 
 [[toc]]

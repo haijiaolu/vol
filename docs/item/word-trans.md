@@ -1,3 +1,16 @@
+---
+name: "音译/意译词"
+title: "音译/意译词"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/字词"
+---
+
 # 音译/意译词
 
 - [音译/意译词](#音译意译词)

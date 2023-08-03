@@ -1,3 +1,16 @@
+---
+name: "古诗名句"
+title: "古诗名句"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/诗歌"
+---
+
 # 古诗名句
 
 ## 1 佚名诗作

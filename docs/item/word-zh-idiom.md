@@ -1,3 +1,16 @@
+---
+name: "词库"
+title: "词库"
+author: ""
+tags: "2023"
+created: ""
+updated: ""
+draft: false
+read: 1
+sources: ""
+tags: "汇总/字词"
+---
+
 # 词库
 
 - [词库](#词库)
