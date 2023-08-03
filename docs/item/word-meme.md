@@ -27,6 +27,7 @@ tags: "汇总/字词"
 - `AKA`: also known as
 - `AoE`: Anywhere on Earth
 - `ASAP`: as soon as possible
+- `AFAIK`: as far as I know
 - `GIYF`: Google Is Your Friend, "I will use Google before asking dumb questions.", [jfgi.herokuapp.com](http://jfgi.herokuapp.com/)
 - `JFGI`: Just Fucking Google It, [justfuckinggoogleit.com](http://justfuckinggoogleit.com/)
 - `LGTM`: Looks Good To Me. 朕知道了 代码已经过 review，可以合并
