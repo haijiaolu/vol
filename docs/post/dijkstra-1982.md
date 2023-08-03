@@ -37,7 +37,7 @@ tags: "文章/科技"
 
 #### **English**
 
-## Why numbering should start at zero
+##### Why numbering should start at zero
 
 To denote the subsequence of natural numbers 2, 3, ..., 12 without the pernicious three dots, four conventions are open to us
 
@@ -79,7 +79,7 @@ Last revised on Fri, 2 May 2008.
 
 #### **中文翻译**
 
-## 为什么应该从 0 开始计数
+##### 为什么应该从 0 开始计数
 
 为什么应该从 0 开始计数为了表示出自然数的子序列，2, 3, ... , 12，不使用省略记号那三个点号，我们可以选择 4 种约定方式：
 

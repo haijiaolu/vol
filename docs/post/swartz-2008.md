@@ -41,7 +41,7 @@ tags: "文章/科技"
 
 #### **English**
 
-## Guerilla Open Access Manifesto
+**Guerilla Open Access Manifesto**
 
 Information is power. But like all power, there are those who want to keep it for
 themselves. The world's entire scientific and cultural heritage, published over centuries
@@ -104,7 +104,7 @@ July 2008, Eremo, Italy
 
 #### **中文翻译**
 
-## 游击队开放访问宣言
+**游击队开放访问宣言**
 
 信息就是力量。正如所有力量一样，总有人希望将它据为己有。这个世上的全部科学文化遗产，它们历经百年通过书籍期刊这样的纸质传承下来，现在却因为数字化而被一小部分私人组织据为己有。你想要获取到科学界最重要的知识吗？那就向 Reed Elsevier （世界知名的出版集团）支付高额的费用吧。
 

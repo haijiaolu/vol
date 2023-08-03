@@ -12,7 +12,7 @@ draft: false
 read: "1"
 sources: ""
 translates: ""
-tags: 
+tags:
   - "文章/采访"
   - "文章/文化"
 ---
@@ -124,6 +124,7 @@ tags:
 <https://www.tokyo-np.co.jp/article/243643>
 <https://www.asahi.com/articles/ASR435K42R43OXIE023.html>
 ```
+
 ### 正文
 
 <!-- tabs:start -->
@@ -231,6 +232,6 @@ time of grief.
 
 April 2nd, 2023  
 Kab America Inc.  
-Kab inc.  
+Kab inc.
 
 <!-- tabs:end -->

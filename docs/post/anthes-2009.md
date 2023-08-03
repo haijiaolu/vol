@@ -36,7 +36,8 @@ tags: "文章/科技"
 
 #### **English**
 
-## Unix turns 40: The past, present and future of a revolutionary OS
+
+##### Unix turns 40: The past, present and future of a revolutionary OS
 
 > After four decades, the future of the operating system is clouded, but its legacy will endure.
 
@@ -56,7 +57,7 @@ After batting around some ideas for a new system, Thompson wrote the first versi
 
 Apparently they did. Unix would go on to become a cornerstone of IT, widely deployed to run servers and workstations in universities, government facilities and corporations. And its influence spread even farther than its actual deployments, as the ACM noted in 1983 when it gave Thompson and Ritchie its top prize, the A.M. Turing Award for contributions to IT: "The model of the Unix system has led a generation of software designers to new ways of thinking about programming."
 
-### Early steps
+###### Early steps
 
 ![Ken Thompson and Dennis Ritchie](../images/unix_kendennis.png)
 
@@ -70,7 +71,7 @@ It was time to spread the word. Ritchie and Thompson's July 1974 CACM article, "
 
 "The CACM article had a dramatic impact," IT historian Peter Salus wrote in his book The Daemon, the Gnu and the Penguin. "Soon, Ken was awash in requests for Unix."
 
-### Hackers' heaven
+###### Hackers' heaven
 
 Thompson and Ritchie were the consummate "hackers," when that word referred to someone who combined uncommon creativity, brute force intelligence and midnight oil to solve software problems that others barely knew existed.
 
@@ -92,7 +93,7 @@ Another advantage of Unix -- the second "wow," as Salus puts it -- was that it d
 
 A lot of others got hooked as well. University researchers adopted Unix in droves because it was relatively simple and easily modified, it was undemanding in its resource requirements, and the source code was essentially free. Startups like Sun Microsystems and a host of now-defunct companies that specialized in scientific computing, such as Multiflow Computer, made it their operating system of choice for the same reasons.
 
-### Unix offspring
+###### Unix offspring
 
 Unix grew up as a non-proprietary system because in 1956 AT&T had been enjoined by a federal consent decree from straying from its mission to provide telephone service. It was okay to develop software, and even to license it for a "reasonable" fee, but the company was barred from getting into the computer business.
 
@@ -116,7 +117,7 @@ Unix versions chart
 ![Unix versions chart](../images/unix_chart_420.png)
 > The Unix family tree. Credit: Eraserhead1 (cc-by-sa-3.0, GFDL)
 
-### The Unix Wars
+###### The Unix Wars
 
 In the mid-'80s, users, including the federal government, complained that while Unix was in theory a single, portable operating system, in fact it was anything but. Vendors paid lip service to the complaint but worked night and day to lock in customers with custom Unix features and APIs.
 
@@ -132,7 +133,7 @@ Microsoft users applauded. Unix vendors panicked. All the major Unix rivals unit
 
 As a practical matter, these developments may have "standardized" Unix about as much as possible, given the competitive habits of vendors. But they may have come too late to stem a flood tide called Linux, the open-source operating system that grew out of Prof. Tanenbaum's Minix.
 
-#### Just what is "Unix," anyway?
+####### Just what is "Unix," anyway?
 
 ```
 Unix, most people would say, is an operating system written decades ago at AT&T's Bell Labs, and its descendents. The major versions of Unix today branched off a tree with two trunks: one emanating directly from AT&T and one from AT&T via the University of California at Berkeley. The stoutest branches today are AIX from IBM, HP-UX from HP and Solaris from Sun.
@@ -144,7 +145,7 @@ A still broader definition of Unix would include Unix-like operating systems -- 
 Finally, although it's reasonable to call Unix an "operating system," as a practical matter it is more. In addition to an OS kernel, Unix implementations typically include utilities such as command line editors, application program interfaces, development environments, libraries and documentation. -- Gary Anthes
 ```
 
-### The future of Unix
+###### The future of Unix
 
 The continued lack of complete portability across competing versions of Unix, as well as the cost advantage of Linux and Windows on x86 commodity processors, will prompt IT organizations to migrate away from Unix, suggests a recent poll by Gartner Group.
 
@@ -162,7 +163,7 @@ The Open Group, owner of the Single Unix Specification and certifier of Unix sys
 
 AT&T's Korn is among those still bullish on Unix. Korn says a strength of Unix over the years, starting in 1973 with the addition of pipes, is that it can easily be broken into pieces and distributed. That will carry Unix forward, he says: "The [pipelining] philosophy works well in cloud computing, where you build small reusable pieces instead of one big monolithic application."
 
-### The Unix legacy
+###### The Unix legacy
 
 Regardless of the ultimate fate of Unix, the operating system born at Bell Labs 40 years ago has established a legacy likely to endure for decades more. It can claim parentage of a long list of popular software, including the Unix offerings of IBM, HP and Sun, Apple's Mac OS X and Linux. It has also influenced systems with few direct roots in Unix, such as Microsoft's Windows NT and the IBM and Microsoft versions of DOS.
 
@@ -170,7 +171,7 @@ Unix enabled a number of startup companies to succeed by giving them a low-cost 
 
 The ACM may have said it best in its 1983 Turing award citation in honor of Thompson and Ritchie's Unix work: "The genius of the Unix system is its framework, which enables programmers to stand on the work of others."
 
-### Appendix: Timeline: 40 years of Unix
+###### Appendix: Timeline: 40 years of Unix
 
 Year-by-year details of Unix' history
 
@@ -273,9 +274,9 @@ Ever wonder about how Unix got started, not to mention all the twists and turns 
 
 #### **中文翻译**
 
-## Unix 40 年：昨天，今天和明天
+##### Unix 40 年：昨天，今天和明天
 
-陈皓, 2009 年 06 月 11 日
+翻译 陈皓, 2009 年 06 月 11 日
 
 > 经历了四个十年，操作系统的未来充满了变数，但传奇将会是永久的。
 
@@ -291,7 +292,7 @@ Thompson 和他的一个同事 Dennis Ritchie 当时在开发一个叫“Multics
 
 显然，他们做到了，Unix 的确成为了 IT 领域中的一块基石，被广泛地部署到了大学，政府和企业的服务器和工作站上。并且，Unix 的影响力开发迅速地传播开来，这恐怕超出了所有人的估计，正如 ACM 在 1983 年给 Thompson 和 Ritchie 颁发最具价值的图灵奖（计算机领域的诺贝尔奖）所记录的那样–“Unix 系统的模式已经在以一种全新的编程思想领导着新一代的软件开发”。
 
-### Unix 早期
+###### Unix 早期
 
 当然，Unix 的成功不是一蹴而就的。 在 1971 年，它首先被移植到了 PDP-11 微机（一个比 PDP-7 更强的微机）。文本格式和文本编译程序在这时被加入进了 Unix。并且，当时的实验室专利部门已经开始用这些文本编译器，这也是 Unix 系统除开发团队之外的第一个用户。
 
@@ -301,7 +302,7 @@ Thompson 和他的一个同事 Dennis Ritchie 当时在开发一个叫“Multics
 
 “ _CACM_ 的那篇论文产生了一个戏剧化的影响”， IT 历史学家 Peter Salus 在他的书《_The Daemon, the Gnu and the Penguin_》中写到， “很快，Ken 被铺天盖地的 Unix 的请求所淹没”。
 
-### 黑客的天堂
+###### 黑客的天堂
 
 Thompson 和 Ritchie 算得上是史上最名副其实的”黑客”，当时”黑客 hacker”一词指的是那些把非同寻常的创意组合起来， 以一种超常智力，并以废寝忘食的态度解决了某个鲜为人知的软件问题的人。
 
@@ -319,7 +320,7 @@ Unix 还有一个不错的地方。 “哇”，正如 Salus 所惊叹的，这�
 
 很多很多的大学研究者们使用 Unix 就是因为这是一个简单和容易修改的操作系统，而且对硬件资源要求的很少，代码也是开源和免费的。就像 Sun Microsystems 公司，或是一些用于特定的科学计算的主机公司，例如 Multiflow Computer，他们在选择 Unix 作为操作系统时都和那些大学研究者们有相同的原因。
 
-### Unix 家谱
+###### Unix 家谱
 
 Unix 成长为一个非私有的操作系统，是因为 1956 年的 AT&T 公司受命于联邦去经营电报电话服务。当然也可以开发软件，甚至那个软件可以有”合理”收费的许可证，但是这个公司却被禁止从事任何和计算机有并的商业活动。
 
@@ -339,7 +340,7 @@ Unix，在开发的过程中，没有任何的奖励制度和管理，从一开�
 
 1982 年，Joy 创建了 Sun Microsystems 公司并提供了工作站——Sun-1，运行在当一个 BSD 的版本，叫 SunOS（Solaris 以之后的十年出现）。而 AT&T 则在随后的几年中发布了 Unix System V 的第一版，一个具有强大影响力的操作系统，最终造就了 IBM 的 AIX 和 HP 的 HP-UX。
 
-### Unix 战争
+###### Unix 战争
 
 在上世纪 80 年代中期，大量的用户包括联邦政府，开始抱怨”Unix 是一个理论上单一的可移植的操作系统”，但事实上应该如此却并不是这样。Unix 软件供应商们，一方面为这些抱怨而为其买单（“空头人情”），而另一方面，他们却在没日没夜地给用户们定制 Unix 的各种功能和 APIs，旨在为了留下用户。
 
@@ -353,7 +354,7 @@ Microsoft 的用户欢呼雀跃，Unix 的产商开始惊慌。所有的主流�
 
 但在实践过程中，所有关于 Unix 的开发的确需要一个尽可能”标准化的”Unix，但是由于这些产商热衷于竞争的习惯，在 Unix 下并没有做到，但这一”标准化”被随后如潮水一样涌来的一个叫 Linux 的操作系统给完成了，这是一个开源的系统系统，则我们的 Tanenbaum 教授开发的 Minix 发展而来。
 
-#### 什么是“Unix”?
+####### 什么是“Unix”?
 
 Unix，许多人会说，是一个几十年前在 Bell 实验室写的操作系统，Unix 包括其所有的派生版本。今天，最主要的 Unix 版本是从两个主干上分出来的：一个当然是从 AT&T 出来的，另一个则是通过加利福尼亚伯克利分校产生的。今天，最顽强的分枝是 IBM 的 AIX 和 HP 的 HP-UX 以及 Sun 的 Solaris。
 
@@ -364,7 +365,7 @@ Unix，许多人会说，是一个几十年前在 Bell 实验室写的操作系�
 最后，我们可以把 Unix 叫做一种”操作系统”因为这是已成了实际习惯。另外，对于一个操作系统的内核，Unix 实现了很多典型的工具比如命令行编辑器，应用程序接口，开发环境，开发库和文档
 ——Gary Anthes
 
-### Unix 的未来
+###### Unix 的未来
 
 由于这些长期竞争的各种版本的 Unix 缺乏可移值性，以及在价格方面没有优势，在 x86 芯片上占据主导地位的 Linux 和 Windows 将会快速地让所有的 IT 机构把 Unix 替换掉。调查机构 Gartner Group 最近公布了这项调查结果。
 
@@ -382,7 +383,7 @@ The Open Group，目前 Single Unix Specification 和 Unix 系统认证的所有
 
 AT&T 的 Korn 是其中一个对 Unix 仍然看到的人。Korn 说，Unix 的长处是它的历史，自从 1973 年来引入”管道”技术，它就可以被分成几个部分来部署。这会把 Unix 带向前方，他说，”这个哲学体系可以运用在云计算中，在那里，你只需要创建一些小的可重用的碎片而不是一个巨大的应用”。
 
-### Unix 传奇
+###### Unix 传奇
 
 无论最后的 Unix 命运会怎么样，这个从 Bell 实验室出生的 40 岁的家伙，已经书写了一段传奇，而且这个传奇可能还会继续几十年。它影响并产生了一个相当相当长的流行软件列表，包括给 IBM，HP 和 Sun 提供的 Unix，以及 Apple 的 Mac OS X 和 Linux。它同样影响了 Microsoft 的 Windows NT 以及 IBM 和 Microsoft 弄出来的 DOS。
 

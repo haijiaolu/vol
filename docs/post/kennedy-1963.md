@@ -39,7 +39,7 @@ John F. Kennedy
 
 #### **English**
 
-Remarks in the Rudolph Wilde Platz, Berlin   
+**Remarks in the Rudolph Wilde Platz, Berlin**   
 June 26, 1963
 
 I am proud to come to this city as the guest of your distinguished Mayor, who has symbolized throughout the world the fighting spirit of West Berlin. And I am proud to visit the Federal Republic with your distinguished Chancellor who for so many years has committed Germany to democracy and freedom and progress, and to come here in the company of my fellow American, General Clay, who has been in this city during its great moments of crisis and will come again if ever needed.

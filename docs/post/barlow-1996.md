@@ -37,7 +37,7 @@ tags: "文章/科技"
 
 #### **English**
 
-## A Declaration of the Independence of Cyberspace
+##### A Declaration of the Independence of Cyberspace
 
 by John Perry Barlow
 
@@ -78,7 +78,7 @@ February 8, 1996
 
 #### **中文翻译**
 
-## 《赛博空间独立宣言》
+##### 《赛博空间独立宣言》
 
 网络独立宣言
 

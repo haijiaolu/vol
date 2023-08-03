@@ -31,7 +31,7 @@ tags: "文章/演讲"
 
 #### **English**
 
-ACCEPTANCE ADDRESS BY HARUKI MURAKAMI
+**ACCEPTANCE ADDRESS BY HARUKI MURAKAMI**
 
 I have come to Jerusalem today as a novelist, which is to say as a
 professional spinner of lies.

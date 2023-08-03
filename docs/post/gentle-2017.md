@@ -25,9 +25,9 @@ tags: "文章/科技"
 
 #### **English**
 
-03 May 2017
+##### 3 tribes of programming
 
-**3 tribes of programming**
+03 May 2017
 
 There's an old joke that computer science is a lie, because its not really about computers, and its not really a science.
 
@@ -35,14 +35,14 @@ Funny joke. Everyone laughs, then someone says "Yeah but it sort of is about com
 
 Out in the wild, these arguments look like this:
 
-> I think I agree, and am looking forward to hearing Joe's take on it 
+> I think I agree, and am looking forward to hearing Joe's take on it
 > `#deconstructconf pic.twitter.com/j7H2QWG0Tr`  
 > — Andy Lindeman (@alindeman) [April 21, 2017](https://twitter.com/alindeman/status/855557506881396736)
 
 > I'll happily renounce "programmer" in favor of "applied mathematician"
-> or something, whatever it takes to avoid C 
+> or something, whatever it takes to avoid C
 > https://t.co/DsIEo5x4uI  
-> — Chris Martin 🐘🎺🍍 (@chris__martin) [April 21, 2017](https://twitter.com/chris__martin/status/855559372927381505)
+> — Chris Martin 🐘🎺🍍 (@chris**martin) [April 21, 2017](https://twitter.com/chris**martin/status/855559372927381505)
 
 The speaker was making the point that the whole modern stack in our computers (Kernel, OS, browser, VM) is written in C + ASM. So you should know C and ASM.
 
@@ -61,7 +61,7 @@ fn sub(a, b) { return a + b }
 
 He said "Of course, thats easy". So I asked how his prover would discover that the function had the wrong name, and he got delightfully flustered.
 
-**Tribes**
+###### Tribes
 
 Programs, obviously, hold all of these properties. But I think there's fundamentally 3 architypes of programmers, divided by which ideals we hold in highest esteem:
 
@@ -73,7 +73,7 @@ We self-select into communities of our peers based on these ideals. We use coded
 
 I think each group has its own conferences, and its own subreddits. Its own programming languages, heroes and its own villains.
 
-**Programming as applied mathematics**
+###### Programming as applied mathematics
 
 The first camp views programming is fundamentally an expression of thought - a kind of mathematical poetry which we can gift with life. The fact that we execute them on von Neumann machines is an implementation detail.
 
@@ -84,8 +84,8 @@ With this mindset, these details are important:
 - **Correctness**: A program is correct if it implements the spec exactly. The best programs use tools like Ada to formally prove correctness.
 - **UI**: How the code interacts with humans is a separate consideration from its implementation. Beautiful code is more important than beautiful UI.
 
-Examples: 
-[Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc), 
+Examples:
+[Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc),
 [Brett Victor](https://vimeo.com/36579366)
 
 These programmers are probably the least common, although that might be because its hard to get a job working like this. [Haskell](https://stackoverflow.blog/2017/02/07/what-programming-languages-weekends/?cb=1) has the highest weekend/weekday usage ratio of all languages on stackoverflow.
@@ -104,7 +104,7 @@ I did a Haskell short course late last year and I challenged the main instructor
 
 And of course, [Steve Yegge making fun of this tribe](http://steve-yegge.blogspot.com.au/2010/12/Haskell-researchers-announce-discovery.html)
 
-**Programming as hardware hacking**
+###### Programming as hardware hacking
 
 The second camp views programming as fundamentally tied to the machinery of the computer. No program is run without a computer, therefore to program effectively we must keep the computer in mind at all times - hardware and software.
 
@@ -117,9 +117,9 @@ Thus, elegance like this:
 - **Correctness**: A program is correct if it runs the way you expect it to run, given normal parameters. Execution elegance is more important than correctness. And if a theoretical issue can't happen in practice due to how the machine works, its not a real bug. A program must be adequately fast to be considered correct.
 - **UI**: How the code interacts with humans is a separate consideration from its implementation. Its ok to let the constraints of the hardware guide the user experience.
 
-Example: 
-[Poul-Henning Kamp](http://queue.acm.org/detail.cfm?id=1814327), 
-[Michael Steil](http://www.pagetable.com/), 
+Example:
+[Poul-Henning Kamp](http://queue.acm.org/detail.cfm?id=1814327),
+[Michael Steil](http://www.pagetable.com/),
 [The 8-Bit guy](https://www.youtube.com/watch?v=Tfh0ytz8S0k)
 
 The key here is thinking about the entirety of the computer and your running program, together. According to this community, the best (only?) way to write good software is to think holistically about how it will run, and how our program will interact with the rest of the hardware and software. Doing that well achieves [mechanical sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy) and everything runs like a well oiled clock. The joy is like that of driving a manual car that you can hear and understand.
@@ -148,7 +148,7 @@ Conflicts with the first group:
 
 And here's Brett Victor [making fun of this tribe](https://vimeo.com/71278954).
 
-**Programming as a tool to make things**
+###### Programming as a tool to make things
 
 The final group see programming as a means to a beautiful end, not something made beautiful through its construction. The way people in this camp describe themselves is fundamentally pragmatic. They write software because software is useful to other people.
 
@@ -169,7 +169,7 @@ Thats fair, but its also true that lots of issues are caused by the lack of tech
 
 Here's an example of this conflict playing out on twitter:
 
-> @jdan Well, then you're not a very good programmer. 
+> @jdan Well, then you're not a very good programmer.
 > Sorry but that's how it is.  
 > — Jonathan Blow (@Jonathan_Blow) [June 12, 2015](https://twitter.com/Jonathan_Blow/status/609156243370975232)
 
@@ -177,11 +177,11 @@ For context, Jonathan Blow (famous indie game developer) is saying that if you c
 
 Is he right? Well it depends on what 'good developer' means, and that depends on which tribes you care about. I think Blow is in camp 2, so you're judged based on how much you know. @jdan is in camp 3, so he's judged based on what he's made. Jonathan Blow certainly writes useful software, but one of the reasons his last game (The Witness) took so long to write was that he wrote his own engine instead of using something off the shelf. When asked about it (emphasis mine):
 
-> I don’t know very much about Unity. However, it’s clear that one could not 
-> build The Witness in Unity without rewriting a lot of Unity (or adding a lot 
-> of things that are not there, and declining to use most of what Unity 
-> provides). And we already had a simple graphics engine anyway. So **when 
-> building our own systems, we can ensure that they are really what the game 
+> I don’t know very much about Unity. However, it’s clear that one could not
+> build The Witness in Unity without rewriting a lot of Unity (or adding a lot
+> of things that are not there, and declining to use most of what Unity
+> provides). And we already had a simple graphics engine anyway. So **when
+> building our own systems, we can ensure that they are really what the game
 > needs to be its best.**
 
 I suspect he's wrong about the first part. But I'm mostly in camp 2 myself, so I understand wanting to write your own engine anyway. I probably would have done the same thing.
@@ -192,7 +192,7 @@ I suspect he's wrong about the first part. But I'm mostly in camp 2 myself, so I
 
 And of course, Gary Bernhardt [making fun of this camp](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript).
 
-**A quiet war**
+###### A quiet war
 
 I think a lot of the conflicts and disagreements in our community can be expressed in these terms. And a lot of the misunderstandings between programmers.
 
@@ -217,14 +217,14 @@ Rust is trying to put one foot in each of the first two camps - be a language ma
 
 Rob Pike (author of Go) was confused about which tribe his language is trying to appeal to. He [wrote this](http://commandcenter.blogspot.com.au/2012/06/less-is-exponentially-more.html) a couple years after Go was released:
 
-> I was asked a few weeks ago, "What was the biggest surprise you encountered 
-> rolling out Go?" I knew the answer instantly: Although we expected C++ 
-> programmers to see Go as an alternative, instead most Go programmers come 
+> I was asked a few weeks ago, "What was the biggest surprise you encountered
+> rolling out Go?" I knew the answer instantly: Although we expected C++
+> programmers to see Go as an alternative, instead most Go programmers come
 > from languages like Python and Ruby. Very few come from C++.
 
 Why? Well C++ programmers are largely in camp 2 above. They want to know how their code will run. But Go has a garbage collector, and a fast compiler. Really, Go cares about getting out of your way so you can just make stuff. Its a language for people in the last camp, who want to build products. What languages do people who care about that currently use? Python, Ruby and Javascript. So of course they're who Go is converting.
 
-**Closing**
+###### Closing
 
 Next time you see an argument about whether Javascript is a cancer or a boon to our industry, or you see someone like me getting angry about modern apps being crap, ask yourself which camp is speaking. Are they championing beautiful code? Performance and a "deep understanding"? Or do they just want to get work done and ship product?
 
@@ -238,9 +238,12 @@ But personally I think we should aspire to be like Alan Kay and do all three. Hi
 
 Thats certainly what I aim for. And hopefully I'll still be blowing people's minds past the age of 70.
 
+---
+
 #### **中文翻译（机器翻译）**
 
-编程的 3 个部落
+##### 编程的 3 个部落
+
 有一个老笑话说计算机科学是一个谎言，因为它并不是真正关于计算机的，也不是真正的科学。
 
 有趣的笑话。每个人都笑了，然后有人说“是的，但这有点与计算机有关，不是吗？”。脚笨拙地拖着。有人清了清嗓子，在您意识到之前，您正在谈论类别理论并查找算法一词的历史。
@@ -251,7 +254,7 @@ Thats certainly what I aim for. And hopefully I'll still be blowing people's min
 > `#deconstructconf pic.twitter.com/j7H2QWG0Tr.  
 > — 安迪·林德曼 (@alindeman) 2017 年 4 月 21 日
 
-演讲者指出，我们计算机中的整个现代堆栈（内核、操作系统、浏览器、VM）都是用 C + ASM 编写的。所以你应该了解C和ASM。
+演讲者指出，我们计算机中的整个现代堆栈（内核、操作系统、浏览器、VM）都是用 C + ASM 编写的。所以你应该了解 C 和 ASM。
 
 这真的很重要吗？严重的问题是，程序首先是指令列表，还是逻辑思想的表达？
 
@@ -265,7 +268,7 @@ fn sub(a, b) { return a + b }
 
 他说：“当然，那很容易”。所以我问他的证明者如何发现该函数的名称错误，他非常慌乱。
 
-**部落**
+###### 部落
 
 显然，程序拥有所有这些属性。但我认为程序员基本上有 3 种类型，按我们最推崇的理想来划分：
 
@@ -277,7 +280,7 @@ fn sub(a, b) { return a + b }
 
 我认为每个小组都有自己的会议和自己的 Reddit 子版块。它有自己的编程语言、英雄和恶棍。
 
-**作为应用数学的编程**
+###### 作为应用数学的编程
 
 第一个阵营认为编程从根本上来说是一种思想的表达——一种我们可以赋予生命的数学诗歌。我们在冯·诺依曼机器上执行它们的事实是一个实现细节。
 
@@ -294,7 +297,7 @@ fn sub(a, b) { return a + b }
 
 编程语言的大多数（可以说是全部）现代进步都来自这个阵营的人。如果您使用过 React 制作过网站，您应该知道不变性模型以及将视图表达为从数据到 DOM 的纯函数都来自函数式编程。事实上，大多数现代语言功能都是由那些将编程视为思想的人发明的。几年（或几十年）后，这些功能被复制到更流行的语言中，并被视为新想法。
 
-我有一个朋友花了几个月的时间爱J。他最终用 J 编写了一个小游戏。他将自己的代码描述为完美、美丽的水晶。后来他想让它成为多人游戏 - 但要做到这一点，他就必须处理延迟问题。这需要破坏一些美丽的内部流程。他无法忍受，所以完全放弃了这个项目。
+我有一个朋友花了几个月的时间爱 J。他最终用 J 编写了一个小游戏。他将自己的代码描述为完美、美丽的水晶。后来他想让它成为多人游戏 - 但要做到这一点，他就必须处理延迟问题。这需要破坏一些美丽的内部流程。他无法忍受，所以完全放弃了这个项目。
 
 那个故事很有趣，但我有点嫉妒我的朋友。我敢打赌他学到了很多并且玩得很开心。这样的经历使我们成为更好的程序员。
 
@@ -306,7 +309,7 @@ fn sub(a, b) { return a + b }
 
 当然，史蒂夫·耶吉（Steve Yegge）取笑这个部落
 
-**编程就像硬件黑客一样**
+###### 编程就像硬件黑客一样
 
 第二个阵营认为编程从根本上与计算机机制相关。没有计算机就无法运行任何程序，因此为了有效地编程，我们必须始终牢记计算机 - 硬件和软件。
 
@@ -329,7 +332,7 @@ fn sub(a, b) { return a + b }
 
 但这类工作在许多领域仍然具有巨大的价值。游戏开发社区仍然用 C++ 编写大部分代码（尽管 Unity 正在慢慢改变这一点）。安全工程师需要系统的了解才能发现漏洞。嵌入式系统工程师不能浪费周期和 RAM，一旦后端系统变得足够大，性能就开始再次变得重要。
 
-即使它不实用，但被迫思考机器真的很有趣！例如，PICO-8强加任意“硬件”限制，迫使您在设计游戏时变得聪明。
+即使它不实用，但被迫思考机器真的很有趣！例如，PICO-8 强加任意“硬件”限制，迫使您在设计游戏时变得聪明。
 
 我们计算机的几乎所有性能改进都归功于这个社区，超出了客户的要求。没有人像整天考虑硬件的人那样关心性能。但是，如果您将计算机视为一台机器，那么还有什么比无意义的工作更丑陋的呢？
 
@@ -347,14 +350,14 @@ fn sub(a, b) { return a + b }
 
 布雷特·维克多 (Brett Victor) 正在取笑这个部落。
 
-**编程作为创造事物的工具**
+###### 编程作为创造事物的工具
 
 最后一组将编程视为实现美好目标的一种手段，而不是通过其构建而变得美丽的东西。这个阵营的人描述自己的方式基本上是务实的。他们编写软件是因为软件对其他人有用。
 
 - **源代码**：代码应该是干净的，但这只是因为干净的代码更容易迭代。与大多数其他考虑因素相比，代码整洁性并不那么重要。
 - **执行**：程序只需对用户来说足够快即可。如果你让它变得更快，你就会浪费时间来添加人们更关心的功能。
 - **正确性**：错误的严重性与其影响程度成正比。程序应该按照用户期望的方式运行。
-- **UI**：UI比其他任何东西都重要。程序的所有其他部分仅为用户界面服务。
+- **UI**：UI 比其他任何东西都重要。程序的所有其他部分仅为用户界面服务。
 
 我认为大多数专业软件工程师都属于这个部落——这是有道理的，因为这是编写软件最容易赚钱的地方。
 
@@ -368,14 +371,14 @@ fn sub(a, b) { return a + b }
 
 以下是推特上发生的冲突的一个例子：
 
-> @jdan好吧，那么你不是一个很好的程序员。抱歉，事情就是这样。  
+> @jdan 好吧，那么你不是一个很好的程序员。抱歉，事情就是这样。  
 > — 乔纳森·布洛 (@Jonathan_Blow) 2015 年 6 月 12 日
 
 就上下文而言，乔纳森·布洛（著名独立游戏开发人员）表示，如果您不能反转二叉树，那么您就不是一个优秀的开发人员，即使您每天都编写有用的软件。
 
 他说得对吗？好吧，这取决于“优秀开发人员”的含义，而这取决于您关心哪些部落。我认为布洛属于第二阵营，所以你的评判是根据你知道的程度。@jdan 在第 3 营，所以他是根据他的作品来评判的。乔纳森·布洛（Jonathan Blow）确实编写了有用的软件，但他的上一款游戏（《证人》）花了这么长时间编写的原因之一是他编写了自己的引擎，而不是使用现成的引擎。当被问到时（强调我的）：
 
-> 我对Unity不太了解。然而，很明显，如果不重写大量 Unity（或添加大量不存在的东西，并拒绝使用 Unity 提供的大部分内容），就无法在 Unity 中构建 The Witness。无论如何，我们已经有了一个简单的图形引擎。因此，在构建我们自己的系统时，我们可以确保它们确实是游戏所需的最佳系统。
+> 我对 Unity 不太了解。然而，很明显，如果不重写大量 Unity（或添加大量不存在的东西，并拒绝使用 Unity 提供的大部分内容），就无法在 Unity 中构建 The Witness。无论如何，我们已经有了一个简单的图形引擎。因此，在构建我们自己的系统时，我们可以确保它们确实是游戏所需的最佳系统。
 
 我怀疑他对第一部分的理解是错误的。但我自己主要属于第二阵营，所以我理解无论如何都想编写自己的引擎。我可能也会做同样的事情。
 
@@ -385,7 +388,7 @@ fn sub(a, b) { return a + b }
 
 当然，加里·伯恩哈特还取笑这个营地。
 
-**一场安静的战争**
+###### 一场安静的战争
 
 我认为我们社区中的很多冲突和分歧都可以用这些术语来表达。还有很多程序员之间的误解。
 
@@ -414,7 +417,7 @@ Rob Pike（Go 的作者）对于他的语言试图吸引哪个部落感到困惑
 
 为什么？C++ 程序员主要属于上面的第二阵营。他们想知道他们的代码将如何运行。但 Go 有一个垃圾收集器和一个快速编译器。确实，Go 关心的是不妨碍你，这样你就可以直接制作东西。它是为最后一个阵营中想要构建产品的人提供的语言。关心这个问题的人目前使用什么语言？Python、Ruby 和 JavaScript。所以他们当然是 Go 正在转变的对象。
 
-**结束语**
+###### 结束语
 
 下次当你看到关于 JavaScript 是我们行业的癌症还是福音的争论时，或者你看到像我这样的人对现代应用程序的垃圾感到愤怒时，问问自己哪个阵营在说话。他们拥护美丽的代码吗？表现和“深刻理解”？或者他们只是想完成工作并交付产品？
 

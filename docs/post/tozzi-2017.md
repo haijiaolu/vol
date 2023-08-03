@@ -38,13 +38,13 @@ tags: "文章/科技"
 
 #### **English**
 
-## Unix to GitHub: 10 Key Events in Free and Open Source Software History
+##### Unix to GitHub: 10 Key Events in Free and Open Source Software History
 
 > t's easy to take open source software for granted today, but free and open source software as we know it is the product of a long series of developments that stretch back a half-century. Here's a look at some of the big moments in free and open source history -- from the heyday of free Unix, to the birth of GNU and Linux, to the GitHub's democratization of coding, and everything in between.
 
 > These are just some of the big events in FOSS history. For a more complete narrative and analysis of the historical events that created the free and open source world in which we live, check out Christopher Tozzi's new book, For Fun and Profit: _A History of the Free and Open Source Software Revolution_.
 
-### 1969: Birth of Unix
+###### 1969: Birth of Unix
 
 ![Birth of Unix](../images/1969_birth_of_unix.jpg)
 
@@ -52,7 +52,7 @@ In 1969 programmers at AT&T's Bell Labs began work on Unix. Unix was never a fre
 
 Still, the culture that grew up around Unix played a foundational role in birthing what would later became free and open source software ideologies and communities. Unix programmers and users saw themselves as rebels against the increasing corporatization of software. They shared code with each other freely. They collaborated on the development of the Unix system in a decentralized fashion.
 
-### 1984: AT&T Commercializes Unix
+###### 1984: AT&T Commercializes Unix
 
 ![AT&T Commercializes Unix](../images/1984_atnt_commercializes_unix.jpg)
 
@@ -60,7 +60,7 @@ For the first fifteen years of Unix's existence, AT&T, which owned the operating
 
 Things changed in 1984, when the consent decree was lifted and AT&T was able to begin selling Unix at a profit-generating price. The Unix source code remained available. However, AT&T's decision to transform Unix from a research project into a commercial product engendered a crisis within the community of Unix hackers. They began looking for an alternative Unix-like system that was not encumbered by commercial trappings.
 
-### 1984: Birth of GNU
+###### 1984: Birth of GNU
 
 ![Birth of GNU](../images/1984_birth_of_gnu.jpg)
 
@@ -70,13 +70,13 @@ When the GNU project was launched, the modern concept of free software was only 
 
 Yet over the next several years, as it became increasingly uncommon for developers and companies to give away source code with their programs, GNU's true significance became clear to programmers and users. GNU's importance hinged on the project's commitment to making all source code freely available.
 
-### 1985: Creation of the Free Software Foundation
+###### 1985: Creation of the Free Software Foundation
 
 ![Creation of the Free Software Foundation.jpg](../images/1985_creation_of_fsf.jpg)
 
 As Stallman's vision for promoting software freedom evolved and matured, he realized that writing and giving away GNU source code was not enough. Along with other GNU collaborators, he founded the Free Software Foundation, or FSF. The FSF helped to create the legal and institutional framework that protected GNU and other free software projects.
 
-### 1991: Birth of Linux
+###### 1991: Birth of Linux
 
 ![Birth of Linux.jpg](../images/1991_birth_of_linux.jpg)
 
@@ -84,7 +84,7 @@ Although GNU programmers succeeded in writing a great deal of important programs
 
 This created an opening for Linux. Linux was born as the pet project of Linus Torvalds, a Finnish undergraduate who in the spring and summer of 1991 wrote a Unix-like kernel from scratch and gave the source code away. (Initially, Torvalds protected Linux with a crude license he wrote himself, but he switched after a few months to the GPL license, which the GNU project used.) Linux provided filled the gap that GNU users needed to be able to run a complete Unix-like system using only free software.
 
-### 1998: Open Source Summit
+###### 1998: Open Source Summit
 
 ![Open Source Summit](../images/1998_open_source_summit.jpg)
 
@@ -94,7 +94,7 @@ Yet all was not well within the free software community. Fissures began to emerg
 
 This concern led to a summit in 1998 between about a dozen prominent members of the free software community. (Stallman, however, was not invited.) The participants decided to begin using the term open source software instead of free software to promote software whose source code was publicly available. They believed that open source sent a clearer message to the public regarding what free software was and communicated its value in a less ideological way.
 
-### 1999: Red Hat's IPO
+###### 1999: Red Hat's IPO
 
 ![Red Hat's IPO.jpg](../images/1999_red_hat_ipo.jpg)
 
@@ -102,7 +102,7 @@ Proof of the commercial significance of free and open source software arrived in
 
 Although other open source companies that went public in the same period -- notably VA Linux -- fared much less well, Red Hat remains a leading company within the open source market today.
 
-### 2004: Launch of Ubuntu
+###### 2004: Launch of Ubuntu
 
 ![Launch of Ubuntu.jpg](../images/2004_launch_of_ubuntu.jpg)
 
@@ -112,7 +112,7 @@ The birth of Ubuntu in 2004 helped to change this. Founded by Mark Shuttleworth,
 
 With its slick interfaces and thriving user community, Ubuntu is by most counts the most widely used GNU/Linux distribution today. It arguably did much to put free software in the hands of people who otherwise would never have tried their hands at anything with Linux in its name.
 
-### 2007: Launch of Android
+###### 2007: Launch of Android
 
 ![Launch of Android](../images/2007_launch_of_android.jpg)
 
@@ -120,7 +120,7 @@ The software project that has placed free and open source software into the hand
 
 Although most Android users probably don't know it, Android is based in part on the Linux kernel. This fact does not sit well with all free and open source software advocates, who often complain that the licensing of Android does not project software freedom, and that Android devices tend to be locked down with proprietary components and bloatware -- the types of annoyances that, in the desktop world, push people toward GNU/Linux. For their part, Android developers have contended that "Android is not Linux," despite the platform's roots.
 
-### 2008: GitHub Democraticizes Open Source
+###### 2008: GitHub Democraticizes Open Source
 
 ![GitHub Democraticizes Open Source.jpg](../images/2008_github.jpg)
 
@@ -132,27 +132,29 @@ Although you don't need to use GitHub to use Git, GitHub arguably democraticized
 
 ...
 
-#### **中文翻译**
+---
 
-## 从 UNIX 到 GitHub：十个关于自由和开源软件历史的重要事件
+##### **中文翻译**
+
+##### 从 UNIX 到 GitHub：十个关于自由和开源软件历史的重要事件
 
 > 现在看来，大家很容易会把开源软件当作是理所当然的，但事实上，我们应该知道自由和开源软件是经历了长达半个世纪的一系列漫长发展的产物。
 
 > 本文记录了自由和开源历史上的一些重要时刻，也称得上是 FOSS 历史上的大事件。从 UNIX 的全盛时期，到 GNU 和 Linux 的诞生，再到 GitHub 将开源“民主化”，以及在它们之间的一切。
 
-### 1969：UNIX 的诞生
+###### 1969：UNIX 的诞生
 
 1969 年，AT&T 贝尔实验室的工程师开始开发 UNIX。此后的 10 年，UNIX 在学术机构和大型企业中得到了广泛的应用，当时的 UNIX 拥有者 AT&T  公司以低廉甚至免费的许可将 UNIX 源码授权给学术机构做研究或教学之用，许多机构在此源码基础上加以扩充和改进。后来 AT&T 意识到了 UNIX 的商业价值，从 1979 年 UNIX 的版本 V7 开始，不再将 UNIX 源码授权给学术机构，并对之前的 UNIX 及其变种声明了版权权利。事实上，UNIX 在自由或开源软件的概念存在之前就已诞生，可以说，UNIX 从来都不是一个自由或开源的操作系统。从某种意义上来说，UNIX 在促进共享源码方面起了很小的作用。
 
 然而，围绕 UNIX 而成长起来的文化在后来的自由和开源软件的意识形态和社区诞生过程中起到了奠基性的作用。UNIX 的开发者和用户把自己看成是对抗软件商业化的“反叛者”，他们自由地共享源码，以分散的方式共同合作开发 UNIX 系统。
 
-### 1984：AT&T 将 UNIX 商业化
+###### 1984：AT&T 将 UNIX 商业化
 
 从 UNIX 诞生起的前十五年，UNIX 操作系统的拥有者 AT&T 是被法院禁止从中获利的。起因是 1958 年 AT&T 为避免美国司法部起诉它违反《反垄断法》而签订的和解协议。AT&T 垄断了美国长途电话业务，因此它同意不进入计算机行业，不销售任何与计算机有关的产品，UNIX 是计算机操作系统，所以 AT&T 不能销售它，任何要求得到源码的机构，都能免费得到。
 
 然而在 1984 年，事情发生了变化，当时对 AT＆T 的限制法令被解除，AT&T 开始以能获利的价格销售 UNIX。UNIX 的源码依然可用，但 AT＆T 将 UNIX 从研究性质的项目转变为一个商业项目，这在 UNIX 黑客社区里产生了危机。他们开始寻找一个可替代的类 UNIX 系统，且不受商业陷阱的阻碍。
 
-### 1984：GNU 的诞生
+###### 1984：GNU 的诞生
 
 在  AT&T 将 UNIX 商业化的同一年，理查德·斯托曼（简称 RMS）发起了 GNU 项目（GNU's Not Unix! 的递归缩写），目标是创建一个完全自由且向下兼容 UNIX 的操作系统。RMS 在 1985 年曾说过，GNU 是一个我正在编写的完全兼容 UNIX 的项目，所以我可以让每一个使用它的人都能自由地使用。
 
@@ -160,13 +162,13 @@ GNU 项目刚启动时，自由软件这一现代概念也才刚刚诞生，即�
 
 然而，在接下来的几年里，由于开发者和公司越来越少地在发布程序的同时提供源码。此时，对于程序员和用户，GNU 的真正含义开始变得清晰。GNU 的重要性体现在项目承诺所有的源码都能自由使用。
 
-### 1985：自由软件基金会的建立
+###### 1985：自由软件基金会的建立
 
 随着 RMS 推动自由软件发展和成熟的愿景日益强烈，他意识到仅通过编写和分享 GNU 代码是远远不够的。于是，他建立了自由软件基金会来协助该计划。
 
 自由软件基金会（简称 FSF）是一个致力于推广自由软件的美国民间非营利性组织。它于 1985 年 10 月由理查德·斯托曼建立。其主要工作是运行 GNU 计划，开发更多的自由软件。FSF 帮助创建了保护 GNU 和其他自由软件项目的法律和制度框架。
 
-### 1991：Linux 内核的诞生
+###### 1991：Linux 内核的诞生
 
 作为操作系统，GNU 最大的问题是具有完备功能的内核尚未被开发成功。虽然 GNU 项目的开发者成功编写了大量重要的程序，但他们努力创建一个类似 UNIX 的内核来完善 GNU 的工作却长期停滞不前。GNU 的内核，称为  Hurd，是自由软件基金会发展的重点，今天仍在开发中，经过近三十年的开发，它仍然不能可靠地用于生产环境。同时，BSD 项目的自由软件内核也受到法律方面问题的困扰。
 
@@ -174,7 +176,7 @@ GNU 项目刚启动时，自由软件这一现代概念也才刚刚诞生，即�
 
 所以，Linux 内核填补了 GNU 用户需要完整的且使用自由软件的类 UNIX 系统的空白。
 
-### 1998：开源峰会 (Open Source Summit)
+###### 1998：开源峰会 (Open Source Summit)
 
 到了 20 世纪 90 年代后期，GNU，Linux 以及其他重要项目（如 Apache）的自由软件越来越普及。
 
@@ -184,12 +186,12 @@ GNU 项目刚启动时，自由软件这一现代概念也才刚刚诞生，即�
 
 与会者决定使用“开源软件(open source software)”来代替“自由软件(free software)”，以推广开源这一概念，让大众更清晰地明白其与自由软件之间的差别，并以较少的意识形态方式来传递价值。
 
-### 1999：Red Hat 的 IPO
+###### 1999：Red Hat 的 IPO
 
 1999 年 8 月 11 日，红帽公司正式上市，成为第一家开始公开交易的开源公司，这是自由和开源软件具有商业意义最有力的证明。
 虽然在同一时期上市的其他开源公司 —— 尤其是 VA Linux，它的表现并不好，但红帽仍然是当今开源市场中的领先公司。
 
-### 2004：Ubuntu 的推出
+###### 2004：Ubuntu 的推出
 
 到 20 世纪 90 年代末，已经提供了许多 GNU/Linux 发行版。但因为缺少对用户友好的图形界面程序，除了极客之外，极少的用户能熟练使用。
 
@@ -197,13 +199,13 @@ GNU 项目刚启动时，自由软件这一现代概念也才刚刚诞生，即�
 
 Ubuntu 的目标在于为一般用户提供一个最新同时又相当稳定且拥有友好的界面，主要以自由软件构建而成的操作系统。Ubuntu 目前拥有蓬勃发展的用户社区，具有庞大的社区力量支持，用户可以方便地从社区获得帮助，是目前使用最广泛的 GNU/Linux 发行版。
 
-### 2007：Android 的推出
+###### 2007：Android 的推出
 
 将自由和开源软件提供给最多人使用的软件项目无疑是 Android 移动设备操作系统。Android 是使用最广泛的移动应用平台。
 
 虽然大多数 Android 用户可能不知道 Android 部分是基于 Linux 内核的，然而，很多自由和开源软件的倡导者抱怨 Android 的许可证没有提供软件自由，而且 Android 设备往往会被专有的组件和预装软件限制着，类似这种使用的不便，更多人倾向于使用 GNU/Linux。对于这种情况，Android 的开发者认为“Android 不是 Linux”，尽管有这个平台的根源。
 
-### 2008：GitHub 将开源“民主化”
+###### 2008：GitHub 将开源“民主化”
 
 最初，大多数自由和开源软件项目的贡献者通过电子邮件或私有的版本控制系统（如 Subversion 或 BitKeeper）进行协作。这种做法不仅笨重（因为没有集中的、精简的位置来查找开源项目和为其贡献），而且某些版本控制系统还是专有的。
 

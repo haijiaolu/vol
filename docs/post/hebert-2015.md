@@ -24,16 +24,15 @@ tags: "文章/科技"
 
 #### **English**
 
-## The Little Printf: why do we code?
+##### The Little Printf: why do we code?
 
-> This text is a transcript of a presentation I have given on October 9, 2015, 
+> This text is a transcript of a presentation I have given on October 9, 2015,
 > at the CityCode conference in Chicago. This content is also available in video
 > and as a PDF Document better suited for printing.
 
-<!-- title page -->
 ![book cover, depicting little printf](../images/printf/printf.png)
 
-### Chapter 1
+###### Chapter 1
 
 I've been lucky enough to have been born before computers and video
 games were ubiquitous. I had the luck to play outdoors with friends and
@@ -108,7 +107,7 @@ questioned if I were a real author, or a real writer, or a real
 illustrator. Hell, I got a job teaching Erlang without ever having used
 it in a production system.
 
-### Chapter 2
+###### Chapter 2
 
 So I lived my life flying around the world, telling people how to do
 things I had sometimes never done myself, while everyone suddenly seemed
@@ -178,7 +177,7 @@ surprised to hear back:
 
 And that is how I made the acquaintance of the little printf.
 
-### Chapter 3
+###### Chapter 3
 
 I soon learned of this little guy's portfolio. In his repositories were
 only small programs, simple web pages with forms, trivial command line
@@ -220,7 +219,7 @@ aside from his messy little server.
 The logs would keep accumulating, until the hard drive would fill no
 more.
 
-### Chapter 4
+###### Chapter 4
 
 ![a building](../images/printf/building.png)
 
@@ -300,7 +299,7 @@ not affliction.”
 And little printf left swiftly, leaving the expert to realize he had
 made himself untouchable in more ways than just his job security.
 
-### Chapter 5
+###### Chapter 5
 
 ![a man sitting at his desk in front of multiple filled bookcases](../images/printf/books.png)
 
@@ -392,7 +391,7 @@ personal brand you know? That's how you get jobs in the business.”
 “If this is how things are and that you must feel bad and make others
 feel bad to do well, maybe I don't want a job in the business”, said little printf, before walking out.
 
-### Chapter 6
+###### Chapter 6
 
 ![nondescript programmer sitting back to the viewer in the dark, with a sandwich on their desk](../images/printf/realprog.png)
 
@@ -468,7 +467,7 @@ you think that this is not important?”
 
 The person remained silent.
 
-### Chapter 7
+###### Chapter 7
 
 ![a man at his desk in front of two monitors](../images/printf/frameworks.png)
 
@@ -541,7 +540,7 @@ for you, the tools themselves have become a problem.”
 And while the man stood there in silence (on his new cool treadmill
 desk), little printf hopped out of the room.
 
-### Chapter 8
+###### Chapter 8
 
 ![a woman in purple hoodie, slouched over her keyboard with her desk full of empty mugs and bottles](../images/printf/ops.png)
 
@@ -599,7 +598,7 @@ by the rockstar developer, by the serial early adopter. Nevertheless
 she is the only one of them all who seems helpful. Perhaps that is
 because she is thinking of something else besides herself.”
 
-### Chapter 9
+###### Chapter 9
 
 ![software architect sitting at his desk with reams of paper on top of it](../images/printf/architect.png)
 
@@ -682,7 +681,7 @@ architecture, it seems.”
 Little printf left the room, and being done with his visit, exited the
 building.
 
-### Chapter 10
+###### Chapter 10
 
 ![man in a plaid shirt, winter hat, with a clipboard and a bell](../images/printf/charity.png)
 
@@ -749,7 +748,7 @@ problem.”
 “It is only when you solve problems with a human face that you can
 feel truly right”, repeated little printf to himself, so he would remember.
 
-### Chapter 11
+###### Chapter 11
 
 ![same image of printf as before, except he's smiling this time around](../images/printf/printf-end.png)
 
@@ -774,24 +773,24 @@ think I feel the same now.
 
 #### **中文翻译**
 
-## 小Printf: 我们为何编程？
+##### 小 Printf: 我们为何编程？
 
 > 来自`https://mogeko.me/posts/zh-cn/043/
 > 部分笔误的字词进行了修正。
 
-- [第一章](#第一章)
-- [第二章](#第二章)
-- [第三章](#第三章)
-- [第四章](#第四章)
-- [第五章](#第五章)
-- [第六章](#第六章)
-- [第七章](#第七章)
-- [第八章](#第八章)
-- [第九章](#第九章)
-- [第十章](#第十章)
-- [第十一章](#第十一章)
+    - [第一章](#第一章)
+    - [第二章](#第二章)
+    - [第三章](#第三章)
+    - [第四章](#第四章)
+    - [第五章](#第五章)
+    - [第六章](#第六章)
+    - [第七章](#第七章)
+    - [第八章](#第八章)
+    - [第九章](#第九章)
+    - [第十章](#第十章)
+    - [第十一章](#第十一章)
 
-### 第一章
+###### 第一章
 
 我很幸运能够出生在一个计算机和游戏还没有普及的年代。我很幸运能有机会与朋友和兄弟在户外玩耍，同时发明一些属于我们的游戏。
 
@@ -813,13 +812,13 @@ think I feel the same now.
 
 ![game](../images/printf/game.png)
 
-“这不是一个真正的视频游戏。”，我被告知。“那只是一个HTML表单。您使用数组作为文本和选项会更好。而且代码需要简化。”
+“这不是一个真正的视频游戏。”，我被告知。“那只是一个 HTML 表单。您使用数组作为文本和选项会更好。而且代码需要简化。”
 
 这些评价让我有点沮丧；但这游戏确实只是我写的 11 页关于“选择你的冒险”的文档而已。我意识到如果我想创造更多被人认可的东西，我必须要学习更多的知识。
 
 我必须要学习“真正的编程”。我从 GUI 工具包中的 JavaScript 开始，慢慢学习更多的语言，比如 PHP。但这一切不是很顺利。其他人建议我尝试一下 Python，然后我学会了。
 
-但真正的程序员知道一些更高级的特性，比如lambda表达式 和 面向对象编程都不是你现在想要的。后来别人建议我去读一下《计算机程序的构造和解释》(SICP)，因为它就像计算机科学的圣经。
+但真正的程序员知道一些更高级的特性，比如 lambda 表达式 和 面向对象编程都不是你现在想要的。后来别人建议我去读一下《计算机程序的构造和解释》(SICP)，因为它就像计算机科学的圣经。
 
 ![SICP](../images/printf/sicp.png)
 
@@ -827,9 +826,9 @@ think I feel the same now.
 
 经过一段时间，我学会了 Erlang，并以此开始了我的职业生涯。分奇怪的是：我这个没有用 Erlang 做过任何生产级别的开发的人，却得到了一份教 Erlang 的工作。
 
-> 备注：原文作者写过一本Erlang入门书: [Learn You Some Erlang for Great Good!](https://book.douban.com/subject/10822017/)
+> 备注：原文作者写过一本 Erlang 入门书: [Learn You Some Erlang for Great Good!](https://book.douban.com/subject/10822017/)
 
-### 第二章
+###### 第二章
 
 我忙于到世界各地去演讲，告诉人们如何做那些“我从没做过的事情”。而每个人似乎都相信我是一个真正的程序员，因为我讲的事情大多与程序无关。
 
@@ -875,7 +874,7 @@ think I feel the same now.
 
 这就是我与小 Printf 的相识过程。
 
-### 第三章
+###### 第三章
 
 我很快了解到了这个小家伙的编程水平。在他的代码仓库里只有一些小程序、网站的小 demo、琐碎的命令行工具。都是些不引人注意的小东西，很快出现就又消失了。
 
@@ -897,7 +896,7 @@ think I feel the same now.
 
 小 Printf 写的程序，最后因为不断增加的日志，撑爆了硬盘，彻底崩溃了。
 
-### 第四章
+###### 第四章
 
 ![Building](../images/printf/building.png)
 
@@ -943,7 +942,7 @@ think I feel the same now.
 
 小 Printf 飞快的跑出了专家的办公室。骄傲的专家依然心安理得的做起了自己领域的权威。
 
-### 第五章
+###### 第五章
 
 ![a man surrounded by thick hardcover books](../images/printf/books.png)
 
@@ -1001,10 +1000,11 @@ think I feel the same now.
 
 > 备注：
 > 达克效应，全称邓宁-克鲁格效应（Dunning-Kruger effect）: 完成特定领域的任务时个体对自己的能力作出不准确的评价的现象——能力低者会高估自己的能力，甚至显著超过平均水平，能力高者会低估自己的能力。
-> * 巫师（Wizard）指的是Structure and Interpretation of Computer Programs（SCIP）
-> * 恶龙（Dragons）指的是Compilers: Principles, Techniques, and Tools（编译原理），编译领域”龙虎鲸“之一。
+>
+> - 巫师（Wizard）指的是 Structure and Interpretation of Computer Programs（SCIP）
+> - 恶龙（Dragons）指的是 Compilers: Principles, Techniques, and Tools（编译原理），编译领域”龙虎鲸“之一。
 
-### 第六章
+###### 第六章
 
 ![realprog](../images/printf/realprog.png)
 
@@ -1054,7 +1054,7 @@ Printf 接着说：
 
 那人听完哑口无言。
 
-### 第七章
+###### 第七章
 
 ![frameworks](../images/printf/frameworks.png)
 
@@ -1072,7 +1072,7 @@ Printf 接着说：
 
 “哇！你接触的这样东西都好新鲜啊！有的我听都没听说过。”
 
-“是的，这个行业的技术更新的速度非常快！“他看了眼手机，然后说道”看，cardboard.io 框架又推出了3.5版本，它宣布不兼容3.4了。于此同时社区中已经有4个衍生版本了。我必须尝试所有的版本才能知道哪一个是最合适的！”
+“是的，这个行业的技术更新的速度非常快！“他看了眼手机，然后说道”看，cardboard.io 框架又推出了 3.5 版本，它宣布不兼容 3.4 了。于此同时社区中已经有 4 个衍生版本了。我必须尝试所有的版本才能知道哪一个是最合适的！”
 
 “但是你为什么要学会所有的版本呢？”
 
@@ -1098,7 +1098,7 @@ Printf 接着说：
 
 听完这些话，那个人呆住了（站在他新的很酷的跑步机办公桌上），小 Printf 跳跃着离开了房间。
 
-### 第八章
+###### 第八章
 
 ![DevOps](../images/printf/ops.png)
 
@@ -1132,7 +1132,7 @@ Printf 接着说：
 
 “这位女士”，当她走远后，小 Printf 自言自语到，“这位女士会被我原来遇见的那群人嘲笑：资深专家、愤世嫉俗的开发者、永远追求最新技术的人。但是她是唯一一个为别人着想的人。或许是因为，她认为一切事情还是亲力亲为的好。”
 
-### 第九章
+###### 第九章
 
 ![Architect](../images/printf/architect.png)
 
@@ -1180,7 +1180,7 @@ Printf 接着说：
 
 小 Printf 离开了房间，离开了大楼。结束了他的旅行。
 
-### 第十章
+###### 第十章
 
 ![Charity](../images/printf/charity.png)
 
@@ -1212,7 +1212,7 @@ Printf 接着说：
 
 “只有在解决人们真正面对的问题的时候，才能获得真正的满足！”，小 Printf 不断重复这句话，想要印在脑子里。
 
-### 第十一章
+###### 第十一章
 
 ![End](../images/printf/charity.png)
 
