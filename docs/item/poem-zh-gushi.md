@@ -2,7 +2,7 @@
 name: "古诗名句"
 title: "古诗名句"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

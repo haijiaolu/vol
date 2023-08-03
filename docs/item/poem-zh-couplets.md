@@ -2,7 +2,7 @@
 name: "对联集句"
 title: "对联集句"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

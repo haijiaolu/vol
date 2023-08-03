@@ -2,7 +2,7 @@
 name: "格言警句（外文）"
 title: "格言警句（外文）"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

@@ -2,7 +2,7 @@
 name: "新知-社会综合"
 title: "新知-社会综合"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

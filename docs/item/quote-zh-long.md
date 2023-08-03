@@ -2,7 +2,7 @@
 name: "篇章摘录（中文）"
 title: "篇章摘录（中文）"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

@@ -2,7 +2,7 @@
 name: "音译/意译词"
 title: "音译/意译词"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

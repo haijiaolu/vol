@@ -1,6 +1,6 @@
 ---
 name: "Anthes-Unix40年昨天今天和明天"
-title: "Unix turns 40: "The past, present and future of a revolutionary OS""
+title: "Unix turns 40: ‘The past, present and future of a revolutionary OS’"
 author: "Gary Anthes"
 titles:
   zh: "Unix 40年：昨天，今天和明天"

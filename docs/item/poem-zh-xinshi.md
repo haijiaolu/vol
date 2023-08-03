@@ -2,7 +2,7 @@
 name: "新诗摘录"
 title: "新诗摘录"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

@@ -2,7 +2,7 @@
 name: "字集"
 title: "字集"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false

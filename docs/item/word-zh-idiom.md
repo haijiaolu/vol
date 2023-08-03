@@ -2,7 +2,7 @@
 name: "词库"
 title: "词库"
 author: ""
-tags: "2023"
+date: "2023"
 created: ""
 updated: ""
 draft: false
