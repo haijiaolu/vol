@@ -96,7 +96,7 @@ Your love for me has been renewed
 
 ### 备注
 
-作者是 CMU 计算机教授 David Feinberg。【存疑】
+作者是CMU计算机教授David Feinberg。【存疑】
 
 相关：
 - 2008年，美国电影《猪头逛大街 2》（寻堡奇遇，Harold & Kumar Escape from Guantanamo Bay）引用
