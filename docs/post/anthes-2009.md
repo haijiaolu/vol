@@ -272,6 +272,8 @@ Ever wonder about how Unix got started, not to mention all the twists and turns 
   - The Open Group announces Version 3 of the Single UNIX Specification (formerly Spec 1170).
   - Sources: Peter H. Salus, A Quarter Century of Unix; Microsoft; AT&T; The Open Group, Wikipedia and other sources.
 
+---
+
 #### **中文翻译**
 
 ##### Unix 40 年：昨天，今天和明天
@@ -391,13 +393,10 @@ AT&T 的 Korn 是其中一个对 Unix 仍然看到的人。Korn 说，Unix 的�
 
 ACM 在 1983 年因为 Unix 授予 Thompson 和 Ritchie 图灵奖时说过：“Unix 系统最天才的部分是它的 framework，它激发了程序员们沿着这一方向工作”。
 
----
-
 **译者陈皓注：**
-[^1]在我们所认识的历史中，这两位程序员当时是在 Multics 下开发一个叫”太空旅行”的游戏，后来 Multics 项目解体了，这两位哥们觉得自己的游戏白弄了，所以就为了这个游戏开发了一个新的操作系统 Unix，Unix 的取名和 Multics 是相反的，Multics 有”复杂的”的意思，而 Unix 则是”小巧的”意思。后来他们觉得这个操作系统非常不错，所以在后来发表了一篇论文向全世界宣布了这一操作系统，从此开启了计算机世界崭新的文化，详情可参看我的《Unix 传奇》上篇，下篇。
 
-[^2]Unix 下的经常出现缩写，如 usr 是 user, ed 是 edit，gp 是 group，这也是 Unix 的文化。Unix 的更名可能也是因为这个吧。
-
-[^3] 当时这个机器像垃圾一样被扔在实验室角落里。
+[^1]: 在我们所认识的历史中，这两位程序员当时是在 Multics 下开发一个叫”太空旅行”的游戏，后来 Multics 项目解体了，这两位哥们觉得自己的游戏白弄了，所以就为了这个游戏开发了一个新的操作系统 Unix，Unix 的取名和 Multics 是相反的，Multics 有”复杂的”的意思，而 Unix 则是”小巧的”意思。后来他们觉得这个操作系统非常不错，所以在后来发表了一篇论文向全世界宣布了这一操作系统，从此开启了计算机世界崭新的文化，详情可参看我的《Unix 传奇》上篇，下篇。
+[^2]: Unix 下的经常出现缩写，如 usr 是 user, ed 是 edit，gp 是 group，这也是 Unix 的文化。Unix 的更名可能也是因为这个吧。
+[^3]: 当时这个机器像垃圾一样被扔在实验室角落里。
 
 <!-- tabs:end -->
