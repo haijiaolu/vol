@@ -123,103 +123,103 @@ In an article which appeared in The New York Times,November
 > The present version is comprehensively revised from the German manuscript.
 
 Let me begin with a confession of political faith:that the state is made for
-man,not man for the state.This is true of science as well.These are age-old
-formulations,pronounced by those for whom man himself is the highest human
-value.I should hesitate to restate them if they were not always in danger of
-being forgotten,particularly in these days of standardization and stereotype.I
+man, not man for the state. This is true of science as well. These are age-old
+formulations, pronounced by those for whom man himself is the highest human
+value. I should hesitate to restate them if they were not always in danger of
+being forgotten, particularly in these days of standardization and stereotype. I
 believe the most important mission of the state is to protect the individual
 and make it possible for him to develop into a creative personality.
 
-The state should be our servant;we should not be slaves of the state.The state
-violates this principle when it compels us to do military service,particularly
+The state should be our servant; we should not be slaves of the state. The state
+violates this principle when it compels us to do military service, particularly
 since the object and effect of such servitude is to kill people of other lands
-or infringe upon their freedom.We should,indeed,make only such sacrifices for
-the state as wil serve the free development of men.To Americans this mav all
-seem self-evident,but not to Europeans.Hence we may hope that the fight
+or infringe upon their freedom. We should, indeed, make only such sacrifices for
+the state as wil serve the free development of men. To Americans this mav all
+seem self-evident, but not to Europeans. Hence we may hope that the fight
 against war will find powerful support among Americans.
 
-And now,about the Disarmament Conference.Ought one to laugh,weep or hope when
-one thinks about it?Imagine a town inhabited by hot-tempered,dishonest and
-aggressive citizens.Life is in constant peril and normal activity impossible.
-The city fathers seek to remedy this dreadful state of affairs,but the
-citizens insist on their right to carry a knife.After years of futility the
+And now, about the Disarmament Conference. Ought one to laugh, weep or hope when
+one thinks about it?Imagine a town inhabited by hot-tempered, dishonest and
+aggressive citizens. Life is in constant peril and normal activity impossible.
+The city fathers seek to remedy this dreadful state of affairs, but the
+citizens insist on their right to carry a knife. After years of futility the
 city council at last brings to the floor an ordinance that would regulate the
 length and sharpness of the knives which citizens are allowed to carry.
 
-Of course,things will go on in the same old way,as long as the possession and
+Of course, things will go on in the same old way, as long as the possession and
 use of knives are not outlawed and the laws continue to be enforced by the
-courts and the police.Regulating the length and sharpness of knives will only
+courts and the police. Regulating the length and sharpness of knives will only
 help the strongest and most pugnacious and leave the weaker at their mercy.
 
-I am sure all of you understand the moral of this parable.It is true that we
-have a League of Nations and an International Court of Arbitration.But the
+I am sure all of you understand the moral of this parable. It is true that we
+have a League of Nations and an International Court of Arbitration. But the
 League is not much more than a meeting place and the International Court has
-no means of enforcing its judgments.These institutions offer no protection to
-any country in the event of aggression.If one bears this in mind,the attitude
+no means of enforcing its judgments. These institutions offer no protection to
+any country in the event of aggression. If one bears this in mind, the attitude
 of France in refusing to disarm without adequate security must be judged less
 harshly than is usually the case.
 
 Unless all countries can agree to limit their national sovereignty by assuming
 responsibility for joint action against any government that openly Or covertly
-evades a judgment of the International Court of Arbitration,we shall never
-emerge from our present state of universal anarchy and terror.By no sleight of
+evades a judgment of the International Court of Arbitration, we shall never
+emerge from our present state of universal anarchy and terror. By no sleight of
 hand can unlimited sovereignty of individual states be reconciled with
-security against aggression.How many more disasters will be necessary to
+security against aggression. How many more disasters will be necessary to
 induce the nations to commit themselves to help enforce the decisions of the
 recognized international court?Developments in the past hardly justify mach
-hope for improvement in the near future.All who cherish civilization and
+hope for improvement in the near future. All who cherish civilization and
 justice must exert every effort to convince their fellow citizens of the need
 for subjecting all countries to an international obligation of this kind.
 
-It will be argued,not without some justification,that this approach
+It will be argued, not without some justification, that this approach
 overestimates the efficacy of organizational machinery and neglects the
-psychological,or rather the moral,factor.Moral disarmament,people insist,must
-precede material disarmament.They say further,and rightly so,that the greatest
+psychological, or rather the moral, factor. Moral disarmament, people insist, must
+precede material disarmament. They say further, and rightly so, that the greatest
 obstacle to international order is the monstrously exaggerated spirit of
-nationalism that goes by the appealing but misused name of patriotism.During
-the last century and a half,this false idol has everywhere attained a sinister
+nationalism that goes by the appealing but misused name of patriotism. During
+the last century and a half, this false idol has everywhere attained a sinister
 and exceedingly pernicious influence.
 
-To gauge the real significance of this argument,one must realize that man's
-institutions and his state of mind affect one another.Institutions depend on
+To gauge the real significance of this argument, one must realize that man's
+institutions and his state of mind affect one another. Institutions depend on
 traditional emotional attitudes to which they owe their origin and survival
-and,in turn,they exercise a powerful influence on those emotional attitudes
+and, in turn, they exercise a powerful influence on those emotional attitudes
 within nations.
 
-Nationalism,presently grown to such excessive heights,is in my opinion
+Nationalism, presently grown to such excessive heights, is in my opinion
 intimately associated with the institution of compulsory military service or,
-to use a euphemism,the militia.Any state that demands military service of its
-citizens is compelled to cultivate in them a spirit of nationalism,in order to
-lay the psychological foundation for their military usefulness.The state must
-idolize this instrument of brute force to the students in its schools,exactly
+to use a euphemism, the militia. Any state that demands military service of its
+citizens is compelled to cultivate in them a spirit of nationalism, in order to
+lay the psychological foundation for their military usefulness. The state must
+idolize this instrument of brute force to the students in its schools, exactly
 as it does with religion.
 
-The introduction of compulsory military service is,to my mind,the prime cause
+The introduction of compulsory military service is, to my mind, the prime cause
 for the moral decay of the white race and seriously threatens not merely the
-survival of our civilization but our very existence.This curse originated,
-together with great social blessings,with the French Revolution and soon swept
+survival of our civilization but our very existence. This curse originated,
+together with great social blessings, with the French Revolution and soon swept
 over all other nations.
 
 Whoever seeks to cultivate an international mentality and wants to combat
 chauvinism must take his stand in opposition to compulsory military service.
 The severe persecution to which conscientious objectors to military service
 are subjected is as shameful to society today as was the persecution to which
-religious martyrs were exposed centuries ago.And how dare the Kellogg Pact
+religious martyrs were exposed centuries ago. And how dare the Kellogg Pact
 out-law war while leaving the individual in each country to the tender mercies
 of the war machine!
 
-If,at the Disarmament Conference,we do not want to limit ourselves to
-technical problems of organization,but also wish to consider,for educational
-reasons,the psychological aspects of disarmament more directly,then we must
+If, at the Disarmament Conference, we do not want to limit ourselves to
+technical problems of organization, but also wish to consider, for educational
+reasons, the psychological aspects of disarmament more directly, then we must
 try to create international legal means by which men may refuse to serve in
-the army.Such measures would undoubtedly produce a powerful moral effect.
+the army. Such measures would undoubtedly produce a powerful moral effect.
 
 Let me summarize my views:Mere agreements to limit armaments confer no
-protection.Compulsory arbitration must be sup-ported by an executive force
+protection. Compulsory arbitration must be sup-ported by an executive force
 which is guaranteed by ali the participating countries and which is ready to
-proceed against any aggressor with military and economic sanctions.Compulsory
-military service,the chief source of unhealthy nationalism,must be combated;
-most important of all,protection on an international basis m ust be provided
+proceed against any aggressor with military and economic sanctions. Compulsory
+military service, the chief source of unhealthy nationalism, must be combated;
+most important of all, protection on an international basis m ust be provided
 for conscientious objectors.
 
 #### **中文翻译**
