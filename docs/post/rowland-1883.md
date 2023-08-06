@@ -316,16 +316,21 @@ school. The statistics are more or less defective, and it would much weaken
 the force of my remarks if I went too much into detail. I append the following 
 tables, however, of 330 so-called colleges and universities: --
 
-``` 218 had from   0  to 100 students.
+``` 
+218 had from   0  to 100 students.
  88   “    “ 100  “  200    “
  12   “    “ 200  “  300    “
   6   “    “ 300  “  500    “
-  6 over     500 ```
+  6 over     500 
+```
 
 Of 322 so-called colleges and universities: --
 
-``` 206 had  0 to 10 in the faculty. 99  “   10 “  20     “     “ 17  “   20 
-or over   “     “ ```
+```
+206 had  0 to 10 in the faculty.
+ 99  “   10 “  20     “     “ 
+ 17  “   20 or over   “     “ 
+```
 
 If the statistics were forthcoming, -- and possibly they may exist, -- we 
 might also get an idea of the standing of these institutions and their 
@@ -340,9 +345,11 @@ importance, either to the present or future standing of the institution. As
 good work can be done in a hovel as in a palace. I have taken the productive 
 funds of the institution as the basis of estimate. I find: --
 
-``` 234 have below    $500,000.
+```
+234 have below    $500,000.
   8   “  between  $500,000 and $1,000,000.
-  8   “  over     $1,000,000. ```
+  8   “  over     $1,000,000. 
+```
 
 There is no fact more firmly established, all over the world, than that the 
 higher education can never be made to pay for itself. Usually the cost. to a 

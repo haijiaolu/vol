@@ -20,10 +20,11 @@ tags: "文章/财经"
 
 > [PDF原文](https://www.lishiyushehui.cn/statics//article/top_5237a2e2a6029.pdf)
 
-<object data="../resources/huangzongzhi-2013.pdf"type="application/pdf"
-width="100%"height="400px">
-<p>Unable to display PDF file.
-<a href="../resources/huangzongzhi-2013.pdf">Download</a>instead.</p>
+<object data="../resources/huangzongzhi-2013.pdf" type="application/pdf" width="100%" height="400px">
+  <p>Unable to display PDF file.
+    <a href="../resources/huangzongzhi-2013.pdf">Download</a>
+    instead.
+  </p>
 </object>
 
 [PDF](../resources/huangzongzhi-2013.pdf)

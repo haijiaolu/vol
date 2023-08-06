@@ -24,10 +24,11 @@ tags: "文章/资料"
 > 目录中准入类职业资格关系公共利益或涉及国家安全、公共安全、人身健康、生命财产安全，均有法律法规或国务院决定作为依据；
 > 水平评价类职业资格具有较强的专业性和社会通用性，技术技能要求较高，行业管理和人才队伍建设确实需要。
 
-<object data="../resources/P020211202354560821450.pdf"type="application/pdf" width="100%"height="400px">
+<object data="../resources/P020211202354560821450.pdf" type="application/pdf" width="100%" height="400px">
   <p>Unable to display PDF file.
     <a href="../resources/P020211202354560821450.pdf">Download</a>
-  instead.</p>
+    instead.
+  </p>
 </object>
 
 [PDF](../resources/P020211202354560821450.pdf)
