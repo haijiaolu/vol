@@ -60,5 +60,5 @@ I shall not live in vain.
 
 ### 备注
 
-注：此译诗底本选自 The Complete Poems of Emily Dickinson （Little Brown & Co，1976）。
-页码为 433 诗序为 919
+注：此译诗底本选自The Complete Poems of Emily Dickinson（Little Brown &Co，1976）。
+页码为433，诗序为919
