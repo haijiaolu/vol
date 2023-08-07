@@ -8,7 +8,8 @@ updated: ""
 draft: false
 read: "1"
 sources:
-  - "1908年8月《河南》杂志"
+  - "最初登载1908年8月《河南》杂志，后收录于于1926年《坟》"
+  - "http://www.luxunmuseum.com.cn/cx/content.php?id=1408"
   - "https://www.marxists.org/chinese/reference-books/luxun/01/005.htm"
   - "https://a-lib.net/library/lu-xun-wen-hua-pian-zhi-lun"
 tags: "文章/散文"
