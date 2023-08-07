@@ -20,6 +20,18 @@ tags: "文章/科技"
 
 # Fred Hebert
 
+## The Little Printf
+
+<object data="../resources/hebert-printf.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Unable to display PDF file. 
+    <a href="../resources/hebert-printf.pdf">Download</a> 
+    instead.
+  </p>
+</object>
+
+[PDF](../resources/hebert-printf.pdf)
+
+
 <!-- tabs:start -->
 
 #### **English**
