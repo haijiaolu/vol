@@ -18,7 +18,7 @@ Albius Tibullus, (公元前 55 — 前 19), 古罗马诗人。
 
 ### 诗句 【存疑】
 
-::: "info"
+::: info
 
 > [!quote]
 >

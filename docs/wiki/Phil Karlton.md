@@ -18,7 +18,7 @@ Phil Karlton(1949-1997)，美国软件工程师。
 
 ### 名言
 
-::: "info"
+::: info
 
 > [!quote]
 >

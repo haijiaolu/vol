@@ -19,7 +19,7 @@ Khat Thi（1976-2021?）缅甸诗人。
 
 ### 格言
 
-::: "info"
+::: info
 
 > [!quote]
 > "I don't want to be a hero, I don't want to be a martyr, 

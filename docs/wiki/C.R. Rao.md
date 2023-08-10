@@ -18,7 +18,7 @@ C.R Rao (1920-)，印度统计学家。
 
 ### 名言
 
-::: "info"
+::: info
 
 > [!quote]
 > All knowledge is, in final analysis, history.

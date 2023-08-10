@@ -18,7 +18,7 @@ Edward Livingston Trudeau(1848-1915)，美国医生。
 
 ### 名言【存疑】
 
-::: "info"
+::: info
 
 > [!quote]
 >

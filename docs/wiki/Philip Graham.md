@@ -18,7 +18,7 @@ Philip L. Graham (1915–1963)，美国新闻记者。
 
 ### 名句
 
-::: "info"
+::: info
 
 > [!quote]
 >
