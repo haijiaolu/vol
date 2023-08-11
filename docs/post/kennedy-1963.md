@@ -1,6 +1,6 @@
 ---
 name: "约翰·肯尼迪-我是柏林人"
-title: "Remarks in the Rudolph Wilde Platz, Berlin "
+title: "Remarks in the Rudolph Wilde Platz, Berlin"
 author: "John F. Kennedy"
 titles:
   zh: "我是柏林人（柏林墙下演讲）"
@@ -50,8 +50,8 @@ and to come here in the company of my fellow American, General Clay, who has
 been in this city during its great moments of crisis and will come again if
 ever needed.
 
-Two thousand years ago the proudest boast was "civis Romanus sum."Today, in
-the world of freedom, the proudest boast is "Ich bin ein Berliner."
+Two thousand years ago the proudest boast was “civis Romanus sum.” Today, in
+the world of freedom, the proudest boast is “Ich bin ein Berliner.”
 
 I appreciate my interpreter translating my German!
 
@@ -98,7 +98,9 @@ people of West Berlin can take sober satisfaction in the fact that they were
 in the front lines for almost two decades.
 
 All free men, wherever they may live, are citizens of Berlin, and, therefore,
-as a free man, I take pride in the words "Ich bin ein Berliner."
+as a free man, I take pride in the words “Ich bin ein Berliner.”
+
+---
 
 #### **中文翻译**
 

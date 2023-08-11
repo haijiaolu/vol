@@ -1393,7 +1393,7 @@ way to make that possible.
 
 I think there is a second reason you are worried—related to but not entirely
 distinct from the first. You want to be happy. You have flocked to courses
-like "Positive Psychology"—Psych 1504—and "The Science of Happiness"in search
+like "Positive Psychology" —Psych 1504—and "The Science of Happiness"in search
 of tips. But how do we find happiness? I can offer one encouraging answer: get
 older. Turns out that survey data show older people—that is, my age—report
 themselves happier than do younger ones. But perhaps you don't want to wait.
@@ -1422,7 +1422,7 @@ be and then circle back to where you have to be.
 You may love investment banking or finance or consulting. It might be just
 right for you. Or you might be like the senior I met at lunch at Kirkland who
 had just returned from an interview on the West Coast with a prestigious
-consulting firm. "Why am I doing this?"she asked. "I hate flying, I hate
+consulting firm. "Why am I doing this?" she asked. "I hate flying, I hate
 hotels, I won't like this job."Find work you love. It is hard to be happy if
 you spend more than half your waking hours doing something you don't.
 

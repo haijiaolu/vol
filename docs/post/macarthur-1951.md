@@ -119,7 +119,7 @@ every Asiatic port from Vladivostok to Singapore -- with sea and air power
 every port, as I said, from Vladivostok to Singapore -- and prevent any
 hostile movement into the Pacific.
 
-_Any predatory attack from Asia must be an amphibious effort._No amphibious
+Any predatory attack from Asia must be an amphibious effort._No amphibious
 force can be successful without control of the sea lanes and the air over
 those lanes in its avenue of advance. With naval and air supremacy and modest
 ground elements to defend bases, any major attack from continental Asia toward
@@ -305,7 +305,7 @@ led to more than a sham peace. Like blackmail, it lays the basis for new and
 successively greater demands until, as in blackmail, violence becomes the only
 other alternative.
 
-"Why,"my soldiers asked of me, "surrender military advantages to an enemy in
+"Why," my soldiers asked of me, "surrender military advantages to an enemy in
 the field?"I could not answer.
 
 Some may say: to avoid spread of the conflict into an all-out war with China;
@@ -351,6 +351,8 @@ just fade away, an old soldier who tried to do his duty as God gave him the
 light to see that duty.
 
 Good Bye.
+
+---
 
 #### **中文翻译（部分）**
 

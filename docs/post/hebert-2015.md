@@ -90,11 +90,11 @@ the mechanism of my first game, and it blew my mind.
 and options it would have been better. The code needs cleaning up.”
 
 I was a bit disheartened; the game was really about the 11 pages of text
-I had written for the "choose your adventure" aspect of it. But I
+I had written for the “choose your adventure” aspect of it. But I
 realized that if I wanted to make stuff more people thought was good,
 I'd have to learn a lot.
 
-I'd have to learn "real programming". Move from JScript in a GUI toolkit
+I'd have to learn “real programming”. Move from JScript in a GUI toolkit
 to something better, like PHP. So I learned that, along with Javascript.
 Then eventually I was told to learn how to do real programming again;
 PHP is terrible. I was told to maybe try Python, which I then learned.
@@ -137,7 +137,7 @@ furiously typing at a terminal, when an odd, gentle voice asked me:
 
 I looked up from my screen, surprised by the request. I looked around
 and saw this kid who aspired to be a developer and wanted me to call him
-"printf", which I felt was very stupid and gimmicky. He looked a bit
+“printf”, which I felt was very stupid and gimmicky. He looked a bit
 like this:
 
 ![little printf, with a red and yellow tuque, similarly colored scarf, green coat, red mittens, and beige-yellow pants, standing in snow with a broken laptop at his sides](../images/printf/printf-nocover.png)
@@ -748,7 +748,7 @@ face that you can feel truly right; What is essential is invisible to
 the computer.”
 
 “It is the time you have spent on your system that makes it so
-important", the man added, "and when you lost sight of why it made
+important”, the man added, “and when you lost sight of why it made
 sense to spend time on it, when it became a game of pride, it caused
 more grief than relief.”
 

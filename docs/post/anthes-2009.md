@@ -285,7 +285,7 @@ they conform to the SUS and support SUS APIs. The basic idea is that it is Unix
 if it acts like Unix, regardless of the underlying code.
 
 A still broader definition of Unix would include Unix-like operating systems
---sometimes called Unix "clones"or "look-alikes"--that copied many ideas from
+--sometimes called Unix "clones" or "look-alikes"--that copied many ideas from
 Unix but didn't directly incorporate code from Unix. The leading one of these
 is Linux.
 

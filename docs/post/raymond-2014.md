@@ -518,7 +518,7 @@ annoying, as it's difficult to read. Alan Cox can get away with it, but you
 can't.)
 
 More generally, if you write like a semi-literate boob you will very likely be
-ignored. So don't use instant-messaging shortcuts. Spelling "you"as "u"makes
+ignored. So don't use instant-messaging shortcuts. Spelling "you" as "u" makes
 you look like a semi-literate boob to save two entire keystrokes. Worse:
 writing like a l33t script kiddie hax0r is the absolute kiss of death and
 guarantees you will receive nothing but stony silence (or, at best, a heaping
