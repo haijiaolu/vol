@@ -20,7 +20,10 @@ export default defineConfig({
     search: {
       provider: "local",
     },
-    nav: [{ text: "🎨Home", link: "/" }],
+    nav: [
+      { text: "🎨Home", link: "/" },
+      { text: "🔖Catalog", link: "/item/catalog.md" },
+    ],
     sidebar: [
       {
         text: "🛠️一字一词",
