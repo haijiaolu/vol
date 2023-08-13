@@ -10,6 +10,7 @@ export default defineConfig({
   titleTemplate: ":title - 观澜无言",
   description: "wiki, notes",
   lastUpdated: true,
+  srcExclude: ['temp/*.md', '**/TODO.md'],
   head: [
     ["link", { rel: "icon", type: "image/x-icon", href: "/vol/favicon.ico" }],
   ],
