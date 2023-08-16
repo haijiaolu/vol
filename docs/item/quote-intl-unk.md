@@ -22,7 +22,7 @@ tags: "汇总/摘录"
 > No snowflake in an avalanche ever feels responsible.
 >
 > > 雪崩时,没有一片雪花觉得自己有责任。  
-> > (常见版本) 雪崩时没有一片雪花是无辜。  
+> > (常见版本) 雪崩时没有一片雪花是无辜。
 
 :::
 
@@ -117,7 +117,7 @@ tags: "汇总/摘录"
 > "Il n'y a pas de verités moyennes.​"
 >
 > > There are no half-truths. - Georges Bernanos  
-> > 真相只有一个。——乔治·贝尔纳诺斯  
+> > 真相只有一个。——乔治·贝尔纳诺斯
 
 :::
 
@@ -129,8 +129,9 @@ tags: "汇总/摘录"
 
 > [!warning]
 >
-> 世界上好看的脸蛋太多，而有趣的灵魂则太少。——奥斯卡·王尔德  
-> > 可能英文：There are too many good faces in the world, too few interesting souls.  
+> 世界上好看的脸蛋太多，而有趣的灵魂则太少。——奥斯卡·王尔德
+>
+> > 可能英文：There are too many good faces in the world, too few interesting souls.
 
 :::
 
@@ -144,7 +145,7 @@ tags: "汇总/摘录"
 >
 > > 1：花开仅刹那，美胜千年松。  
 > > 2：辰光只开一刻钟，但比千年松，并无甚不同。——松永贞德《颂牵牛花》【猫腻《庆余年》中引用】  
-> > 3：花开清晨片刻，苍松翠绿千年，寿命却相同。  
+> > 3：花开清晨片刻，苍松翠绿千年，寿命却相同。
 
 :::
 
@@ -161,7 +162,7 @@ tags: "汇总/摘录"
 
 【中文（机器翻译）】
 ◯《半日静物语》卷.
-　“8日，田安太子去世，7日停止演奏乐器，3日竣工。
+　“8 日，田安太子去世，7 日停止演奏乐器，3 日竣工。
 　　　　再见
 　　　朝花同寿，松树青
 　　在这首歌中，铃木先生说松永先生的歌曲是松永先生的歌曲。
@@ -169,8 +170,9 @@ tags: "汇总/摘录"
 　　<这位多安子是多安家的第二任当家>
 
 链接：
-* <https://www.zhihu.com/question/478681025>
-* <https://www.ne.jp/asahi/kato/yoshio/jisei/jisei-sonota.html>
+
+- <https://www.zhihu.com/question/478681025>
+- <https://www.ne.jp/asahi/kato/yoshio/jisei/jisei-sonota.html>
 ```
 
 ---
@@ -195,7 +197,7 @@ tags: "汇总/摘录"
 > [!warning]
 > 法语：Tout ce qu’un homme est capable d’imaginer, d’autres hommes seront capables de le réaliser.  
 > 英语：Anything one man can imagine, other men can make real.  
-> 汉语：凡人能想像到的事物，必定有人能将它实现。——儒勒·凡尔纳。  
+> 汉语：凡人能想像到的事物，必定有人能将它实现。——儒勒·凡尔纳。
 
 :::
 
@@ -214,8 +216,9 @@ tags: "汇总/摘录"
 
 > [!warning]
 >
-> Everything we hear is a opinion, not a fact. Everything we see is a perspective, not the truth.  
-> > 我们所听到的不过只是一个观点，而非事实。我们所看到的不过只是一个视角，而非真相。——马可·奥勒留《沉思录》  
+> Everything we hear is a opinion, not a fact. Everything we see is a perspective, not the truth.
+>
+> > 我们所听到的不过只是一个观点，而非事实。我们所看到的不过只是一个视角，而非真相。——马可·奥勒留《沉思录》
 
 :::
 
@@ -234,7 +237,7 @@ tags: "汇总/摘录"
 > Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1.
 >
 > > 第一条原则：永远不要亏钱。  
-> > 第二条原则：永远不要忘记第一条原则。  
+> > 第二条原则：永远不要忘记第一条原则。
 
 :::
 见[巴菲特](../wiki/巴菲特.md)
@@ -245,8 +248,9 @@ tags: "汇总/摘录"
 
 > [!warning]
 >
-> History Does Not Repeat Itself, But It Rhymes. -- Mark Twain  
-> > 历史不会重演，但会押韵。——马克·吐温  
+> History Does Not Repeat Itself, But It Rhymes. -- Mark Twain
+>
+> > 历史不会重演，但会押韵。——马克·吐温
 
 :::
 
@@ -259,3 +263,51 @@ It has been said that history repeats itself. This is perhaps not quite correct;
 ```
 
 ---
+
+::: warning
+
+> [!warning]
+>
+> They are lying. We know they are lying. They know we know they are lying. Yet, they are still lying. -- Aleksandr Solzhenitsyn
+>
+> > 我们知道他们在说谎，他们也知道自己在说谎，（他们也知道我们知道他们在说谎，我们也知道他们知道我们知道他们说谎，）但是他们依然在说谎。——亚历山大·索尔仁尼琴
+
+:::
+
+```
+索尔仁尼琴作品中没有这样的话。
+<https://en.wikiquote.org/wiki/Aleksandr_Solzhenitsyn#Misattributed>
+```
+
+---
+
+::: warning
+
+> [!warning]
+>
+> 如果尖锐的批评完全消失，温和的批评将会变得刺耳。
+> 如果温和的批评也不被允许，沉默将被认为居心叵测。
+> 如果沉默也不再允许，赞扬不够卖力将是一种罪行。
+> 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言。 ——柏拉图
+
+:::
+
+```
+并非出自柏拉图，来自中国网民。
+相关的考证：
+<https://www.zhihu.com/question/370230241>
+<https://blog.sciencenet.cn/blog-350729-1218684.html>
+> 最早是张雪忠说的（原文网址：http://post.blogchina.com/p/2630838），
+> 后来何海波引用并改动成今天的样子（原文网址：https://www.sohu.com/a/332103380_120121039）。
+> 但是，最后一部分——如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言，是其他人加上去的。
+<https://user.guancha.cn/main/content?id=719143>
+<https://wangfu.blog.caixin.com/archives/133930>
+
+说这些意见人士没有基本见识，是因为他们连一个最起码的常识都不懂：
+没有约束的专横权力，对言论的压制和迫害是没有止境的。一开始，最令当权者恼怒的，
+可能是那些激烈批评和反对他们的言论，这也是他们最想消灭的。
+但在消灭了“激进”言论之后，那些“温和”的批评言论就成了最刺耳的，因而也是当权者最想消灭的。
+在明确的批评言论被消灭后，那些委婉含蓄的调侃，又会让当前者觉得无法容忍。
+在这些声音都被消灭之后，人们哪怕是完全沉默，都会让当权者觉得不舒服，都会被他们视为无声的反抗。
+他们接着就会要求人民去赞美他们，最后连那些赞美得不太卖力的人，都有可能要受到权力的惩罚……
+```
