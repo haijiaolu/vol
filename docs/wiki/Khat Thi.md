@@ -22,6 +22,7 @@ Khat Thi（1976-2021?）缅甸诗人。
 ::: info
 
 > [!quote]
+> 
 > "I don't want to be a hero, I don't want to be a martyr, 
 > I don't want to be a weakling, I don't want to be a fool". 
 > "I don't want to support injustice. If I have only a minute to live, 
