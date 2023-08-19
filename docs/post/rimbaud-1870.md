@@ -20,8 +20,6 @@ tags: "文章/诗歌"
 
 # Arthur Rimbaud / 阿瑟·兰波
 
-阿瑟·兰波(Arthur Rimbaud 1854——1891)，法国象征派诗人
-
 ## Sensation / 感觉
 
 ### 正文
