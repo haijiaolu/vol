@@ -13,7 +13,7 @@ tags: "汇总"
 
 [[toc]]
 
-![](../public/hannah.jpg)
+![banner](../public/hannah.jpg)
 
 ---
 

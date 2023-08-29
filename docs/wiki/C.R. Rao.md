@@ -21,7 +21,7 @@ C.R Rao (1920-)，印度统计学家。
 ::: info
 
 > [!quote]
-> 
+>
 > All knowledge is, in final analysis, history.
 > All sciences are, in the abstract, mathematics.
 > All judgements are, in their rationale, statistics.

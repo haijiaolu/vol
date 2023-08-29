@@ -43,7 +43,7 @@ Phil Karlton(1949-1997)，美国软件工程师。
 
 #### Tim Bray（加拿大软件工程师， XML 之父）
 
-- 2005, http://www.tbray.org/ongoing/When/200x/2005/12/23/UPI
+- 2005, <http://www.tbray.org/ongoing/When/200x/2005/12/23/UPI>
 
 ```
 I should have known, as I’ve often quoted Phil Karlton’s wise saying
@@ -51,7 +51,7 @@ I should have known, as I’ve often quoted Phil Karlton’s wise saying
 and naming things”.
 ```
 
-- 2014, https://twitter.com/timbray/status/817025379109990402
+- 2014, <https://twitter.com/timbray/status/817025379109990402>
 
 ```
 > Jeff Atwood @codinghorror · Aug 31, 2014

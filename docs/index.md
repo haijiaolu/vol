@@ -3,7 +3,7 @@
 layout: doc
 ---
 
-# 观澜无言 
+# 观澜无言
 
 ::: info
 
@@ -18,7 +18,7 @@ layout: doc
 
 ## 序
 
-![](public/hannah.jpg)
+![banner](public/hannah.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ layout: doc
 
 ---
 
-![](public/logo.png)
+![logo](public/logo.png)
 
 <div style="margin-top:5rem">
   <img alt="知识共享许可协议" style="display:block;margin:auto" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
