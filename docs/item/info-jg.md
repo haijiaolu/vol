@@ -97,10 +97,10 @@ tags: "汇总/新知"
   - 蒙纳士大学(莫纳什大学)：Monash University，Monash，维多利亚州，墨尔本，1958 年
 
 - **澳大利亚科技大学联盟**（Australian Technology Network）
-  - 悉尼科技大学 UTS, University of Technology Sydney，新南威尔士州 悉尼， 1988 年
-  - 皇家墨尔本理工大学, RMIT University, Royal Melbourne Institute of Technology， 1887 年，维多利亚州，墨尔本市
-  - 科廷科技大学，Curtin University of Technology，西澳大利亚州 珀斯，1967 年
-  - 南澳大利亚大学（西澳大学）University of South Australia，UniSA，位于南澳大利亚州阿德莱德，1991 年合并成立
+  - 悉尼科技大学 UTS, University of Technology Sydney，新南威尔士州悉尼， 1988 年。
+  - 皇家墨尔本理工大学, RMIT University, Royal Melbourne Institute of Technology，维多利亚州墨尔本市，1887年。
+  - 科廷科技大学，Curtin University of Technology，西澳大利亚州珀斯，1967 年。
+  - 南澳大利亚大学（西澳大学）University of South Australia，UniSA，位于南澳大利亚州阿德莱德，1991 年合并成立。
 
 - **英国G5超级精英大学**（The G5 super elite）
   - 牛津大学、剑桥大学、帝国理工学院、伦敦大学学院、伦敦政治经济学院
@@ -172,8 +172,7 @@ tags: "汇总/新知"
 	- 意大利马兰戈尼学院（Istituto Marangoni， 1935；曾译“马兰欧尼”）
 	- 英国中央圣马丁设计学院（Central Saint Martins， 1854）
 	- 巴黎ESMOD高等时装设计学院（1841）
--
--
+
 - ## 电影学院
 	- ```
 	  2018年8月16日，美国电影业界权威杂志《好莱坞报道》
@@ -183,19 +182,21 @@ tags: "汇总/新知"
 	- 香港演艺学院电影电视学院，中国香港(Academy for Performing Arts School of Film and Television)
 	- 澳大利亚电影电视广播学校，澳大利亚悉尼(Australian Film, Television and Radio School)
 	- 釜山亚洲电影学校，韩国釜山(Busan Asian Film School)
-	- 北京电影学院 中国北京(Beijing Film Academy)
-	- 墨西哥电影培训中心 墨西哥墨西哥城(Centro de Capacitacion Cinematografica)
-	- 意大利实验电影中心 意大利罗马(Centro Sperimentale di Cinematografia)
-	- 奥地利维也纳电影学院 奥地利维也纳(The Film Academy)
-	- 格拉西莫夫电影学院 俄罗斯莫斯科(Gerasimov Institute of Cinematography)
-	- 慕尼黑影视学院 德国慕尼黑(Hochschule fur Film and Fernsehen)
-	- 法国高等国家影像与声音职业学院 法国巴黎(La Femis)
+	- 北京电影学院，中国北京(Beijing Film Academy)
+	- 墨西哥电影培训中心，墨西哥墨西哥城(Centro de Capacitacion Cinematografica)
+	- 意大利实验电影中心，意大利罗马(Centro Sperimentale di Cinematografia)
+	- 奥地利维也纳电影学院，奥地利维也纳(The Film Academy)
+	- 格拉西莫夫电影学院，俄罗斯莫斯科(Gerasimov Institute of Cinematography)
+	- 慕尼黑影视学院，德国慕尼黑(Hochschule fur Film and Fernsehen)
+	- 法国高等国家影像与声音职业学院，法国巴黎(La Femis)
 	- 波兰罗兹电影学校，波兰罗兹(Lodz Film School)
-	- 英国皇家电影电视学院 英国伦敦(National Film and Television School)
+	- 英国皇家电影电视学院，英国伦敦(National Film and Television School)
 	- 瑞尔森大学广播电影艺术学院，加拿大多伦多(RTA School of Media at Ryerson University)
-	- 以色列特拉维夫大学史蒂夫泰施电影电视学院 以色列特拉维夫(The Sam Spiegel Film & Television School/The Steve Tisch School of Film and Television, Tel Aviv University)
-	- 阿根廷布宜诺斯艾利斯电影大学 阿根廷布宜诺斯艾利斯(Universidad del Cine)
--
+	- 以色列特拉维夫大学史蒂夫泰施电影电视学院，以色列特拉维夫(The Sam Spiegel Film & Television School/The Steve Tisch School of Film and Television, Tel Aviv University)
+	- 阿根廷布宜诺斯艾利斯电影大学，阿根廷布宜诺斯艾利斯(Universidad del Cine)
+
+---
+
 - ## 美国顶尖电影学院
 	- (https://www.hollywoodreporter.com/lists/top-25-american-film-schools-ranked-1134785)
 	- 1.  南加州大学，洛杉矶(USC)
@@ -203,4 +204,5 @@ tags: "汇总/新知"
 	- 3.  美国电影学院，洛杉矶(American Film Institute)
 	- 4.  加州大学洛杉矶分校，洛杉矶(UCLA)
 	- 5.  哥伦比亚大学，纽约(Columbia University)
--
+
+
