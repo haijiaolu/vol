@@ -47,6 +47,7 @@ tags: "汇总/字词"
 - `TBR`: To Be Reviewed. 提示维护者进行 review
 - `TL;DR`: Too Long; Didn't Read. 太长懒得看。也有很多文档在做简略描述之前会写这么一句
 - `WIP`: Work In Progress. 传说中提 PR 的最佳实践是，如果你有个改动很大的 PR，可以在写了一部分的情况下先提交，但是在标题里写上 WIP，以告诉项目维护者这个功能还未完成，方便维护者提前 review 部分提交的代码。
+- `OOC`: Out Of Character, 意为“不符合个性，预料不及”，常出现在角色扮演和同人文学中。
 
 ## 其他
 
