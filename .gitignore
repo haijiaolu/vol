@@ -20,6 +20,7 @@ dist/
 cache/
 pnpm-global
 yarn.lock
+package-lock.json
 
 # more
 temp/
