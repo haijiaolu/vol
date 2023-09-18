@@ -19,7 +19,13 @@ export default defineConfig({
     logo: "/logo.png",
 
     search: {
-      provider: "local",
+      // provider: 'local'
+      provider: 'algolia',
+      options: {
+        appId: '',
+        apiKey: '',
+        indexName: ''
+      }
     },
     nav: [
       { text: "🎨Home", link: "/" },
