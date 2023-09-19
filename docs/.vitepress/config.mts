@@ -22,9 +22,9 @@ export default defineConfig({
       // provider: 'local'
       provider: 'algolia',
       options: {
-        appId: '',
-        apiKey: '',
-        indexName: ''
+        appId: 'ZQ4IG0IHRI',
+        apiKey: '846799ba63be4636255565cb7dfe34d3',
+        indexName: 'vol'
       }
     },
     nav: [
