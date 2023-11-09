@@ -311,3 +311,73 @@ It has been said that history repeats itself. This is perhaps not quite correct;
 在这些声音都被消灭之后，人们哪怕是完全沉默，都会让当权者觉得不舒服，都会被他们视为无声的反抗。
 他们接着就会要求人民去赞美他们，最后连那些赞美得不太卖力的人，都有可能要受到权力的惩罚……
 ```
+
+---
+
+::: warning
+
+> [!warning]
+>
+> 《当我开始真正爱自己（As I Began to Love Myself)》 ——查理·卓别林（70 岁，1959）
+> (As I Started to Love Myself)
+
+:::
+
+```
+并非出自查理·卓别林，来自Kim & Alison McMillen的When I Loved Myself Enough，于1992年首次发表。
+相关的资料：
+https://zhuanlan.zhihu.com/p/108480895
+https://en.wikiquote.org/wiki/Charlie_Chaplin#Misattributed
+
+> As I began to love myself I found that anguish and emotional suffering are only warning signs that I was living against my own truth.
+> Today, I know, this is “AUTHENTICITY".
+>
+> Quoted by many sites and blogs as "speech that Charlie Chaplin gave on his 70th birthday".
+> Actually, a re-translation (from Portuguese-BR) of a text from the book "When I Loved Myself Enough" by Kim & Alison McMillen (2001).
+
+---
+【流行版本】
+
+As I began to love myself I found that anguish and emotional suffering are only warning signs that I was living against my own truth. Today, I know, this is “AUTHENTICITY”.
+
+As I began to love myself I understood how much it can offend somebody if I try to force my desires on this person, even though I knew the time was not right and the person was not ready for it, and even though this person was me. Today I call it “RESPECT”.
+
+As I began to love myself I stopped craving for a different life, and I could see that everything that surrounded me was inviting me to grow. Today I call it “MATURITY”.
+
+As I began to love myself I understood that at any circumstance, I am in the right place at the right time, and everything happens at the exactly right moment. So I could be calm. Today I call it “SELF-CONFIDENCE”.
+
+As I began to love myself I quit stealing my own time, and I stopped designing huge projects for the future. Today, I only do what brings me joy and happiness, things I love to do and that make my heart cheer, and I do them in my own way and in my own rhythm. Today I call it “SIMPLICITY”.
+
+As I began to love myself I freed myself of anything that is no good for my health – food, people, things, situations, and everything that drew me down and away from myself. At first I called this attitude a healthy egoism. Today I know it is “LOVE OF ONESELF”.
+
+As I began to love myself I quit trying to always be right, and ever since I was wrong less of the time. Today I discovered that is “MODESTY”.
+
+As I began to love myself I refused to go on living in the past and worrying about the future. Now, I only live for the moment, where everything is happening. Today I live each day, day by day, and I call it “FULFILLMENT”.
+
+As I began to love myself I recognized that my mind can disturb me and it can make me sick. But as I connected it to my heart, my mind became a valuable ally. Today I call this connection “WISDOM OF THE HEART”.
+
+We no longer need to fear arguments, confrontations or any kind of problems with ourselves or others. Even stars collide, and out of their crashing new worlds are born. Today I know “THAT IS LIFE”!
+
+---
+
+【版本2】
+When I started loving myself I understood that I’m always and at any given opportunity in the right place at the right time. And I understood that all that happens is right – from then on I could be calm. Today I know: It’s called TRUST.
+
+When I started to love myself I understood how much it can offend  somebody When I tried to force my desires on this person, even though I knew the time is not right and the person was not ready for it, and even though this person was me. Today I know: It’s called LETTING GO.
+
+When I started loving myself I could recognize that emotional pain and grief are just warnings for me to not live against my own truth. Today I know: It’s called AUTHENTICALLY BEING.
+
+When I started loving myself I stopped longing for another life and could see that everything around me was a request to grow. Today I know: It’s called MATURITY.
+
+When I started loving myself I stopped depriving myself of my free time and stopped sketching further magnificent projects for the future. Today I only do what’s fun and joy for me, what I love and what makes my heart laugh, in my own way and in my tempo. Today I know: it’s called HONESTY.
+
+When I started loving myself I escaped from all what wasn’t healthy for me, from dishes, people, things, situations and from everything pulling me down and away from myself. In the beginning I called it the “healthy egoism”, but today I know: it’s called SELF-LOVE.
+
+When I started loving myself I stopped wanting to be always right thus I’ve been less wrong. Today I’ve recognized: it’s called HUMBLENESS.
+
+When I started loving myself I refused to live further in the past and worry about my future. Now I live only at this moment where EVERYTHING takes place, like this I live every day and I call it CONSCIOUSNESS.
+
+When I started loving myself I recognized, that my thinking can make me miserable and sick. When I requested for my heart forces, my mind got an important partner. Today I call this connection HEART WISDOM.
+
+We do not need to fear further discussions, conflicts and problems with ourselves and others since even stars sometimes bang on each other and create new worlds. Today I know: THIS IS LIFE!
+```
