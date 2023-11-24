@@ -2,7 +2,7 @@
 name: "岳昕-致北京大学师生和北大外国语学院的一封公开信"
 title: "致北京大学师生和北大外国语学院的一封公开信"
 author: "岳昕"
-date: "1996"
+date: "2018/4/23"
 created: ""
 updated: ""
 draft: false
