@@ -9,7 +9,7 @@ created: ""
 updated: ""
 draft: false
 read: "1"
-tags: "人物/诗人/罗马"
+tags: ["人物/诗人/罗马"]
 ---
 
 # Albius Tibullus（提布鲁斯）
@@ -18,7 +18,7 @@ Albius Tibullus, (公元前 55 — 前 19), 古罗马诗人。
 
 ### 诗句 【存疑】
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -53,7 +53,7 @@ Albius Tibullus, (公元前 55 — 前 19), 古罗马诗人。
 ---
 
 英语中搜索结果：
-<https://allauthor.com/quotes/104841/>
+`https://allauthor.com/quotes/104841/`
 
 > In solitude, be a multitude to thyself.   
 > Tibullus by all means use sometimes to be alone.  

@@ -8,12 +8,11 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/新知"
+tags: ["汇总/新知"]
 ---
 
 # 新知-文化生活
 
-[[toc]]
 
 - [新知-文化生活](#新知-文化生活)
   - [旅游](#旅游)
@@ -90,7 +89,7 @@ tags: "汇总/新知"
   - 英国的《太阳报》（_The Sun_）、《每日镜报》（_The Daily Mirror_）
 - 大报版式（Broadsheet Format），特点：相比小版式，内容上更深刻、严肃，“质报”
   - 英国的《金融时报》（The Financial Times）、《每日电讯报》（The Daily Telegraph）；美国、加拿大大部分日报
-- 更多：<https://papersizes.io/newspaper/>
+- 更多：`https://papersizes.io/newspaper/`
 
 ## 收藏
 

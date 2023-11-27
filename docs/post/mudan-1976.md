@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://www.shitan.org/shiku/xs/mudan/1408.htm"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 穆旦（查良铮）
 

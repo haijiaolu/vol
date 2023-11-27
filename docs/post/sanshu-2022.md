@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://mp.weixin.qq.com/s/ZYv03PsZkx-5okHEhl1Nqw"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 三书（王亚鸽）
 

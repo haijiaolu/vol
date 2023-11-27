@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "影视/歌曲"
+tags: ["影视/歌曲"]
 ---
 
-[[toc]]
 
 # 黄霑
 

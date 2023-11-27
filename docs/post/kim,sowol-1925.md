@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "https://namu.wiki/w/산유화"
 translates: ""
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 김소월 （金素月, Kim Sowol）
 

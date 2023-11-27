@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.lishiyushehui.cn/article/item/584"
-tags: "文章/财经"
+tags: ["文章/财经"]
 ---
 
-[[toc]]
 
 # 黄宗智
 
@@ -19,13 +18,14 @@ tags: "文章/财经"
 ——劳动法规的历史演变与当前的非正规经济
 
 > [PDF原文](https://www.lishiyushehui.cn/statics//article/top_5237a2e2a6029.pdf)
-
+```
 <object data="../resources/huangzongzhi-2013.pdf" type="application/pdf" width="100%" height="400px">
   <p>Unable to display PDF file.
     <a href="../resources/huangzongzhi-2013.pdf">Download</a>
     instead.
   </p>
 </object>
+```
 
 [PDF](../resources/huangzongzhi-2013.pdf)
 

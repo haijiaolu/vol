@@ -6,14 +6,12 @@ date: "2023"
 created: "2023-08-11 22:44"
 updated: ""
 sources: ""
-tags: "汇总"
+tags: ["汇总"]
 ---
 
 # 索引
 
-[[toc]]
-
-![banner](../public/hannah.jpg)
+![banner](../../static/img/hannah.jpg)
 
 ---
 

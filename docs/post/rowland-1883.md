@@ -20,7 +20,6 @@ tags:
   - "文章/科技"
 ---
 
-[[toc]]
 
 # Henry Augustus Rowland / 亨利·奥古斯特·罗兰
 

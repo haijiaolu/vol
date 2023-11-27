@@ -10,7 +10,7 @@ created: ""
 updated: ""
 draft: false
 read: "1"
-tags: "人物/诗人/缅甸"
+tags: ["人物/诗人/缅甸"]
 ---
 
 # ခက်သီ（克席，Khat Thi）
@@ -19,7 +19,7 @@ Khat Thi（1976-2021?）缅甸诗人。
 
 ### 格言
 
-::: info
+:::info
 
 > [!quote]
 > 

@@ -8,12 +8,11 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/故事"
+tags: ["汇总/故事"]
 ---
 
 # 故事寓言
 
-[[toc]]
 
 ---
 
@@ -49,7 +48,7 @@ tags: "汇总/故事"
 
 > 驴、狗、猫和公鸡因为老了，他们的主人想要把他们都杀了，于是在旅途上相遇的他们决定去不来梅当个镇上的音乐家。
 > 路上他们遇到了一伙强盗并成功地吓走了强盗们，于是，动物们在那里悠闲地生活下去了。
->  <https://literature.fandom.com/wiki/The_Bremen_Town_Musicians>
+>  `https://literature.fandom.com/wiki/The_Bremen_Town_Musicians`
 
 从前有一匹驴，它为主人辛辛苦苦干了一辈子，没有气力磨面了，主人想杀掉它。
 驴听到风声，就逃到不来梅去，想在那里做个镇上的音乐家。

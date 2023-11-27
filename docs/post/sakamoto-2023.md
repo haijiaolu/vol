@@ -17,7 +17,6 @@ tags:
   - "文章/文化"
 ---
 
-[[toc]]
 
 # 坂本龙一（坂本龍一，さかもと りゅういち，Ryuichi Sakamoto）
 
@@ -27,9 +26,9 @@ tags:
 > 主要关于坂本写信要求审查明治神宫外苑重建计划的动机。
 
 ```
-<https://nordot.app/1013405450532716544>
-<https://news.yahoo.co.jp/articles/b050176feb0f3d2bdc52eea8fd1d793b850ab2a1>
-<https://www.at-s.com/news/article/national/1218664.html>
+`https://nordot.app/1013405450532716544`
+`https://news.yahoo.co.jp/articles/b050176feb0f3d2bdc52eea8fd1d793b850ab2a1`
+`https://www.at-s.com/news/article/national/1218664.html`
 ```
 
 ### 正文
@@ -121,8 +120,8 @@ tags:
 > ◆ 都倉俊一・文化庁長官宛て
 
 ```
-<https://www.tokyo-np.co.jp/article/243643>
-<https://www.asahi.com/articles/ASR435K42R43OXIE023.html>
+`https://www.tokyo-np.co.jp/article/243643`
+`https://www.asahi.com/articles/ASR435K42R43OXIE023.html`
 ```
 
 ### 正文
@@ -207,7 +206,7 @@ https://globe.asahi.com/article/14629731
 
 #### **English**
 
-> <https://www.sitesakamoto.com/home>
+> `https://www.sitesakamoto.com/home`
 
 An Announcement
 

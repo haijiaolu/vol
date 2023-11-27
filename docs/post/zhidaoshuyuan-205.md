@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://www.zdaox.com/p/933.html"
-tags: "文章/商业"
+tags: ["文章/商业"]
 ---
 
-[[toc]]
 
 # 至道书院 
 

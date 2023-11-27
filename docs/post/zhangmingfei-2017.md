@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://zhuanlan.zhihu.com/p/26298455"
-tags: "文章/文化"
+tags: ["文章/文化"]
 ---
 
-[[toc]]
 
 # 张鸣飞
 

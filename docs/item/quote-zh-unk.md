@@ -8,14 +8,14 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/摘录"
+tags: ["汇总/摘录"]
 ---
 
 # 未知的格言摘录（中文）
 
 ## 出处不明 1
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -32,7 +32,7 @@ tags: "汇总/摘录"
 
 ## 出处不明 2
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -49,7 +49,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -61,7 +61,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -76,7 +76,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -88,7 +88,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -98,7 +98,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >

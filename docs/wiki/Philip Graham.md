@@ -9,7 +9,7 @@ created: ""
 updated: ""
 draft: false
 read: "1"
-tags: "人物/记者/美国"
+tags: ["人物/记者/美国"]
 ---
 
 # Philip Leslie Graham（菲利普·莱斯利·格雷厄姆）
@@ -18,7 +18,7 @@ Philip L. Graham (1915–1963)，美国新闻记者。
 
 ### 名句
 
-::: info
+:::info
 
 > [!quote]
 >

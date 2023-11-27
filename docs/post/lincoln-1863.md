@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "https://education.nationalgeographic.org/resource/gettysburg-address"
 translates: ""
-tags: "文章/演讲"
+tags: ["文章/演讲"]
 ---
 
-[[toc]]
 
 # Abraham Lincoln / 亚伯拉罕·林肯
 

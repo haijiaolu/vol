@@ -12,10 +12,9 @@ sources:
   - "http://www.luxunmuseum.com.cn/cx/content.php?id=1408"
   - "https://www.marxists.org/chinese/reference-books/luxun/01/005.htm"
   - "https://a-lib.net/library/lu-xun-wen-hua-pian-zhi-lun"
-tags: "文章/散文"
+tags: ["文章/散文"]
 ---
 
-[[toc]]
 
 # 鲁迅（周树人）
 

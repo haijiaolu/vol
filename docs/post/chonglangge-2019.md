@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.huxiu.com/article/317218.html"
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # 冲浪鸽
 

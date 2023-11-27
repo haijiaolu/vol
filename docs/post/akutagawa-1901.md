@@ -15,10 +15,9 @@ draft: false
 read: "1"
 sources: "https://www.aozora.gr.jp/cards/000879/files/123_15167.html"
 translates: ""
-tags: "文章/散文"
+tags: ["文章/散文"]
 ---
 
-[[toc]]
 
 # 芥川龍之介 / 芥川龙之介
 

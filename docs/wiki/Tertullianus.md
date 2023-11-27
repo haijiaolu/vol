@@ -9,7 +9,7 @@ created: ""
 updated: ""
 draft: false
 read: "1"
-tags: "人物/哲学家/罗马"
+tags: ["人物/哲学家/罗马"]
 ---
 
 # Tertullianus（德尔图良，特图里安，特土良）
@@ -19,7 +19,7 @@ Tertullianus (155/160 - 220?), 罗马帝国北非迦太基城（今突尼斯附�
 
 ### 名言
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -57,7 +57,7 @@ impossible est”（因为不可能，所以是确实的）。由
 
 ---
 
-<https://en.wikiquote.org/wiki/Tertullian#On_the_Flesh_of_Christ>
+`https://en.wikiquote.org/wiki/Tertullian#On_the_Flesh_of_Christ`
 
 * Prorsus credibile est, quia ineptum est.
   * It is to be believed because it is absurd.

@@ -10,10 +10,9 @@ read: "1"
 sources:
   - "https://blog.sina.com.cn/s/blog_4ae5369b0102w8xo.html"
   - "https://zhuanlan.zhihu.com/p/36669082"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 冯至（冯承植）
 

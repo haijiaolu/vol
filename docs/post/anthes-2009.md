@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "https://www.computerworld.com/article/2524456/unix-turns-40--the-past--present-and-future-of-a-revolutionary-os.html"
 translates: "陈皓 https://coolshell.cn/articles/1023.html"
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # Gary Anthes
 

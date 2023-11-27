@@ -16,10 +16,9 @@ sources:
   - "[共和国词典1985～1994]（http://www.banyuetan.org/chcontent/jrt/2010930/49706.shtml）"
   - "[共和国词典1995～2005]（http://www.banyuetan.org/chcontent/jrt/2010930/49707.shtml）"
   - "[共和国词典2006～2009]（http://www.banyuetan.org/chcontent/jrt/2010930/49708.shtml）"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 半月谈
 

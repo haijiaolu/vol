@@ -10,10 +10,9 @@ read: "1"
 sources: 
   - "https://www.douban.com/group/topic/287826227/"
   - "https://www.thepaper.cn/newsDetail_forward_23189324"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 班宇
 

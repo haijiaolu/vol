@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://www.xinhuanet.com/2021-06/28/c_1127603399.htm"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 新华社
 

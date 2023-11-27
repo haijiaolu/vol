@@ -13,21 +13,22 @@ sources:
   - "https://ferd.ca/the-little-printf.html"
   - "https://s3.us-east-2.amazonaws.com/ferd.ca/printf.pdf"
 translates: "https://mogeko.me/posts/zh-cn/043/"
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # Fred Hebert
 
 ## The Little Printf
 
+```
 <object data="../resources/hebert-printf.pdf" type="application/pdf" width="100%" height="500px">
   <p>Unable to display PDF file. 
     <a href="../resources/hebert-printf.pdf">Download</a> 
     instead.
   </p>
 </object>
+```
 
 [PDF](../resources/hebert-printf.pdf)
 

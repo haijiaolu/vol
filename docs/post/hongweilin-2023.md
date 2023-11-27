@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 洪蔚琳
 

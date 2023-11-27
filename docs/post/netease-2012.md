@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://news.163.com/special/reviews/pkuisgone.html"
-tags: "文章/文化"
+tags: ["文章/文化"]
 ---
 
-[[toc]]
 
 # 网易新闻
 
@@ -1255,7 +1254,7 @@ Python电影或辛普森事件而不是作为一个关于敢承认怀有严肃�
 
 **Baccalaureate Address 2008**
 
-<https://www.harvardmagazine.com/commencement/baccalaureate-address-2008>
+`https://www.harvardmagazine.com/commencement/baccalaureate-address-2008`
 
 President Drew Gilpin Faust's speech at the Baccalaureate service for the
 Harvard College class of 2008 on June 3.

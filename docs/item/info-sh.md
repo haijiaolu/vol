@@ -8,12 +8,11 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/新知"
+tags: ["汇总/新知"]
 ---
 
 # 新知-社会综合
 
-[[toc]]
 
 - [新知-社会综合](#新知-社会综合)
   - [理论](#理论)

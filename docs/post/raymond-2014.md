@@ -16,10 +16,9 @@ translates:
   - "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
   - "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way"
   - "https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way"
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # Eric Steven Raymond, Rick Moen / 埃里克·斯蒂芬·雷蒙德，瑞克·摩恩
 
@@ -1032,7 +1031,7 @@ they don't answer them.
 - Q: How can I use X to do Y?
 - Q: How can I configure my shell prompt?
 - Q: Can I convert an AcmeCorp document into a TeX file using the Bass-o-matic file converter?
-- Q: My {program, configuration, SQL statement} doesn't work
+- Q: My \{program, configuration, SQL statement\} doesn't work
 - Q: I'm having problems with my Windows machine. Can you help?
 - Q: My program doesn't work. I think system facility X is broken.
 - Q: I'm having problems installing Linux or X. Can you help?
@@ -1063,7 +1062,7 @@ Bass-o-matic file converter?
 **A:** Try it and see. If you did that, you'd (a)learn the answer, and (b)stop
 wasting my time.
 
-**Q:** My {program, configuration, SQL statement}doesn't work
+**Q:** My \{program, configuration, SQL statement\} doesn't work
 
 **A:** This is not a question, and I'm not interested in playing Twenty
 Questions to pry your actual question out of you—I have better things to do.

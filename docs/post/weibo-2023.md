@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://weibo.com/1707424580/MDjvGwKXJ"
-tags: "文章/资料"
+tags: ["文章/资料"]
 ---
 
-[[toc]]
 
 # 微博（你们的隔壁老王啊）
 

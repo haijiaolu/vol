@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://mp.weixin.qq.com/s/87rEUBaSzefcJ0f65MfzVg"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 王志纲
 

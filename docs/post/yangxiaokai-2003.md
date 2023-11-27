@@ -11,10 +11,9 @@ sources:
   - "http://www.hxzq.net/aspshow/showarticle.asp?id=9415"
   - "微博：https://weibo.com/ttarticle/p/show?id=2309634543065988661266"
   - "转载微信： https://mp.weixin.qq.com/s/RW3AMktA00ufhnGdWajXYA）"
-tags: "文章/人物"
+tags: ["文章/人物"]
 ---
 
-[[toc]]
 
 # 杨小凯（杨曦光）
 

@@ -11,10 +11,9 @@ sources:
   - "《乡愁·余光中卷》https://book.douban.com/subject/3265311/"
   - "《乡愁：余光中诗歌选》https://book.douban.com/subject/35200817/"
   - "《愿桥都坚固，隧道都光明（余光中诗歌精选集）》https://book.douban.com/subject/35284597/"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 余光中
 

@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/摘录"
+tags: ["汇总/摘录"]
 ---
 
 # 哏/梗/网络流行语/迷因/MEME

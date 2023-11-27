@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "微信公众号：兽楼处；https://www.wolege.com/843.htm"
-tags: "文章/财经"
+tags: ["文章/财经"]
 ---
 
-[[toc]]
 
 # 兽爷
 

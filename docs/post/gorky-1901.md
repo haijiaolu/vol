@@ -14,10 +14,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://ilibrary.ru/text/1493/p.1/index.html"
-tags: "文章/散文"
+tags: ["文章/散文"]
 ---
 
-[[toc]]
 
 # Максим Горький（马克西姆·高尔基）
 

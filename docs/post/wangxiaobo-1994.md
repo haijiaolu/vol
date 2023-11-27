@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "文章/散文"
+tags: ["文章/散文"]
 ---
 
-[[toc]]
 
 # 王小波
 

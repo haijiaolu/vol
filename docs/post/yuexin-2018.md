@@ -9,10 +9,9 @@ draft: false
 read: "1"
 sources:
   - "https://github.com/sikaozhe1997/Xin-Yue/"
-tags: "文章/信件"
+tags: ["文章/信件"]
 ---
 
-[[toc]]
 
 # 岳昕
 

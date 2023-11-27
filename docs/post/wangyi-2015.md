@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "微信公众号 3W互联网深度精选 https://mp.weixin.qq.com/s/2yhzL8e5HVHiYbqb9hyXCg"
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # 王奕
 

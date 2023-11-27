@@ -15,10 +15,9 @@ sources:
   - "https://namu.wiki/w/꽃(김춘수)"
   - "https://ppullan.tistory.com/202"
 translates: ""
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 김춘수 （金春洙，Kim Chunsu）
 

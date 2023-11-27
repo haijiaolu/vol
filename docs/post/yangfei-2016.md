@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "http://www.midphoto.com/chinese/whatsnew/2016/2.htm"
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # 杨飞
 

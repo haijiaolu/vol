@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://hyw.space/2020/01/27/dead-news/"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 陈季冰
 

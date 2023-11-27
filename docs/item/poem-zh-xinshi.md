@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/诗歌"
+tags: ["汇总/诗歌"]
 ---
 
 # 新诗摘录

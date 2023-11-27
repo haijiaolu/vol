@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "微信公众号 呦呦鹿鸣  https://mp.weixin.qq.com/s/958v2JQO6AeyLOGjxvDo6g"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 黄志杰（呦呦鹿鸣的鹿鸣君）
 

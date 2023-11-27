@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "https://www.edickinson.org/editions/2/image_sets/12171949"
 translates: "https://www.douban.com/group/topic/89771034/"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Emily Dickinson / 艾米莉·狄金森
 

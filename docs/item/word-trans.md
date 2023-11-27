@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/字词"
+tags: ["汇总/字词"]
 ---
 
 # 音译/意译词

@@ -14,10 +14,9 @@ draft: false
 read: "1"
 sources: "https://poets.org/poem/death-fugue"
 translates: "https://www.douban.com/group/topic/11331507/"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Paul Celan / 保罗·策兰
 

@@ -8,14 +8,14 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/摘录"
+tags: ["汇总/摘录"]
 ---
 
 # 未知的格言摘录（外文）
 
 ## 出处不明 1
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -30,13 +30,13 @@ tags: "汇总/摘录"
 一些地方把此句归于波兰诗人 Stanisław Jerzy Lec的诗《Unkempt Thoughts (1957)》
 但根据一些调查，可能并非完全原创和最早的出处。
 
-<https://en.wikiquote.org/wiki/Stanis%C5%82aw_Jerzy_Lec>
-<https://quoteinvestigator.com/2022/04/26/snowflake/>
+`https://en.wikiquote.org/wiki/Stanis%C5%82aw_Jerzy_Lec`
+`https://quoteinvestigator.com/2022/04/26/snowflake/`
 ```
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -50,7 +50,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -62,7 +62,7 @@ tags: "汇总/摘录"
 
 ```
 很久之前收藏的一个句子，据说出自George Hotz（网名Geohot, 1989年生，美国知名黑客）。
-中文网站在一些科技新闻和类似“名言通”(<https://www.mingyantong.com/writer/309930>，打开不了)能看到。
+中文网站在一些科技新闻和类似“名言通”(`https://www.mingyantong.com/writer/309930`，打开不了)能看到。
 英文句子缺了前面半句，但搜不到匹配的结果。
 中文翻译和英文有问题：right-权利，power-权力、力量。
 ```
@@ -71,7 +71,7 @@ tags: "汇总/摘录"
 
 ## 出处不明 2
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -80,7 +80,7 @@ tags: "汇总/摘录"
 :::
 
 ```
-<https://book.douban.com/subject/27001165/>
+`https://book.douban.com/subject/27001165/`
 出自《地球之美》， 真核细胞驯服了光（15 亿年前），第54页文末。但没有更原始出处。
 
 生命发展历程中的重大变革带来了巨大而又费解的谜题，其复杂程度令人惊叹。细胞结合
@@ -90,7 +90,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -100,7 +100,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -110,7 +110,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -125,7 +125,7 @@ tags: "汇总/摘录"
 
 ## 可能伪托
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -137,7 +137,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -171,13 +171,13 @@ tags: "汇总/摘录"
 
 链接：
 
-- <https://www.zhihu.com/question/478681025>
-- <https://www.ne.jp/asahi/kato/yoshio/jisei/jisei-sonota.html>
+- `https://www.zhihu.com/question/478681025`
+- `https://www.ne.jp/asahi/kato/yoshio/jisei/jisei-sonota.html`
 ```
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -192,7 +192,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 > 法语：Tout ce qu’un homme est capable d’imaginer, d’autres hommes seront capables de le réaliser.  
@@ -205,14 +205,14 @@ tags: "汇总/摘录"
 备注：一些地方表明出自《八十天环游地球》， Around the World in Eighty Days. 找了电子版没有找到。
 另有考据，这是伪托的，可能是一名传记作家写的。
 
-<http://verne.garmtdevries.nl/en/myths/>
+`http://verne.garmtdevries.nl/en/myths/`
 ```
 
 ---
 
 ## 出处证伪
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -224,13 +224,13 @@ tags: "汇总/摘录"
 
 ```
 这并非出自马可·奥勒留。参考：
-* <https://www.zhihu.com/question/475950260>
-* <http://ianchadwick.com/blog/nope-thats-not-by-marcus-aurelius/>
+* `https://www.zhihu.com/question/475950260`
+* `http://ianchadwick.com/blog/nope-thats-not-by-marcus-aurelius/`
 ```
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -244,7 +244,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -259,12 +259,12 @@ tags: "汇总/摘录"
 这句话最早的出现在 Theodor Reik 1965 年的一篇文章中：
 It has been said that history repeats itself. This is perhaps not quite correct; it merely rhymes.
 
-<https://quoteinvestigator.com/2014/01/12/history-rhymes/>
+`https://quoteinvestigator.com/2014/01/12/history-rhymes/`
 ```
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -276,12 +276,12 @@ It has been said that history repeats itself. This is perhaps not quite correct;
 
 ```
 索尔仁尼琴作品中没有这样的话。
-<https://en.wikiquote.org/wiki/Aleksandr_Solzhenitsyn#Misattributed>
+`https://en.wikiquote.org/wiki/Aleksandr_Solzhenitsyn#Misattributed`
 ```
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >
@@ -295,13 +295,13 @@ It has been said that history repeats itself. This is perhaps not quite correct;
 ```
 并非出自柏拉图，来自中国网民。
 相关的考证：
-<https://www.zhihu.com/question/370230241>
-<https://blog.sciencenet.cn/blog-350729-1218684.html>
+`https://www.zhihu.com/question/370230241`
+`https://blog.sciencenet.cn/blog-350729-1218684.html`
 > 最早是张雪忠说的（原文网址：http://post.blogchina.com/p/2630838），
 > 后来何海波引用并改动成今天的样子（原文网址：https://www.sohu.com/a/332103380_120121039）。
 > 但是，最后一部分——如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言，是其他人加上去的。
-<https://user.guancha.cn/main/content?id=719143>
-<https://wangfu.blog.caixin.com/archives/133930>
+`https://user.guancha.cn/main/content?id=719143`
+`https://wangfu.blog.caixin.com/archives/133930`
 
 说这些意见人士没有基本见识，是因为他们连一个最起码的常识都不懂：
 没有约束的专横权力，对言论的压制和迫害是没有止境的。一开始，最令当权者恼怒的，
@@ -314,7 +314,7 @@ It has been said that history repeats itself. This is perhaps not quite correct;
 
 ---
 
-::: warning
+:::warning
 
 > [!warning]
 >

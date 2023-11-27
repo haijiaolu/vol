@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "《蓝房子》【三联书店】"
-tags: "文章/散文"
+tags: ["文章/散文"]
 ---
 
-[[toc]]
 
 # 北岛（赵振开）
 

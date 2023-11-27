@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "文章/其他"
+tags: ["文章/其他"]
 ---
 
-[[toc]]
 
 # 胡启立
 

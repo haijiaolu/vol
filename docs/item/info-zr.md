@@ -8,12 +8,11 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/新知"
+tags: ["汇总/新知"]
 ---
 
 # 新知-自然科技
 
-[[toc]]
 
 - [新知-自然科技](#新知-自然科技)
   - [云](#云)
@@ -91,6 +90,6 @@ tags: "汇总/新知"
     - `(Income + Liabilities) + (Assets + Expenses) + Equity = 0`
 
 - 簿记软件
-  - gnucash <https://www.gnucash.org/>
-  - ledger: <https://ledger-cli.org/>
-  - Beancount <https://github.com/beancount/beancount>
+  - gnucash `https://www.gnucash.org/`
+  - ledger: `https://ledger-cli.org/`
+  - Beancount `https://github.com/beancount/beancount`

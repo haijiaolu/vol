@@ -15,10 +15,9 @@ sources:
   - "https://users.drew.edu/~jlenz/br-decalogue.html"
   - "http://www.panarchy.org/russell/decalogue.1951.html"
 translates: "商务印书馆，《罗素文集·〈罗素自传〉》"
-tags: "文章/哲学"
+tags: ["文章/哲学"]
 ---
 
-[[toc]]
 
 # Bertrand Russell / 伯特兰·罗素
 

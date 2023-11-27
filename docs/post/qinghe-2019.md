@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "微信公众号 智本社https://mp.weixin.qq.com/s/_oakWnM8HY9TXrctijv53Q"
-tags: "文章/财经"
+tags: ["文章/财经"]
 ---
 
-[[toc]]
 
 # 清和
 

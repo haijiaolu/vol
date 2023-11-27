@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.douban.com/note/590741250/"
-tags: "文章/其他"
+tags: ["文章/其他"]
 ---
 
-[[toc]]
 
 # 孤独力命
 

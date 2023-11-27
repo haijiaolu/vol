@@ -8,12 +8,11 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/新知"
+tags: ["汇总/新知"]
 ---
 
 # 新知-历史地理
 
-[[toc]]
 
 - [新知-历史地理](#新知-历史地理)
   - [地理](#地理)

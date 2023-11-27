@@ -9,10 +9,9 @@ draft: false
 read: "1"
 sources: ""
 translates: ""
-tags: "文章/音乐"
+tags: ["文章/音乐"]
 ---
 
-[[toc]]
 
 # 耳光乐队
 

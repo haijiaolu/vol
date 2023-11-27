@@ -10,10 +10,9 @@ read: "1"
 sources:
   - "钛媒体（2020-05-17 15:46）：https://www.tmtpost.com/4386389.html"
   - "虎嗅（2020-05-06 08:10）：https://www.huxiu.com/article/354475.html"
-tags: "文章/文化"
+tags: ["文章/文化"]
 ---
 
-[[toc]]
 
 # 针尖
 

@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "1900/2 《清议报》"
-tags: "文章/散文"
+tags: ["文章/散文"]
 ---
 
-[[toc]]
 
 # 梁启超
 

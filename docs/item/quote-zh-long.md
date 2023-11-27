@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/摘录"
+tags: ["汇总/摘录"]
 ---
 
 # 篇章摘录（中文）

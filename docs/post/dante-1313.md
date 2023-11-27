@@ -15,10 +15,9 @@ sources: ""
 translates: 
   - "https://digitaldante.columbia.edu/dante/divine-comedy/inferno/inferno-3/"
   - "https://read.douban.com/reader/ebook/319340021/"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Dante / 但丁
 

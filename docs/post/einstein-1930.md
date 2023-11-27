@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: ""
 translates: "《爱因斯坦文集》"
-tags: "文章/哲学"
+tags: ["文章/哲学"]
 ---
 
-[[toc]]
 
 # Albert Einstein / 阿尔伯特·爱因斯坦
 

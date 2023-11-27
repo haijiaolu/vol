@@ -10,10 +10,9 @@ read: "1"
 sources:
   - "微信公众号 好奇心日报 https://mp.weixin.qq.com/s/hgG-opMvZgJDq7oqxvc4Yg"
   - "http://www.qdaily.com/articles/52934.html"
-tags: "文章/社会"
+tags: ["文章/社会"]
 ---
 
-[[toc]]
 
 # 张皇琦
 

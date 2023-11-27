@@ -10,10 +10,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://josephg.com/blog/3-tribes/"
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # Seph Gentle
 

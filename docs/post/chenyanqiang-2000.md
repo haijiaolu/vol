@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 陈衍强
 

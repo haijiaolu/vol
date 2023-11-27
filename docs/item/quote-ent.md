@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: 1
 sources: ""
-tags: "汇总/摘录"
+tags: ["汇总/摘录"]
 ---
 
 # 影视台词
@@ -20,7 +20,7 @@ tags: "汇总/摘录"
 
 ## 电影
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -29,7 +29,7 @@ tags: "汇总/摘录"
 
 :::
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -38,7 +38,7 @@ tags: "汇总/摘录"
 
 :::
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -48,7 +48,7 @@ tags: "汇总/摘录"
 
 :::
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -74,7 +74,7 @@ tags: "汇总/摘录"
 
 ## 电视
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -87,7 +87,7 @@ tags: "汇总/摘录"
 
 :::
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -100,7 +100,7 @@ tags: "汇总/摘录"
 
 ## 动画
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -117,7 +117,7 @@ tags: "汇总/摘录"
 
 ---
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -131,7 +131,7 @@ tags: "汇总/摘录"
 
 :::
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -142,7 +142,7 @@ tags: "汇总/摘录"
 
 :::
 
-::: info
+:::info
 
 > [!quote]
 >

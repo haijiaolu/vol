@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "https://poets.org/poem/do-not-go-gentle-good-night"
 translates: ""
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Dylan Thomas / 迪兰·托马斯
 

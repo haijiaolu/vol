@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "https://www.poemas-del-alma.com/poema-20.htm"
 translates: ""
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Pablo Neruda / 巴勃罗·聂鲁达
 

@@ -12,10 +12,9 @@ sources:
   - "http://theory.people.com.cn/GB/49150/49152/17552068.html"
   - "http://cpc.people.com.cn/GB/64093/64099/15099584.html"
   - "http://news.cntv.cn/20120306/103249.shtml"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 赵明波
 

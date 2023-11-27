@@ -20,7 +20,6 @@ tags:
   - "文章/时政"
 ---
 
-[[toc]]
 
 # John F. Kennedy / 约翰·肯尼迪
 

@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "https://www.poetryfoundation.org/poems/44644/a-psalm-of-life"
 translates: "https://www.douban.com/note/387422358"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Henry Wadsworth Longfellow / 亨利·沃兹沃斯·朗费罗
 

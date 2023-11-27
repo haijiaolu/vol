@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: "http://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html"
 translates: ""
-tags: "文章/科技"
+tags: ["文章/科技"]
 ---
 
-[[toc]]
 
 # Edsger Wybe Dijkstra
 
@@ -114,9 +113,11 @@ Antony Jay is right when he states:" In corporate religions as in others, the
 heretic must be cast out not because of the probability that he is wrong but
 because of the possibility that he is right."
 
+
 |                                                      |     |                                                                            |
 | ---------------------------------------------------- | --- | -------------------------------------------------------------------------- |
-| Plataanstraat 5<br>5671 AL NUENEN<br>The Netherlands |     | 11 August 1982<br>prof.dr. Edsger W. Dijkstra<br>Burroughs Research Fellow |
+| Plataanstraat 5<br/>5671 AL NUENEN<br/>The Netherlands |     | 11 August 1982<br/>prof.dr. Edsger W. Dijkstra<br/>Burroughs Research Fellow |
+
 
 `***`
 

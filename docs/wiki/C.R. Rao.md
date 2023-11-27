@@ -9,7 +9,7 @@ created: ""
 updated: ""
 draft: false
 read: "1"
-tags: "人物/统计学家/印度"
+tags: ["人物/统计学家/印度"]
 ---
 
 # Calyampudi Radhakrishna Rao（卡利安普迪·拉达克里希纳·劳，C.R.Rao）
@@ -18,7 +18,7 @@ C.R Rao (1920-)，印度统计学家。
 
 ### 名言
 
-::: info
+:::info
 
 > [!quote]
 >

@@ -10,10 +10,9 @@ read: "1"
 sources:
   - "https://www.gov.cn/xinwen/2019-09/27/content_5434223.htm"
   - "http://www.xinhuanet.com/politics/2019-09/27/c_1125049752.htm"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 新华社
 

@@ -9,7 +9,7 @@ created: ""
 updated: ""
 draft: false
 read: "1"
-tags: "人物/软件工程师/美国"
+tags: ["人物/软件工程师/美国"]
 ---
 
 # Phil Karlton（菲尔·卡尔顿）
@@ -18,7 +18,7 @@ Phil Karlton(1949-1997)，美国软件工程师。
 
 ### 名言
 
-::: info
+:::info
 
 > [!quote]
 >
@@ -31,7 +31,7 @@ Phil Karlton(1949-1997)，美国软件工程师。
 > 变种
 > There are 2 hard problems in computer science:
 > cache invalidation, naming things, and off-by-1 errors.  
-> -- Leon Bambrick（@secretGeek）, 2010/1/1, <https://twitter.com/secretGeek/status/7269997868>
+> -- Leon Bambrick（@secretGeek）, 2010/1/1, `https://twitter.com/secretGeek/status/7269997868`
 >
 > > （计算机科学两件最难的事情：缓存失效，命名和差一错误。）
 
@@ -43,7 +43,7 @@ Phil Karlton(1949-1997)，美国软件工程师。
 
 #### Tim Bray（加拿大软件工程师， XML 之父）
 
-- 2005, <http://www.tbray.org/ongoing/When/200x/2005/12/23/UPI>
+- 2005, `http://www.tbray.org/ongoing/When/200x/2005/12/23/UPI`
 
 ```
 I should have known, as I’ve often quoted Phil Karlton’s wise saying
@@ -51,7 +51,7 @@ I should have known, as I’ve often quoted Phil Karlton’s wise saying
 and naming things”.
 ```
 
-- 2014, <https://twitter.com/timbray/status/817025379109990402>
+- 2014, `https://twitter.com/timbray/status/817025379109990402`
 
 ```
 > Jeff Atwood @codinghorror · Aug 31, 2014
@@ -87,7 +87,7 @@ and naming things”.
 > https://www.karlton.org/2017/12/naming-things-hard/
 ```
 
-- 2017, <https://www.karlton.org/2017/12/naming-things-hard/>
+- 2017, `https://www.karlton.org/2017/12/naming-things-hard/`
 
 ```
 > Years ago, when my dad Phil Karlton was working at Netscape, he touted
@@ -102,5 +102,5 @@ and naming things”.
 
 #### 其他引用
 
-- <https://martinfowler.com/bliki/TwoHardThings.html>
-- <http://www.randomprogramming.com/2014/09/quote-of-the-week-hard-things/>
+- `https://martinfowler.com/bliki/TwoHardThings.html`
+- `http://www.randomprogramming.com/2014/09/quote-of-the-week-hard-things/`

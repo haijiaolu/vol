@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.zhihu.com/question/27007320"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 张枣
 

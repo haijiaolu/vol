@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.marxists.org/chinese/reference-books/minjian-1966-1976/25.htm"
-tags: "文章/时政"
+tags: ["文章/时政"]
 ---
 
-[[toc]]
 
 # 杨小凯（杨曦光）
 

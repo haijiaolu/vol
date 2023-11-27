@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://haizi.huhaitai.com/03/064.htm"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # 海子（查海生）
 

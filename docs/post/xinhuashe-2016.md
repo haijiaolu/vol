@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: "文章/新闻"
+tags: ["文章/新闻"]
 ---
 
-[[toc]]
 
 # 新华社
 

@@ -14,10 +14,9 @@ draft: false
 read: "1"
 sources: ""
 translates: ""
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Boris Pasternak / 鲍利斯·帕斯捷尔纳克
 

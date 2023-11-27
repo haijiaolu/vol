@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: ""
 translates: ""
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # David Feinberg / 大卫·范伯格
 

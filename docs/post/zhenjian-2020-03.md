@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "虎嗅：https://www.huxiu.com/article/347365.html"
-tags: "文章/文化"
+tags: ["文章/文化"]
 ---
 
-[[toc]]
 
 # 针尖
 

@@ -8,10 +8,9 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://weibo.com/ttarticle/p/show?id=2309404079031325749562"
-tags: "文章/文化"
+tags: ["文章/文化"]
 ---
 
-[[toc]]
 # 蓝莲安
 
 ## 动漫婆罗门消亡史

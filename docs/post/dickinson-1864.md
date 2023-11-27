@@ -13,10 +13,9 @@ draft: false
 read: "1"
 sources: ""
 translates: "https://www.douban.com/note/542021456/"
-tags: "文章/诗歌"
+tags: ["文章/诗歌"]
 ---
 
-[[toc]]
 
 # Emily Dickinson / 艾米莉·狄金森
 
