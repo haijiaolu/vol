@@ -48,11 +48,25 @@ const config = {
         },
         items: [
           {
+            to: "docs/hist",
+            type: 'docSidebar',
+            sidebarId: 'histSidebar',
+            position: 'left',
+            label: '🔖温故',
+          },
+          {
             to: "docs/item",
             type: 'docSidebar',
             sidebarId: 'itemSidebar',
             position: 'left',
-            label: '🔖温故知新',
+            label: '🔖知新',
+          },
+          {
+            to: "docs/dict",
+            type: 'docSidebar',
+            sidebarId: 'dictSidebar',
+            position: 'left',
+            label: '🔖辞章',
           },
           {
             to: "docs/wiki",
