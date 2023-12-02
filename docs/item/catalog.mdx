@@ -11,11 +11,28 @@ tags: ["汇总"]
 
 # 索引
 
+import TOCInline from '@theme/TOCInline';
+
+<details>
+<summary>TOC</summary>
+<TOCInline toc={toc.filter((node) => node.level >= 2 && node.level <= 4)} 
+/>
+</details>
+
+
 ![banner](../../static/img/hannah.jpg)
 
 ---
 
-## item`汇总`
+## 温故知新
+
+### hist`温故`
+
+- [温故 2018](../hist/hist-2018.md)
+- [温故 2018 续](../hist/hist-2018x.md)
+
+### item`新知`
+
 - [新知-管理定律](info-gl.md)
 - [新知-机构学校](info-jg.md)
 - [新知-历史地理](info-ld.md)
@@ -23,27 +40,32 @@ tags: ["汇总"]
 - [新知-文化生活](info-wh.md)
 - [新知-国朝新学](info-zh.md)
 - [新知-自然科技](info-zr.md)
-- [外国诗歌](poem-intl.md)
-- [对联集句](poem-zh-couplets.md)
-- [古诗名句](poem-zh-gushi.md)
-- [新诗摘录](poem-zh-xinshi.md)
-- [影视台词](quote-ent.md)
-- [未知的格言摘录（外文）](quote-intl-unk.md)
-- [格言警句（外文）](quote-intl.md)
-- [哏/梗/网络流行语/迷因/MEME](quote-meme.md)
-- [篇章摘录（中文）](quote-zh-long.md)
-- [未知的格言摘录（中文）](quote-zh-unk.md)
-- [格言警句（中文）](quote-zh.md)
-- [故事寓言](story.md)
-- [网络流行词/MEME](word-meme.md)
-- [音译/意译词](word-trans.md)
-- [字集](word-zh-char.md)
-- [词库](word-zh-idiom.md)
-- [谚语俗语](word-zh-idiom2.md)
+
+### dict`辞章`
+
+- [外国诗歌](../dict/poem-intl.md)
+- [对联集句](../dict/poem-zh-couplets.md)
+- [古诗名句](../dict/poem-zh-gushi.md)
+- [新诗摘录](../dict/poem-zh-xinshi.md)
+- [影视台词](../dict/quote-ent.md)
+- [未知的格言摘录（外文）](../dict/quote-intl-unk.md)
+- [格言警句（外文）](../dict/quote-intl.md)
+- [哏/梗/网络流行语/迷因/MEME](../dict/quote-meme.md)
+- [篇章摘录（中文）](../dict/quote-zh-long.md)
+- [未知的格言摘录（中文）](../dict/quote-zh-unk.md)
+- [格言警句（中文）](../dict/quote-zh.md)
+- [网络流行词/MEME](../dict/word-meme.md)
+- [音译/意译词](../dict/word-trans.md)
+- [字集](../dict/word-zh-char.md)
+- [词库](../dict/word-zh-idiom.md)
+- [谚语俗语](../dict/word-zh-idiom2.md)
 
 ---
 
-## wiki`人物`
+## 分类
+
+### wiki`人物`
+
 - [Agatha Christie（阿加莎·克里斯蒂）](../wiki/阿加莎·克里斯蒂.md)
 - [Alan Kay（艾伦·凯）](../wiki/艾伦·凯.md)
 - [Albert Einstein（阿尔伯特·爱因斯坦）](../wiki/爱因斯坦.md)
@@ -183,9 +205,8 @@ tags: ["汇总"]
 - [黄景仁](../wiki/黄景仁.md)
 - [龚自珍](../wiki/龚自珍.md)
 
---
+### book`书籍`
 
-## book`书籍`
 - [三国志](../book/三国志.md)
 - [世说新语](../book/世说新语.md)
 - [华严经](../book/华严经.md)
@@ -209,24 +230,23 @@ tags: ["汇总"]
 - [诗经](../book/诗经.md)
 - [贞观政要](../book/贞观政要.md)
 
---
+### post`文章`
 
-## post`文章`
-- [Anthes-Unix40年昨天今天和明天](../post/anthes-2009.md)
+- [Anthes-Unix40 年昨天今天和明天](../post/anthes-2009.md)
 - [Barlow-赛博空间独立宣言](../post/barlow-1996.md)
 - [C.R. Rao-《统计与真理》序言](../post/rao-1987.md)
 - [Eric Raymond-提问的智慧](../post/raymond-2014.md)
 - [Gu-研究生须知的十个简单法则](../post/gu-2007.md)
-- [Hebert-小Printf](../post/hebert-2015.md)
-- [Seph Gentle-编程的3个部落](../post/gentle-2017.md)
-- [Tozzi-从UNIX到GitHub十个关于自由和开源软件历史的重要事件](../post/tozzi-2017.md)
-- [WWF-2017可持续生活指南](../post/wwf-2017.md)
+- [Hebert-小 Printf](../post/hebert-2015.md)
+- [Seph Gentle-编程的 3 个部落](../post/gentle-2017.md)
+- [Tozzi-从 UNIX 到 GitHub 十个关于自由和开源软件历史的重要事件](../post/tozzi-2017.md)
+- [WWF-2017 可持续生活指南](../post/wwf-2017.md)
 - [三书-火车外一闪而过的风景](../post/sanshu-2022.md)
 - [亚伦·斯沃茨-游击队开放访问宣言](../post/swartz-2008.md)
 - [亚伯拉罕·林肯-葛底斯堡演讲](../post/lincoln-1863.md)
 - [亨利·奥古斯特·罗兰-为纯科学呼吁](../post/rowland-1883.md)
 - [亨利·沃兹沃斯·朗费罗-生命礼赞](../post/longfellow-1838.md)
-- [人力资源社会保障部-2021年版《国家职业资格目录》](../post/mohrss-2021.md)
+- [人力资源社会保障部-2021 年版《国家职业资格目录》](../post/mohrss-2021.md)
 - [伯特兰·罗素-我为什么而活着](../post/russell-1956.md)
 - [伯特兰·罗素-自由主义十诫](../post/russell-1951.md)
 - [但丁-神曲地狱篇](../post/dante-1313.md)
@@ -235,10 +255,10 @@ tags: ["汇总"]
 - [你们的隔壁老王啊-反下岗攻略](../post/weibo-2023.md)
 - [兽爷-疫苗之王](../post/shouye-2018.md)
 - [冯至-歧路](../post/fengzhi-1943.md)
-- [冲浪鸽-25年前互联网大佬在最原始的论坛网上冲浪](../post/chonglangge-2019.md)
+- [冲浪鸽-25 年前互联网大佬在最原始的论坛网上冲浪](../post/chonglangge-2019.md)
 - [北岛-太阳城札记](../post/beidao-1979.md)
 - [北岛-波兰来客](../post/beidao-1999.md)
-- [半月谈-共和国词典1949-2009](../post/banyuetan-2010.md)
+- [半月谈-共和国词典 1949-2009](../post/banyuetan-2010.md)
 - [叶敬忠-在权力的包围中不要熄灭真善美的光](../post/yejingzhong-2023.md)
 - [叶首部-家乡啤酒兴亡史](../post/yeshoubu-2018.md)
 - [周兴嗣-千字文](../post/zhouxingsi-502.md)
@@ -253,10 +273,10 @@ tags: ["汇总"]
 - [张曼菱-烽火读书声](../post/zhangmanling-2015.md)
 - [张枣-镜中](../post/zhangzao-1984.md)
 - [张梅-给我未来的孩子](../post/zhangmei-1997.md)
-- [张皇琦-看不到的焦虑和看得到的质疑北大120年校庆见闻](../post/zhanghuangqi-2018.md)
+- [张皇琦-看不到的焦虑和看得到的质疑北大 120 年校庆见闻](../post/zhanghuangqi-2018.md)
 - [张鸣飞-网络小说二十年推荐](../post/zhangmingfei-2017.md)
-- [新华社-中华人民共和国大事记1949年10月－2019年9月](../post/xinhuashe-2019.md)
-- [新华社-中国共产党一百年大事记1921年7月至2021年6月](../post/xinhuashe-2021.md)
+- [新华社-中华人民共和国大事记 1949 年 10 月－2019 年 9 月](../post/xinhuashe-2019.md)
+- [新华社-中国共产党一百年大事记 1921 年 7 月至 2021 年 6 月](../post/xinhuashe-2021.md)
 - [新华社-新华社新闻信息报道中的禁用词和慎用词](../post/xinhuashe-2016.md)
 - [李可-流感下的北京中年](../post/like-2018.md)
 - [李沉简-挺直脊梁 拒做犬儒](../post/lichenjian-2018.md)
@@ -270,8 +290,8 @@ tags: ["汇总"]
 - [毛泽东-星星之火可以燎原](../post/maozedong-1930.md)
 - [毛泽东-给江青的信](../post/maozedong-1966.md)
 - [沈甫宣-没有悲伤的十五秒](../post/shim-2008.md)
-- [洪波-以Linux的名义](../post/hongbo-2003.md)
-- [洪蔚琳-如此打工30年](../post/hongweilin-2023.md)
+- [洪波-以 Linux 的名义](../post/hongbo-2003.md)
+- [洪蔚琳-如此打工 30 年](../post/hongweilin-2023.md)
 - [海子-祖国或以梦为马](../post/haizi-1987.md)
 - [清和-香港往事 | 一人，一城](../post/qinghe-2019.md)
 - [爱伦·坡-致海伦](../post/poe-1831.md)
@@ -284,7 +304,7 @@ tags: ["汇总"]
 - [王羲之-兰亭集序](../post/wangxizhi-353.md)
 - [玛莉·伊丽莎白·弗莱-不要伫立在我的墓前哭泣](../post/frye-1934.md)
 - [班宇-漫长的](../post/banyu-2022.md)
-- [瓦茨拉夫·哈维尔-1990年新年献辞](../post/havel-1990.md)
+- [瓦茨拉夫·哈维尔-1990 年新年献辞](../post/havel-1990.md)
 - [田余庆-一位学者的学术自传](../post/tianyuqing-2010.md)
 - [穆旦-冥想](../post/mudan-1976.md)
 - [章诒和-一阵风留下了千古绝唱](../post/zhangyihe-2004.md)
@@ -298,7 +318,7 @@ tags: ["汇总"]
 - [胡启立-我心中的耀邦](../post/huqili-2005.md)
 - [至道书院-思极恐的万科宝能之争门口的野蛮人背后的赵家人](../post/zhidaoshuyuan-205.md)
 - [艾伦·凯-预测未来](../post/kay-1989.md)
-- [艾兹赫尔·戴克斯特拉-为什么应该从0开始计数](../post/dijkstra-1982.md)
+- [艾兹赫尔·戴克斯特拉-为什么应该从 0 开始计数](../post/dijkstra-1982.md)
 - [艾略特-荒原](../post/eliot-1922.md)
 - [艾米莉·狄金森-如果我不曾见过太阳](../post/dickinson-1872.md)
 - [艾米莉·狄金森-如果我能教一颗心免于破碎](../post/dickinson-1864.md)
@@ -317,13 +337,13 @@ tags: ["汇总"]
 - [金春洙-花](../post/kim,chunsu-1952.md)
 - [金素月-山有花](../post/kim,sowol-1925.md)
 - [针尖-中国娱乐产业四十年](../post/zhenjian-2020-03.md)
-- [针尖-耽美文学100年](../post/zhenjian-2020-05.md)
+- [针尖-耽美文学 100 年](../post/zhenjian-2020-05.md)
 - [阮晓寰-上海二中院刑事判决书](../post/ruanxiaohuan-2023.md)
 - [阿橹-阿橹之死](../post/alu-1989.md)
 - [阿瑟·兰波-感觉](../post/rimbaud-1870.md)
 - [陈天庸-我为什么离开中国](../post/chentianyong-2019.md)
 - [陈季冰-真正的新闻正在死去更可怕的是无人在意](../post/chenjibing-2018.md)
-- [陈季冰-肺炎50天全体中国人都在承受媒体死亡的代价](../post/chenjibing-2020.md)
+- [陈季冰-肺炎 50 天全体中国人都在承受媒体死亡的代价](../post/chenjibing-2020.md)
 - [陈衍强-一份讲稿和仰望天空](../post/chenyanqiang-2000.md)
 - [陈雨露-青苗法系列](../post/chenyulu-2014.md)
 - [陶杰-隔世身影当时只道是寻常](../post/taojie-2012.md)
