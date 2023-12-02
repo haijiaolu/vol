@@ -14,7 +14,7 @@ sources:
   - "https://ferd.ca/the-little-printf.html"
   - "https://s3.us-east-2.amazonaws.com/ferd.ca/printf.pdf"
 translates: "https://mogeko.me/posts/zh-cn/043/"
-tags: ["文章/科技"]
+tags: ["文章/科技", "PDF"]
 ---
 
 
