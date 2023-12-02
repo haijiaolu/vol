@@ -134,6 +134,10 @@ const config = {
         indexName: 'vol'
       },
     }),
+    markdown: {
+      format: 'detect',
+      mermaid: true,
+    }
 };
 
 export default config;
