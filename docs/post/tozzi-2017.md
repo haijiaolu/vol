@@ -53,7 +53,7 @@ tags: ["文章/科技"]
 
 ###### 1969: Birth of Unix
 
-![Birth of Unix](../images/1969_birth_of_unix.jpg)
+![Birth of Unix](../assets/image/1969_birth_of_unix.jpg)
 
 In 1969 programmers at AT&T's Bell Labs began work on Unix. Unix was never a
 free or open source operating system. It was born before the concept of free
@@ -70,7 +70,7 @@ decentralized fashion.
 
 ###### 1984: AT&T Commercializes Unix
 
-![AT&T Commercializes Unix](../images/1984_atnt_commercializes_unix.jpg)
+![AT&T Commercializes Unix](../assets/image/1984_atnt_commercializes_unix.jpg)
 
 For the first fifteen years of Unix's existence, AT&T, which owned the
 operating system, was forbidden by court order from profiting off of it. (The
@@ -87,7 +87,7 @@ not encumbered by commercial trappings.
 
 ###### 1984: Birth of GNU
 
-![Birth of GNU](../images/1984_birth_of_gnu.jpg)
+![Birth of GNU](../assets/image/1984_birth_of_gnu.jpg)
 
 In the same year that AT&T commercialized Unix, Richard Stallman launched the
 GNU project. GNU was a "complete Unix-compatible software system which I am
@@ -108,7 +108,7 @@ hinged on the project's commitment to making all source code freely available.
 
 ###### 1985: Creation of the Free Software Foundation
 
-![Creation of the Free Software Foundation.jpg](../images/1985_creation_of_fsf.jpg)
+![Creation of the Free Software Foundation.jpg](../assets/image/1985_creation_of_fsf.jpg)
 
 As Stallman's vision for promoting software freedom evolved and matured, he
 realized that writing and giving away GNU source code was not enough. Along
@@ -118,7 +118,7 @@ GNU and other free software projects.
 
 ###### 1991: Birth of Linux
 
-![Birth of Linux.jpg](../images/1991_birth_of_linux.jpg)
+![Birth of Linux.jpg](../assets/image/1991_birth_of_linux.jpg)
 
 Although GNU programmers succeeded in writing a great deal of important
 programs, their efforts to create a Unix-like kernel to complete the GNU
@@ -137,7 +137,7 @@ complete Unix-like system using only free software.
 
 ###### 1998: Open Source Summit
 
-![Open Source Summit](../images/1998_open_source_summit.jpg)
+![Open Source Summit](../assets/image/1998_open_source_summit.jpg)
 
 By the later 1990s, free software from GNU, Linux and other important projects
 (such as Apache)was becoming widespread. It was no longer the niche of obscure
@@ -160,7 +160,7 @@ what free software was and communicated its value in a less ideological way.
 
 ###### 1999: Red Hat's IPO
 
-![Red Hat's IPO.jpg](../images/1999_red_hat_ipo.jpg)
+![Red Hat's IPO.jpg](../assets/image/1999_red_hat_ipo.jpg)
 
 Proof of the commercial significance of free and open source software arrived
 in August 1999, when Red Hat became the first open source company to begin
@@ -172,7 +172,7 @@ within the open source market today.
 
 ###### 2004: Launch of Ubuntu
 
-![Launch of Ubuntu.jpg](../images/2004_launch_of_ubuntu.jpg)
+![Launch of Ubuntu.jpg](../assets/image/2004_launch_of_ubuntu.jpg)
 
 By the late 1990s there were many dozens of GNU/Linux distributions available.
 But GNU/Linux struggled to overcome an image as a type of operating system
@@ -190,7 +190,7 @@ tried their hands at anything with Linux in its name.
 
 ###### 2007: Launch of Android
 
-![Launch of Android](../images/2007_launch_of_android.jpg)
+![Launch of Android](../assets/image/2007_launch_of_android.jpg)
 
 The software project that has placed free and open source software into the
 hands of the most people is undoubtedly Android, an operating system for
@@ -208,7 +208,7 @@ roots.
 
 ###### 2008: GitHub Democraticizes Open Source
 
-![GitHub Democraticizes Open Source.jpg](../images/2008_github.jpg)
+![GitHub Democraticizes Open Source.jpg](../assets/image/2008_github.jpg)
 
 Initially, contributors to most free and open source software projects
 collaborated via email or through privately hosted version control systems

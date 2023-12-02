@@ -63,4 +63,4 @@ tags: ["汇总/字词"]
 - `c/o`: care of
   - 相关讨论: [w-o-w-b-c-common-abbreviations](https://english.stackexchange.com/questions/115367/are-w-o-w-b-c-common-abbreviations-in-the-us)
 - `y, tho?` == Why, though? (美国俚语)
-  - ![](../images/ytho.jpg)
+  - ![](../assets/image/ytho.jpg)

@@ -22,7 +22,7 @@ tags: ["文章/演讲"]
 
 ## The Gettysburg Address / 葛底斯堡演讲
 
-![gettysburg-address](../images/gettysburg-address.jpg)
+![gettysburg-address](../assets/image/gettysburg-address.jpg)
 
 **Gettysburg Address**
 

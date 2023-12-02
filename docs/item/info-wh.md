@@ -44,7 +44,7 @@ tags: ["汇总/新知"]
 - 二、以色列的耶路撒冷（Jerusaem），是耶稣受难的地方，最后的晚餐诞生地，宗教的发源地
 - 三、西班牙的圣地亚哥（Santiago de Compostela ）。全名叫圣地亚哥-孔普斯特拉，耶稣的门徒雅各的埋葬处，三条朝圣路中最著名的一条。
 
-![圣地亚哥](../images/camino-routes.jpg)
+![圣地亚哥](../assets/image/camino-routes.jpg)
 
 ## 体育
 
@@ -58,8 +58,8 @@ tags: ["汇总/新知"]
   - 由关东学生田径联盟主办（日本关东学生陆上竞技联盟）。
   - 参赛选手来自日本关东地区大学，共 21 个队伍每个大学派出 10 位选手参赛
 - 路线：
-  - ![箱根驿传往路](../images/hakone-ekiden-1to5.jpg)
-  - ![箱根驿传复路.jpg](../images/hakone-ekiden-6to10.jpg)
+  - ![箱根驿传往路](../assets/image/hakone-ekiden-1to5.jpg)
+  - ![箱根驿传复路.jpg](../assets/image/hakone-ekiden-6to10.jpg)
 - 相关作品：
   - 根据三浦紫苑同名小说改编的日本动画《强风吹拂》
 
@@ -73,14 +73,14 @@ tags: ["汇总/新知"]
 4. GRL 也是美国的分级方法，最容易跟 RAZ 级别混淆。按照 26 个英文字母顺序分为 26 个级别。
 
 > 示意图来自[知乎](https://zhuanlan.zhihu.com/p/317285180)
-> ![](../images/reading-level.jpg)，
+> ![](../assets/image/reading-level.jpg)，
 
 ### 语言参考标准
 
 欧洲共同语言参考标准（The Common European Framework of Reference for Languages，简称 CEFR）
 
-- ![cefr](../images/cefr-0.png)
-- ![cefr](../images/cefr-1.png)
+- ![cefr](../assets/image/cefr-0.png)
+- ![cefr](../assets/image/cefr-1.png)
 
 ### 报刊版式
 - 柏林版式（Berliner）
@@ -104,8 +104,8 @@ tags: ["汇总/新知"]
 - 1980 年猴票（《庚申年》金猴邮票）：
   - 志号 T46，发行日期：1980.2.15，面值 8 分。中国第一套生肖邮票：庚申猴/金猴，
   - 原画作者黄永玉，邮票设计者邵柏林，雕版雕刻人是姜伟杰，北京邮票厂印刷。
-  - ![猴票](../images/postage-stamp-monkey.jpg)
-  - ![生肖邮票](../images/postage-stamp-zodiac.jpg)
+  - ![猴票](../assets/image/postage-stamp-monkey.jpg)
+  - ![生肖邮票](../assets/image/postage-stamp-zodiac.jpg)
 
 ## 节日
 
@@ -216,9 +216,9 @@ tags: ["汇总/新知"]
 
 创作共用许可协议 （Creative Commons license），目前是 4.0 版本。
 - 4 个基本权利：
-  - ![image.png](../images/cc-0.png)
+  - ![image.png](../assets/image/cc-0.png)
 - 7 个常用有效组合
-  - ![image.png](../images/cc-1.png)
+  - ![image.png](../assets/image/cc-1.png)
 
 ### 记者证
 

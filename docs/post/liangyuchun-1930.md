@@ -136,4 +136,4 @@ standers-by.”
 
 ### 附录
 
-![作者手迹](../images/liangyuchun.jpg)
+![作者手迹](../assets/image/liangyuchun.jpg)

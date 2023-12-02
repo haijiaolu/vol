@@ -87,7 +87,7 @@ about programming."
 
 ###### Early steps
 
-![Ken Thompson and Dennis Ritchie](../images/unix_kendennis.png)
+![Ken Thompson and Dennis Ritchie](../assets/image/unix_kendennis.png)
 
 > Thompson and Ritchie in the early days of Unix.
 
@@ -150,7 +150,7 @@ He says the key advantage of Unix for him was its "pipe"feature, introduced in
 pipeline concept, invented by Bell Labs'McIlroy, was subsequently copied by many
 operating systems, including all the Unix variants,Linux,DOS and Windows.
 
-![Bell Labs,Murray Hill,NJ](../images/unix_murrayhill_230.png)
+![Bell Labs,Murray Hill,NJ](../assets/image/unix_murrayhill_230.png)
 
 > Unix was developed at Bell Labs' headquarters in Murray Hill, NJ. Credit: Alcatel-Lucent/Bell Labs
 
@@ -217,7 +217,7 @@ enormously influential operating system that would become the basis for IBM's
 AIX and Hewlett-Packard's HP-UX.
 Unix versions chart
 
-![Unix versions chart](../images/unix_chart_420.png)
+![Unix versions chart](../assets/image/unix_chart_420.png)
 > The Unix family tree. Credit: Eraserhead1 (cc-by-sa-3.0, GFDL)
 
 ###### The Unix Wars

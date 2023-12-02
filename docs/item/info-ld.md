@@ -32,7 +32,7 @@ tags: ["汇总/新知"]
 ### 欧洲
 
 - 欧洲/欧盟/欧元区/申根区
-  - ![](../images/map-europe.png)
+  - ![](../assets/image/map-europe.png)
 
 ### 德国
 
@@ -63,7 +63,7 @@ tags: ["汇总/新知"]
 - 美国 **66 号公路**（Route 66）：
 
   - 东起芝加哥，西到洛杉矶，“母亲之路”、“美国主大街”（the Main Street of America）以及“梦想之路”、“开拓之路”。1926 年开始建造）
-  - ![](../images/us-route66.png)
+  - ![](../assets/image/us-route66.png)
 
 ### 日本
 

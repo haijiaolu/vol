@@ -23,7 +23,7 @@ tags: ["文章/时政"]
 > 
 > 今天岛君推荐一篇王志纲的经典文章《邓公的遗产》，读起来，仍觉荡气回肠。
 
-![](../images/wangzhigang-dxp.png)
+![](../assets/image/wangzhigang-dxp.png)
 
 **邓公的遗产**
 

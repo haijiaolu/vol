@@ -16,7 +16,7 @@ tags: ["文章/文化"]
 
 ## 网易新闻“另一面”：何必为北大痛心疾首？
 
-![](../images/netease-beida.png)
+![](../assets/image/netease-beida.png)
 
 ### 何必为北大痛心疾首？
 

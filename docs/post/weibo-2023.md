@@ -82,4 +82,4 @@ tags: ["文章/资料"]
 
 ### 附录
 
-[截图](../images/weibo-nimendegebilaowanga.jpg)
+[截图](../assets/image/weibo-nimendegebilaowanga.jpg)

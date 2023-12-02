@@ -101,5 +101,5 @@ tags: ["汇总/摘录"]
 > 
 > ——国民党昆山县政府“告人民解放军”书，1949 年 5 月撤退前留。现藏昆山档案馆。
 
-![](../images/kunshan-0.jpg)
-![](../images/kunshan-1.jpg)
+![](../assets/image/kunshan-0.jpg)
+![](../assets/image/kunshan-1.jpg)

@@ -45,7 +45,7 @@ tags: ["汇总/摘录"]
 “为众人抱火的，不可使他冻毙于风雪；为世界开辟道路的，不可使他困顿于荆棘。”
 见[知乎讨论](https://www.zhihu.com/question/295275656)；
 
-![](../images/zhihu_murongxuecun.jpg)
+![](../assets/image/zhihu_murongxuecun.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ tags: ["汇总/摘录"]
 :::
 
 应该是微博用户创作。
-![weibo](../images/weibo-zidan.jpg)
+![weibo](../assets/image/weibo-zidan.jpg)
 
 几种讹误：
 - 史铁生《我与地坛》

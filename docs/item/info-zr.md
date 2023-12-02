@@ -59,13 +59,13 @@ tags: ["汇总/新知"]
 
 人口变化：
 - 张宏杰《简读中国史：世界坐标史下的中国》
-  - ![人口统计-胡列箭](../images/population-huliejiam.jpeg)
-  - ![image.png](../images/popluation-new.png)
+  - ![人口统计-胡列箭](../assets/image/population-huliejiam.jpeg)
+  - ![image.png](../assets/image/popluation-new.png)
 - 《世界千年经济史》第一章
-  - ![](../images/population-we-figure.png)
-  - ![](../images/population-we-table.png)
+  - ![](../assets/image/population-we-figure.png)
+  - ![](../assets/image/population-we-table.png)
 - 中国人口
-  - ![](../images/population-cn.png)
+  - ![](../assets/image/population-cn.png)
 
 ## 地图投影
 

@@ -48,4 +48,4 @@ tags: ["文章/诗歌"]
 > 原诗收录在小说集《缓步》。
 > 电视剧《漫长的季节》中引用。
 
-![漫长的](../images/banyu-manchangde.png)
+![漫长的](../assets/image/banyu-manchangde.png)

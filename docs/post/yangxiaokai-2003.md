@@ -21,7 +21,7 @@ tags: ["文章/人物"]
 
 ### 正文
 
-![杨小凯](../images/yangxiaokai.jpg)
+![杨小凯](../assets/image/yangxiaokai.jpg)
 
 #### **我的一生（经济观察报）**
 

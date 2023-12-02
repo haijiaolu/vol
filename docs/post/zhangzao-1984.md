@@ -34,4 +34,4 @@ tags: ["文章/诗歌"]
 
 ### 附录
 
-![镜中](../images/zhangzhao-jingzhong.webp)
+![镜中](../assets/image/zhangzhao-jingzhong.webp)
