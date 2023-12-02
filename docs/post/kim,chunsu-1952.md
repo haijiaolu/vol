@@ -1,8 +1,9 @@
 ---
 name: "金春洙-花"
-title: "꽃"
+title: "金春洙-《花》（꽃）"
 author: "김춘수"
 titles:
+  ko: "꽃"
   zh: "花"
 authors:
   zh: "金春洙"

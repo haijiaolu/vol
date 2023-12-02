@@ -1,6 +1,6 @@
 ---
 name: "爱因斯坦-主权的限制"
-title: "主权的限制"
+title: "爱因斯坦-《主权的限制》"
 author: "Albert Einstein"
 titles:
   zh: "主权的限制"

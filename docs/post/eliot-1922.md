@@ -1,8 +1,9 @@
 ---
 name: "艾略特-荒原"
-title: "The Waste Land"
+title: "艾略特-《荒原》（The Waste Land）"
 author: "T. S. Eliot"
 titles:
+  en: "The Waste Land"
   zh: "荒原"
 authors:
   zh: "艾略特"

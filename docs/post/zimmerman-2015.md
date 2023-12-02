@@ -1,8 +1,9 @@
 ---
 name: "詹姆斯·泽摩曼-思想之空旷"
-title: "The Emptiness of Thought"
+title: "泽摩曼-《思想之空旷》（The Emptiness of Thought）"
 author: "James K. Zimmerman"
 titles:
+  en: "The Emptiness of Thought"
   zh: "思想之空旷"
 authors:
   zh: "詹姆斯·泽摩曼"

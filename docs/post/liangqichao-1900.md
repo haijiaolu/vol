@@ -1,6 +1,6 @@
 ---
 name: "梁启超-呵旁观者文"
-title: "呵旁观者文"
+title: "梁启超-《呵旁观者文》"
 author: "梁启超"
 date: "1900"
 created: "2019-02-12 06:29:36"
@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "1900/2 《清议报》"
-tags: ["文章/散文"]
+tags: ["文章/散文", "文言"]
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 name: "保罗·策兰-死亡赋格曲"
-title: "Todesfuge"
+title: "保罗·策兰-《死亡赋格曲》（Todesfuge）"
 author: "Paul Celan"
 titles:
+  de: "Todesfuge"
   zh: "死亡赋格曲"
   en: "Death Fugue"
 authors:

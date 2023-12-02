@@ -1,6 +1,6 @@
 ---
 name: "兽爷-疫苗之王"
-title: "疫苗之王"
+title: "兽爷-《疫苗之王》"
 author: "兽爷"
 date: "2018/07/22"
 created: ""

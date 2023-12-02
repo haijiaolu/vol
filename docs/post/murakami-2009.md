@@ -1,8 +1,9 @@
 ---
 name: "村上春树-高墙与鸡蛋耶路撒冷文学奖获奖演讲"
-title: "Acceptance Address By Haruki Murakami"
+title: "村上春树-《“高墙与鸡蛋”——耶路撒冷文学奖获奖演讲》（Acceptance Address By Haruki Murakami）"
 author: "村上春樹"
 titles:
+  en: "Acceptance Address By Haruki Murakami"
   zh: "“高墙与鸡蛋”——耶路撒冷文学奖获奖演讲"
 authors:
   zh: "村上春树"

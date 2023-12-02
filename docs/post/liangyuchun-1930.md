@@ -1,6 +1,6 @@
 ---
 name: "梁遇春-人死观"
-title: "人死观"
+title: "梁遇春-《人死观》"
 author: "梁遇春"
 date: "1930"
 created: ""

@@ -1,6 +1,6 @@
 ---
 name: "北岛-波兰来客"
-title: "波兰来客"
+title: "北岛-《波兰来客》"
 author: "北岛"
 date: "1999"
 created: ""

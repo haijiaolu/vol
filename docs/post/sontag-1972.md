@@ -1,6 +1,6 @@
 ---
 name: "苏珊·桑塔格-衰老的双重标准"
-title: "The Double Standard of Aging"
+title: "桑塔格-《衰老的双重标准》（The Double Standard of Aging）"
 author: "Susan Sontag"
 titles:
   zh: "衰老的双重标准"

@@ -1,8 +1,9 @@
 ---
 name: "伯特兰·罗素-自由主义十诫"
-title: "A Liberal Decalogue"
+title: "罗素-《自由主义十诫》（A Liberal Decalogue）"
 author: "Bertrand Russell"
 titles:
+  en: "A Liberal Decalogue"
   zh: "自由主义十诫"
 authors:
   zh: "伯特兰·罗素"

@@ -1,8 +1,9 @@
 ---
 name: "约翰·肯尼迪-我是柏林人"
-title: "Remarks in the Rudolph Wilde Platz, Berlin"
+title: "约翰·肯尼迪-《我是柏林人》（Remarks in the Rudolph Wilde Platz, Berlin）"
 author: "John F. Kennedy"
 titles:
+  en: "Remarks in the Rudolph Wilde Platz, Berlin"
   zh: "我是柏林人（柏林墙下演讲）"
 authors:
   zh: "约翰·肯尼迪"

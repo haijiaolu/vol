@@ -1,6 +1,6 @@
 ---
 name: "穆旦-冥想"
-title: "冥想"
+title: "穆旦-《冥想》"
 author: "穆旦"
 date: "1976/05"
 created: ""

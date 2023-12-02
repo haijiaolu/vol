@@ -1,8 +1,9 @@
 ---
 name: "金素月-山有花"
-title: "산유화"
+title: "金素月-《山有花》（산유화）"
 author: "김소월"
 titles:
+  ko: "산유화"
   zh: "山有花"
 authors:
   zh: "金素月"

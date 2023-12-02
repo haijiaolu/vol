@@ -1,8 +1,9 @@
 ---
 name: "艾兹赫尔·戴克斯特拉-为什么应该从0开始计数"
-title: "Why numbering should start at zero"
+title: "艾兹赫尔·戴克斯特拉-《为什么应该从0开始计数》（Why numbering should start at zero）"
 author: "Edsger Wybe Dijkstra"
 titles:
+  en: "Why numbering should start at zero"
   zh: "为什么应该从0开始计数"
 authors:
   zh: "艾兹赫尔·戴克斯特拉"

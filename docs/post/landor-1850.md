@@ -1,8 +1,9 @@
 ---
 name: "沃尔特·萨维奇·兰多-生与死"
-title: "Dying Speech of an Old Philosopher"
+title: "沃尔特·萨维奇·兰多-《生与死》（Dying Speech of an Old Philosopher）"
 author: "Arthur Rimbaud"
 titles:
+  en: "Dying Speech of an Old Philosopher"
   zh: "生与死"
 authors:
   zh: "沃尔特·萨维奇·兰多"

@@ -1,8 +1,9 @@
 ---
 name: "但丁-神曲地狱篇"
-title: "Divina Commedia"
+title: "但丁-《神曲地狱篇》Divina Commedia"
 author: "Dante"
 titles: 
+  it: "Divina Commedia"
   zh: "神曲·地狱篇"
 authors: 
   zh: "但丁"

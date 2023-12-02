@@ -1,8 +1,9 @@
 ---
 name: "塞缪尔·厄尔曼-青春"
-title: "Youth"
+title: "厄尔曼-《青春》（Youth）"
 author: "Samuel Ullman"
 titles:
+  en: "Youth"
   zh: "青春"
 authors:
   zh: "塞缪尔·厄尔曼"

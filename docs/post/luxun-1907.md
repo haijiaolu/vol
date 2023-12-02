@@ -1,6 +1,6 @@
 ---
 name: "鲁迅-文化偏至论"
-title: "文化偏至论"
+title: "鲁迅-《文化偏至论》"
 author: "鲁迅"
 date: "1907"
 created: ""
@@ -12,7 +12,7 @@ sources:
   - "http://www.luxunmuseum.com.cn/cx/content.php?id=1408"
   - "https://www.marxists.org/chinese/reference-books/luxun/01/005.htm"
   - "https://a-lib.net/library/lu-xun-wen-hua-pian-zhi-lun"
-tags: ["文章/散文"]
+tags: ["文章/散文", "文言"]
 ---
 
 

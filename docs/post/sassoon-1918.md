@@ -1,8 +1,9 @@
 ---
 name: "西格夫里·萨松-于我过去现在以及未来"
-title: "In me, past, present, future meet"
+title: "萨松-《于我，过去，现在以及未来》（In me, past, present, future meet）"
 author: "Siegfried Loraine Sassoon"
 titles:
+  en: "In me, past, present, future meet"
   zh: "于我，过去，现在以及未来"
 authors:
   zh: "西格夫里·萨松"

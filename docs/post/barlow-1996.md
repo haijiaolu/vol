@@ -1,8 +1,9 @@
 ---
 name: "Barlow-赛博空间独立宣言"
-title: "A Declaration of the Independence of Cyberspace"
+title: "Barlow-《赛博空间独立宣言》（A Declaration of the Independence of Cyberspace）"
 author: "John Perry Barlow"
 titles: 
+  en: "A Declaration of the Independence of Cyberspace"
   zh: "赛博空间独立宣言"
 authors: 
   zh: ""

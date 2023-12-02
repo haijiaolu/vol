@@ -1,8 +1,9 @@
 ---
 name: "高尔基-海燕"
-title: "Песня о Буревестнике"
+title: "高尔基-《海燕》（Песня о Буревестнике）"
 author: "Максим Горький"
 titles:
+  ru: "Песня о Буревестнике"
   zh: "海燕（海燕之歌）"
   en: "The Song of the Stormy Petrel"
 authors:

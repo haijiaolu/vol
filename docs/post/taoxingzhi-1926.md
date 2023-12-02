@@ -1,6 +1,6 @@
 ---
 name: "陶行知-我们的信条"
-title: "我们的信条"
+title: "陶行知-《我们的信条》"
 author: "陶行知"
 date: "1926"
 created: ""

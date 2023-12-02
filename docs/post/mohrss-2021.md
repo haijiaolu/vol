@@ -1,6 +1,6 @@
 ---
 name: "人力资源社会保障部-2021年版《国家职业资格目录》"
-title: "2021年版《国家职业资格目录》"
+title: "人力资源社会保障部-2021年版《国家职业资格目录》"
 author: "人力资源社会保障部"
 date: "2021/12/02"
 created: ""
@@ -10,7 +10,7 @@ read: "1"
 sources:
   - "http://www.mohrss.gov.cn/xxgk2020/1_2_x/jd/202112/t20211202_429298.html"
   - "http://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/gfxwj/rcrs/202112/t20211202_429301.html"
-tags: ["文章/资料"]
+tags: ["文章/资料", "PDF"]
 ---
 
 

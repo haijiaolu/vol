@@ -1,8 +1,9 @@
 ---
 name: "Seph Gentle-编程的3个部落"
-title: "3 Tribes of Programming"
+title: "Seph Gentle-《编程的3个部落》（3 Tribes of Programming）"
 author: "Seph Gentle"
 titles:
+  en: "3 Tribes of Programming"
   zh: "编程的3个部落"
 date: "2007/05/03"
 created: ""

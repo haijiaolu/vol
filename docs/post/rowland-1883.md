@@ -1,8 +1,9 @@
 ---
 name: "亨利·奥古斯特·罗兰-为纯科学呼吁"
-title: "A PLEA FOR PURE SCIENCE"
+title: "罗兰-《为纯科学呼吁》（A PLEA FOR PURE SCIENCE）"
 author: "Henry Augustus Rowland"
 titles:
+  en: "A PLEA FOR PURE SCIENCE"
   zh: "为纯科学呼吁"
 authors:
   zh: "亨利·奥古斯特·罗兰"

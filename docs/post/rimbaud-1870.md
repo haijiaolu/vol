@@ -1,8 +1,9 @@
 ---
 name: "阿瑟·兰波-感觉"
-title: "Sensation"
+title: "兰波-《感觉》（Sensation）"
 author: "Arthur Rimbaud"
 titles:
+  fr: "Sensation"
   zh: "感觉"
 authors:
   zh: "阿瑟·兰波"

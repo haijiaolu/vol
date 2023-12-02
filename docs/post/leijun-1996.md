@@ -1,6 +1,6 @@
 ---
 name: "雷军-我的程序人生路"
-title: "我的程序人生路"
+title: "雷军-《我的程序人生路》"
 author: "雷军"
 date: "1996"
 created: ""

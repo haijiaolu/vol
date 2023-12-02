@@ -1,8 +1,9 @@
 ---
 name: "道格拉斯·麦克阿瑟-国会大厦告别演讲"
-title: "Farewell Address to Congress"
+title: "麦克阿瑟-《国会大厦告别演讲》（Farewell Address to Congress）"
 author: "Douglas MacArthur"
 titles:
+  en: "Farewell Address to Congress"
   zh: "国会大厦告别演讲"
 authors:
   zh: "道格拉斯·麦克阿瑟"

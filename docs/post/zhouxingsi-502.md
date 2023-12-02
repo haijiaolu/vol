@@ -1,6 +1,6 @@
 ---
 name: "周兴嗣-千字文"
-title: "千字文"
+title: "周兴嗣-《千字文》"
 author: "周兴嗣"
 date: "公元502"
 created: "2019-01-31 05:18:07"
@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: ""
-tags: ["文章/文化"]
+tags: ["文章/古文","文言"]
 ---
 
 

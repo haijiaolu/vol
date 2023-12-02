@@ -1,6 +1,6 @@
 ---
 name: "孤独力命-晋江小说的人物姓氏"
-title: "晋江小说的人物姓氏"
+title: "孤独力命-《晋江小说的人物姓氏》"
 author: "孤独力命"
 date: "2016/11/07"
 created: ""
@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.douban.com/note/590741250/"
-tags: ["文章/其他"]
+tags: ["文章/数据分析"]
 ---
 
 

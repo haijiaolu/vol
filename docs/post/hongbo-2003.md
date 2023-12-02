@@ -1,6 +1,6 @@
 ---
 name: "洪波-以Linux的名义"
-title: "以Linux的名义"
+title: "洪波-《以Linux的名义》"
 author: "洪波"
 date: "2003"
 created: ""

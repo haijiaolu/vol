@@ -1,8 +1,9 @@
 ---
 name: "Hebert-小Printf"
-title: "The Little Printf"
+title: "Hebert-The Little Printf"
 author: "Fred Hebert"
 titles:
+  en: "The Little Printf"
   zh: "小Printf"
 date: "2015/10/09"
 created: ""

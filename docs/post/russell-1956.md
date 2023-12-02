@@ -1,9 +1,10 @@
 ---
 name: "伯特兰·罗素-我为什么而活着"
-title: "Prologue: What I Have Lived For"
+title: "罗素-《我为什么而活着》（ What I Have Lived For）"
 author: "Bertrand Russell"
 titles:
-  zh: "序言 我为什么而活着"
+  en: "Prologue: What I Have Lived For"
+  zh: "序言：我为什么而活着"
 authors:
   zh: "伯特兰·罗素"
 date: "1956"

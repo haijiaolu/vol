@@ -1,8 +1,9 @@
 ---
 name: "苏珊·桑塔格-百年电影回眸"
-title: "The Decay of Cinema/A Century of Cinema"
+title: "桑塔格-《百年电影回眸》（The Decay of Cinema/A Century of Cinema）"
 author: "Susan Sontag"
 titles:
+  en: "The Decay of Cinema / A Century of Cinema"
   zh: "百年电影回眸"
 authors:
   zh: "苏珊·桑塔格"

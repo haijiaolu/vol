@@ -1,6 +1,6 @@
 ---
 name: "黄宗智-重新认识中国劳动人民"
-title: "重新认识中国劳动人民"
+title: "黄宗智-《重新认识中国劳动人民》"
 author: "黄宗智"
 date: "2013"
 created: ""
@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://www.lishiyushehui.cn/article/item/584"
-tags: ["文章/财经"]
+tags: ["文章/财经", "PDF"]
 ---
 
 

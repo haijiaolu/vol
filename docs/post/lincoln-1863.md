@@ -1,8 +1,9 @@
 ---
 name: "亚伯拉罕·林肯-葛底斯堡演讲"
-title: "The Gettysburg Address"
+title: "亚伯拉罕·林肯-《葛底斯堡演讲》（The Gettysburg Address）"
 author: "Abraham Lincoln"
 titles:
+  en: "The Gettysburg Address"
   zh: "葛底斯堡演讲"
 authors:
   zh: "亚伯拉罕·林肯"

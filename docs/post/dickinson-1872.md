@@ -1,8 +1,9 @@
 ---
 name: "艾米莉·狄金森-如果我不曾见过太阳"
-title: "Had I not seen the Sun"
+title: "艾米莉·狄金森-《如果我不曾见过太阳》（Had I not seen the Sun）"
 author: "Emily Dickinson"
 titles:
+  en: "Had I not seen the Sun"
   zh: "如果我不曾见过太阳"
 authors:
   zh: "艾米莉·狄金森"

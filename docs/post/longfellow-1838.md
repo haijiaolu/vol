@@ -1,8 +1,9 @@
 ---
-name: "亨利·沃兹沃斯·朗费罗-生命礼赞"
-title: "A Psalm of Life"
+name: "朗费罗-生命礼赞"
+title: "朗费罗-《生命礼赞》（A Psalm of Life）"
 author: "Henry Wadsworth Longfellow"
 titles:
+  en: "A Psalm of Life"
   zh: "生命礼赞"
 authors:
   zh: "亨利·沃兹沃斯·朗费罗"

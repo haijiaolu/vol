@@ -1,8 +1,9 @@
 ---
 name: "亚伦·斯沃茨-游击队开放访问宣言"
-title: "Guerilla Open Access Manifesto"
+title: "斯沃茨-《游击队开放访问宣言》（Guerilla Open Access Manifesto）"
 author: "Aaron Swartz"
 titles:
+  en: "Guerilla Open Access Manifesto"
   zh: "游击队开放访问宣言"
 authors:
   zh: "亚伦·斯沃茨"

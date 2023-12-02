@@ -1,8 +1,9 @@
 ---
 name: "Eric Raymond-提问的智慧"
-title: "How To Ask Questions The Smart Way"
+title: "Eric Raymond-《提问的智慧》（How To Ask Questions The Smart Way）"
 author: "Eric Steven Raymond, Rick Moen"
 titles:
+  en: "How To Ask Questions The Smart Way"
   zh: "提问的智慧"
 authors:
   zh: "埃里克·斯蒂芬·雷蒙德，瑞克·摩恩"

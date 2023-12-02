@@ -1,8 +1,9 @@
 ---
 name: "大卫·范伯格-孤独的根号三"
-title: "The Square Root of Three"
+title: "大卫·范伯格-《孤独的根号三》（The Square Root of Three）"
 author: "David Feinberg"
 titles:
+  en: "The Square Root of Three"
   zh: "孤独的根号三"
 authors:
   zh: "大卫·范伯格"

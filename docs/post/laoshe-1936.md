@@ -1,6 +1,6 @@
 ---
 name: "老舍-断魂枪"
-title: "断魂枪"
+title: "老舍-《断魂枪》"
 author: "老舍"
 date: "1936"
 created: ""

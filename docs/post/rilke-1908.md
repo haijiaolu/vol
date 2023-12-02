@@ -1,8 +1,9 @@
 ---
 name: "赖内·马利亚·里尔克-挽歌为沃尔夫伯爵封卡尔克洛伊特而作"
-title: "REQUIEM FÜR WOLF GRAF VON KALCKREUTH"
+title: "里尔克-《挽歌——为沃尔夫伯爵封卡尔克洛伊特而作》（REQUIEM FÜR WOLF GRAF VON KALCKREUTH）"
 author: "Rainer Maria Rilke"
 titles:
+  en: "REQUIEM FÜR WOLF GRAF VON KALCKREUTH"
   zh: "挽歌——为沃尔夫伯爵封·卡尔克洛伊特而作"
 authors:
   zh: "赖内·马利亚·里尔克"

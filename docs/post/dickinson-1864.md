@@ -1,8 +1,9 @@
 ---
 name: "艾米莉·狄金森-如果我能教一颗心免于破碎"
-title: "If I can stop one heart from breaking"
+title: "艾米莉·狄金森-《如果我能教一颗心免于破碎》（If I Can Stop One Heart From Breaking）"
 author: "Emily Dickinson"
 titles: 
+  en: "If I Can Stop One Heart From Breaking"
   zh: "如果我能教一颗心免于破碎"
 authors:
   zh: "艾米莉·狄金森"

@@ -1,6 +1,6 @@
 ---
 name: "鲁迅-记念刘和珍君"
-title: "记念刘和珍君"
+title: "鲁迅-《记念刘和珍君》"
 author: "鲁迅"
 date: "1926"
 created: ""

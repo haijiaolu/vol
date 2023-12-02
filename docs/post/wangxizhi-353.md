@@ -1,6 +1,6 @@
 ---
 name: "王羲之-兰亭集序"
-title: "兰亭集序"
+title: "王羲之-《兰亭集序》"
 author: "王羲之"
 date: "公元353"
 created: ""
@@ -8,7 +8,7 @@ updated: ""
 draft: false
 read: "1"
 sources: "https://zh.wikisource.org/zh-hans/蘭亭集序"
-tags: ["文章/"]
+tags: ["文章/古文", "文言"]
 ---
 
 

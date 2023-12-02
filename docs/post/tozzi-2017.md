@@ -1,8 +1,9 @@
 ---
 name: "Tozzi-从UNIX到GitHub十个关于自由和开源软件历史的重要事件"
-title: "Unix to GitHub: 10 Key Events in Free and Open Source Software History"
+title: "Tozzi-《从UNIX到GitHub十个关于自由和开源软件历史的重要事件》（Unix to GitHub）"
 author: "Christopher Tozzi"
 titles:
+  en: "Unix to GitHub: 10 Key Events in Free and Open Source Software History"
   zh: "从UNIX到GitHub：十个关于自由和开源软件历史的重要事件"
 date: "约2008"
 created: "2019-01-31 03:35:39"

@@ -1,8 +1,9 @@
 ---
 name: "聂鲁达-二十首情诗和一首绝望的歌·第20首"
-title: "Poema 20 de 20 poemas de amor y una canción desesperada"
+title: "聂鲁达-《二十首情诗和一首绝望的歌·第20首》（Poema 20 de 20 poemas de amor y una canción desesperada）"
 author: "Pablo Neruda"
 titles:
+  es: "Poema 20 de 20 poemas de amor y una canción desesperada"
   zh: "二十首情诗和一首绝望的歌·第20首"
 authors:
   zh: "巴勃罗·聂鲁达"

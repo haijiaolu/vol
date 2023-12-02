@@ -1,6 +1,6 @@
 ---
 name: "冯至-歧路"
-title: "歧路"
+title: "冯至-《歧路》"
 author: "冯至"
 date: "1943"
 created: ""

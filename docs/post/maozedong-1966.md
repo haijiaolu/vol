@@ -1,6 +1,6 @@
 ---
 name: "毛泽东-给江青的信"
-title: "给江青的信"
+title: "毛泽东-《给江青的信》"
 author: "毛泽东"
 date: "1966"
 created: ""

@@ -1,8 +1,9 @@
 ---
 name: "约翰·多恩-没有人是一座岛屿自成一体"
-title: "Nobody is an island"
+title: "约翰·多恩-《没有人是一座岛屿、自成一体》（Nobody is an island）"
 author: "John Donne"
 titles:
+  en: "Nobody is an island"
   zh: "没有人是一座岛屿、自成一体"
 authors:
   zh: "约翰·多恩"

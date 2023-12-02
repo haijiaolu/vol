@@ -1,8 +1,9 @@
 ---
 name: "迪兰·托马斯-不要温和地走进那良夜"
-title: "Do not go gentle into that good night"
+title: "托马斯-《不要温和地走进那良夜》（Do Not Go Gentle Into That Good Night）"
 author: "Dylan Thomas"
 titles:
+  en: "Do Not Go Gentle Into That Good Night"
   zh: "不要温和地走进那良夜"
 authors:
   zh: "迪兰·托马斯"
@@ -19,7 +20,7 @@ tags: ["文章/诗歌"]
 
 # Dylan Thomas / 迪兰·托马斯
 
-## Do not go gentle into that good night / 不要温和地走进那良夜
+## Do Not Go Gentle Into That Good Night / 不要温和地走进那良夜
 
 ### 正文
 

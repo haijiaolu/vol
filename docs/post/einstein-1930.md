@@ -1,6 +1,6 @@
 ---
 name: "爱因斯坦-我的世界观"
-title: "我的世界观"
+title: "爱因斯坦-《我的世界观》"
 author: "Albert Einstein"
 titles:
   zh: "我的世界观"

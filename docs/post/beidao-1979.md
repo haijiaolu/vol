@@ -1,6 +1,6 @@
 ---
 name: "北岛-太阳城札记"
-title: "太阳城札记"
+title: "北岛-《太阳城札记》"
 author: "北岛"
 date: "1979"
 created: ""

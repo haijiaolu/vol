@@ -1,6 +1,6 @@
 ---
 name: "刘亚洲-人民不再需要伟大的领袖"
-title: "人民不再需要伟大的领袖"
+title: "刘亚洲-《人民不再需要伟大的领袖》"
 author: "刘亚洲"
 date: "2016"
 created: ""
@@ -9,7 +9,7 @@ draft: false
 read: "0"
 sources:
   - "https://wenku.baidu.com/view/5770e2ecabea998fcc22bcd126fff705cd175c2b.html"
-tags: ["文章/散文"]
+tags: ["文章/评论"]
 ---
 
 # 刘亚洲

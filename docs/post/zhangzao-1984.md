@@ -1,6 +1,6 @@
 ---
 name: "张枣-镜中"
-title: "镜中"
+title: "张枣-《镜中》"
 author: "张枣"
 date: "1984"
 created: ""

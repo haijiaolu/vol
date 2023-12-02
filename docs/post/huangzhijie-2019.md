@@ -1,6 +1,6 @@
 ---
 name: "黄志杰-甘柴劣火"
-title: "甘柴劣火"
+title: "黄志杰-《甘柴劣火》"
 author: "黄志杰"
 date: "2019/01/11"
 created: ""

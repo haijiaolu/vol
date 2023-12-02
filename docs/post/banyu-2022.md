@@ -1,7 +1,9 @@
 ---
 name: "班宇-漫长的"
-title: "漫长的"
+title: "班宇-《漫长的》"
 author: "班宇"
+titles: 
+  zh: "漫长的"
 date: "2022"
 created: ""
 updated: ""
