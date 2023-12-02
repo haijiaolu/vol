@@ -10,6 +10,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/数学家/英国"]
+slug: "gh-hardy"
 ---
 
 # Godfrey Harold Hardy（戈弗雷·哈罗德·哈代）

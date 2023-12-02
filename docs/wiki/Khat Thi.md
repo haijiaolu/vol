@@ -11,6 +11,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/诗人/缅甸"]
+slug: "khat-thi"
 ---
 
 # ခက်သီ（克席，Khat Thi）

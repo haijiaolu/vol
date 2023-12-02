@@ -10,6 +10,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/统计学家/印度"]
+slug: "cr-rao"
 ---
 
 # Calyampudi Radhakrishna Rao（卡利安普迪·拉达克里希纳·劳，C.R.Rao）

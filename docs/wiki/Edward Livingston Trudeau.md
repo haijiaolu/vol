@@ -10,6 +10,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/医师/美国"]
+slug: "edward-livingston-trudeau"
 ---
 
 # Edward Livingston Trudeau（爱德华·利文斯顿·特鲁多）

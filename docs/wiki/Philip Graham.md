@@ -10,6 +10,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/记者/美国"]
+slug: "philip-graham"
 ---
 
 # Philip Leslie Graham（菲利普·莱斯利·格雷厄姆）

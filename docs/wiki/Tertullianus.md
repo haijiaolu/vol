@@ -10,6 +10,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/哲学家/罗马"]
+slug: "tertullianus"
 ---
 
 # Tertullianus（德尔图良，特图里安，特土良）

@@ -10,6 +10,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/软件工程师/美国"]
+slug: "phil-karlton"
 ---
 
 # Phil Karlton（菲尔·卡尔顿）

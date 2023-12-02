@@ -10,6 +10,7 @@ updated: ""
 draft: false
 read: "1"
 tags: ["人物/作家/中国/网络"]
+slug: "prist"
 ---
 
 # Prist（刘垚）
