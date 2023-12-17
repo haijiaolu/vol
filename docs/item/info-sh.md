@@ -100,7 +100,19 @@ tags: ["汇总/新知"]
   - 理论出处可疑，和布热津斯基可能毫无关系
   - [为什么“奶头乐”是一个不值得重视的“理论”，方可成](https://zhuanlan.zhihu.com/p/44412694)
 
+- **第一性原理** （First principle thinking）
+
+> 亚里士多德：「在每个系统探索中都存在第一性原理。
+> 第一性原理是基本的命题和假设，不能被省略和删除，也不能被违反。」
+
+> [埃隆·马斯克](../post/musk-2013.md)：「I do think there's a good framework for thinking. 
+> It is physics. You know, the sort of first principles reasoning. 
+> Generally I think there are -- what I mean by that is, boil things down 
+> to their fundamental truths and reason up from there, as opposed to 
+> reasoning by analogy. 」
+
 ### 心理学
+
 - **普卢奇克情绪轮**（Emotion Wheel）
   - ![](../assets/image/plutchik_emotion_wheel.png)
 
