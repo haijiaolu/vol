@@ -74,6 +74,7 @@ tags: ["汇总/字词"]
   - （L337, 3L337, 31337, leetspeak, eleet, Leetors, L3370rz, 1337）
 - `Pwn`: 黑客俚语，类似“砰”，指破坏设备或系统后获得管理权限。
 - `jovyan`: Jovian means "related to Jupiter", ergo jovyan and Jupyter.an inhabitant of Jupyter. [GitHub - Who is jovyan?](https://github.com/jupyter/docker-stacks/issues/358)
+- `sonder`: “过客感”，John Koenig自制词汇。[相关](../post/koenig-2016.md)
 
 - `w/o`: without；
 - `w/`: with；
