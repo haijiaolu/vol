@@ -142,16 +142,21 @@ const config = {
         minHeadingLevel: 2,
         maxHeadingLevel: 4,
       },
-      algolia: {
-        appId: 'ZQ4IG0IHRI',
-        apiKey: '846799ba63be4636255565cb7dfe34d3',
-        indexName: 'vol'
-      },
     }),
     markdown: {
       format: 'detect',
       mermaid: true,
-    }
+    },
+    themes: [
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+        ({
+          hashed: true,
+          language: ["en", "zh"],
+        }),
+      ],
+    ],
 };
 
 export default config;
